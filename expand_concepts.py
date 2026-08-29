@@ -14,8 +14,8 @@ taxonomy to the depth you want, then generate the dataset over it.
     # Verify the loop with synthetic concepts (writes nothing unless you drop --dry-run):
     python expand_concepts.py --backend mock --target 40 --dry-run
 
-    # Real expansion against a local Qwen/Gemma endpoint:
-    python expand_concepts.py --backend local --model Qwen/Qwen2.5-14B-Instruct --target 40
+    # Real expansion against a local teacher endpoint:
+    python expand_concepts.py --backend local --model Qwen/Qwen3.8-27B --target 40
 
 Each discipline file is rewritten atomically the moment it reaches target, so
 the pass is safely resumable: rerun and disciplines already at target are

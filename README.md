@@ -26,10 +26,10 @@ pip install -r requirements.txt
 python distillation_engine.py --backend mock --limit 20
 
 # 2. Optionally deepen the taxonomy against your teacher endpoint first:
-python expand_concepts.py --backend local --model Qwen/Qwen2.5-14B-Instruct --target 40
+python expand_concepts.py --backend local --model Qwen/Qwen3.8-27B --target 40
 
 # 3. Generate the dataset:
-python distillation_engine.py --backend local --model Qwen/Qwen2.5-14B-Instruct
+python distillation_engine.py --backend local --model Qwen/Qwen3.8-27B
 ```
 
 Backends: `mock` (no dependencies, structural verification), `local` (any

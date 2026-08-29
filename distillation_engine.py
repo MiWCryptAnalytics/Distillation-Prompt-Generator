@@ -12,14 +12,14 @@ Backends (selected with --backend):
     mock   Instant dummy responses. Verifies the taxonomy loop, checkpointing,
            and schema generation without any endpoint or extra dependencies.
     local  OpenAI-compatible endpoint on localhost (vLLM / TGI / llama.cpp
-           server hosting e.g. Qwen-2.5-14B or Gemma-2-9B).
+           server hosting an open-weights teacher, e.g. Qwen3.8-27B).
     cloud  Any hosted OpenAI-compatible API (requires an API key in the
            environment; see --api-key-env).
 
 Usage:
     python distillation_engine.py --backend mock --limit 12
     python distillation_engine.py --backend local \
-        --base-url http://localhost:8000/v1 --model Qwen/Qwen2.5-14B-Instruct
+        --base-url http://localhost:8000/v1 --model Qwen/Qwen3.8-27B
     python distillation_engine.py --backend cloud \
         --base-url https://api.example.com/v1 --model my-teacher \
         --api-key-env TEACHER_API_KEY
