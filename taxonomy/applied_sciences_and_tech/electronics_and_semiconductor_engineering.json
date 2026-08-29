@@ -1,0 +1,12 @@
+{
+  "domain": "Applied Sciences & Tech",
+  "discipline": "Electronics & Semiconductor Engineering",
+  "concepts": [
+    "MOSFET Subthreshold Leakage",
+    "Phase-Locked Loop Jitter",
+    "Signal Integrity and Impedance Matching",
+    "Analog-to-Digital Quantization Noise",
+    "Electromigration in Interconnects",
+    "Bandgap Voltage Reference Drift"
+  ]
+}

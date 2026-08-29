@@ -1,0 +1,12 @@
+{
+  "domain": "Applied Sciences & Tech",
+  "discipline": "Manufacturing & Industrial Engineering",
+  "concepts": [
+    "Statistical Process Control Drift",
+    "Tolerance Stack-Up Accumulation",
+    "Just-in-Time Inventory Starvation",
+    "Additive Manufacturing Residual Stress",
+    "Theory-of-Constraints Bottlenecks",
+    "CNC Tool Path Chatter"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "domain": "Economics & Money",
+  "discipline": "Auction & Market Design",
+  "concepts": [
+    "Winner's Curse",
+    "Vickrey Truthful Bidding",
+    "Matching Market Stability",
+    "Bid Shading in First-Price Auctions",
+    "Spectrum Auction Design",
+    "Two-Sided Platform Pricing"
+  ]
+}

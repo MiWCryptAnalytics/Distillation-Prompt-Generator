@@ -1,0 +1,12 @@
+{
+  "domain": "Applied Sciences & Tech",
+  "discipline": "Instrumentation & Metrology",
+  "concepts": [
+    "Calibration Traceability and Drift",
+    "Measurement Uncertainty Propagation",
+    "Sensor Hysteresis and Nonlinearity",
+    "Signal Conditioning Noise Floor",
+    "Sampling and Aliasing",
+    "Gauge Repeatability and Reproducibility"
+  ]
+}

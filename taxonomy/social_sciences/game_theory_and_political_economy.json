@@ -1,0 +1,11 @@
+{
+  "domain": "Social Sciences",
+  "discipline": "Game Theory & Political Economy",
+  "concepts": [
+    "Nash Equilibrium Refinements",
+    "Mechanism Design Incentive Compatibility",
+    "Arrow's Impossibility Theorem",
+    "Principal-Agent Contract Failures",
+    "Repeated Game Folk Theorems"
+  ]
+}

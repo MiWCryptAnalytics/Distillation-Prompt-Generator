@@ -1,0 +1,12 @@
+{
+  "domain": "Formal Sciences",
+  "discipline": "Combinatorial & Algorithmic Game Theory",
+  "concepts": [
+    "Sprague-Grundy Nim Values",
+    "Price of Anarchy",
+    "Zermelo Backward Induction",
+    "Combinatorial Game Sums",
+    "Nash Equilibrium Computation Complexity",
+    "Approximate Mechanism Design"
+  ]
+}

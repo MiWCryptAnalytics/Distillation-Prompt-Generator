@@ -1,0 +1,12 @@
+{
+  "domain": "Applied Sciences & Tech",
+  "discipline": "Software Engineering",
+  "concepts": [
+    "Technical Debt Accumulation",
+    "Race Conditions in Concurrent Code",
+    "API Backward-Compatibility Contracts",
+    "Diamond Dependency Version Conflicts",
+    "Continuous Integration Pipeline Bottlenecks",
+    "Memory Leaks in Long-Running Services"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "domain": "Applied Sciences & Tech",
+  "discipline": "Embedded Systems",
+  "concepts": [
+    "Real-Time Scheduling and Deadlines",
+    "Interrupt Latency and Priority Inversion",
+    "Memory-Mapped I/O",
+    "Watchdog Fault Recovery",
+    "Power Management Sleep States",
+    "Firmware Update Integrity"
+  ]
+}

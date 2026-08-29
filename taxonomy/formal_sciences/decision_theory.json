@@ -1,0 +1,12 @@
+{
+  "domain": "Formal Sciences",
+  "discipline": "Decision Theory",
+  "concepts": [
+    "Expected Utility and Its Violations",
+    "Allais and Ellsberg Paradoxes",
+    "Bayesian versus Frequentist Decisions",
+    "Minimax and Regret",
+    "Sequential Stopping",
+    "Multi-Criteria Tradeoffs"
+  ]
+}

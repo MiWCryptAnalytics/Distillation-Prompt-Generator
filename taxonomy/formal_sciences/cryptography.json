@@ -1,0 +1,12 @@
+{
+  "domain": "Formal Sciences",
+  "discipline": "Cryptography",
+  "concepts": [
+    "Zero-Knowledge Proof Soundness",
+    "Elliptic Curve Pairing-Based Signatures",
+    "Lattice-Based Key Encapsulation",
+    "Differential Cryptanalysis",
+    "Verifiable Delay Functions",
+    "Threshold Signature Schemes"
+  ]
+}

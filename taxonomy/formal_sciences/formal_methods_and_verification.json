@@ -1,0 +1,12 @@
+{
+  "domain": "Formal Sciences",
+  "discipline": "Formal Methods & Verification",
+  "concepts": [
+    "Hoare Logic and Loop Invariants",
+    "Model Checking State Explosion",
+    "SAT and SMT Solving",
+    "Abstract Interpretation",
+    "Temporal Logic Specification",
+    "Refinement and Bisimulation"
+  ]
+}

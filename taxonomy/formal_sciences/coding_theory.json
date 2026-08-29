@@ -1,0 +1,12 @@
+{
+  "domain": "Formal Sciences",
+  "discipline": "Coding Theory",
+  "concepts": [
+    "Hamming Distance and Error Bounds",
+    "Linear Codes and Generator Matrices",
+    "Reed-Solomon Decoding",
+    "Capacity versus Practical Codes",
+    "LDPC Belief Propagation",
+    "Cyclic Codes and Syndromes"
+  ]
+}

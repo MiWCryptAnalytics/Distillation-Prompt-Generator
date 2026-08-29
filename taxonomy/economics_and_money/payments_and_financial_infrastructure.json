@@ -1,0 +1,12 @@
+{
+  "domain": "Economics & Money",
+  "discipline": "Payments & Financial Infrastructure",
+  "concepts": [
+    "Settlement Finality and Netting",
+    "Real-Time Gross Settlement",
+    "Interchange and Payment Rails",
+    "Double-Spend Prevention",
+    "Correspondent Banking",
+    "Fraud Detection and Chargebacks"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "domain": "Applied Sciences & Tech",
+  "discipline": "Quantum Computing Engineering",
+  "concepts": [
+    "Gate Fidelity and Crosstalk",
+    "Qubit Coherence Time Limits",
+    "Surface Code Error Correction",
+    "Readout Measurement Error",
+    "Cryogenic Control Wiring",
+    "Quantum-Classical Hybrid Latency"
+  ]
+}

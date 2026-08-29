@@ -1,0 +1,12 @@
+{
+  "domain": "Applied Sciences & Tech",
+  "discipline": "Computer Vision",
+  "concepts": [
+    "Convolutional Feature Hierarchies",
+    "Optical Flow Estimation",
+    "Camera Calibration and Distortion",
+    "Occlusion and Depth Ambiguity",
+    "Adversarial Perturbations",
+    "Domain Shift and Generalization"
+  ]
+}

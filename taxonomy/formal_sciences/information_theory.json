@@ -1,0 +1,12 @@
+{
+  "domain": "Formal Sciences",
+  "discipline": "Information Theory",
+  "concepts": [
+    "Shannon Entropy and Source Coding",
+    "Channel Capacity and Noisy Coding",
+    "Rate-Distortion Tradeoffs",
+    "Mutual Information and Data Processing",
+    "Error-Correcting Code Minimum Distance",
+    "Kullback-Leibler Divergence"
+  ]
+}

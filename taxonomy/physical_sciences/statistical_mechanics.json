@@ -1,0 +1,12 @@
+{
+  "domain": "Physical Sciences",
+  "discipline": "Statistical Mechanics",
+  "concepts": [
+    "Partition Functions and Ensembles",
+    "The Boltzmann Distribution",
+    "Order Parameters and Phase Transitions",
+    "Fluctuation-Dissipation Theorem",
+    "Ising Critical Exponents",
+    "Entropy and Microstates"
+  ]
+}

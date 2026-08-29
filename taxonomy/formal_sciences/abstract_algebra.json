@@ -1,0 +1,12 @@
+{
+  "domain": "Formal Sciences",
+  "discipline": "Abstract Algebra",
+  "concepts": [
+    "Group Homomorphisms and Quotients",
+    "Galois Correspondence and Solvability",
+    "Ring Ideals and Quotient Rings",
+    "Field Extensions and Splitting Fields",
+    "Representation Theory Characters",
+    "Modules over Principal Ideal Domains"
+  ]
+}

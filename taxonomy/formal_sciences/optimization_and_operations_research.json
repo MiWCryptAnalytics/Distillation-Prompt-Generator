@@ -1,0 +1,12 @@
+{
+  "domain": "Formal Sciences",
+  "discipline": "Optimization & Operations Research",
+  "concepts": [
+    "Linear Programming Duality",
+    "Convexity and Local versus Global Optima",
+    "KKT Conditions and Lagrange Multipliers",
+    "Gradient Descent Convergence Rates",
+    "Integer Programming Hardness",
+    "Simplex Degeneracy and Cycling"
+  ]
+}

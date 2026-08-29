@@ -1,0 +1,12 @@
+{
+  "domain": "Formal Sciences",
+  "discipline": "Combinatorics",
+  "concepts": [
+    "Generating Functions and Recurrences",
+    "Inclusion-Exclusion Principle",
+    "Extremal Set Systems",
+    "Bijective Enumeration Proofs",
+    "Partition Theory and Young Tableaux",
+    "The Probabilistic Method"
+  ]
+}

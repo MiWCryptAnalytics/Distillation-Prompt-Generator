@@ -1,0 +1,12 @@
+{
+  "domain": "Physical Sciences",
+  "discipline": "Fluid Dynamics",
+  "concepts": [
+    "Kelvin-Helmholtz Instability",
+    "Kolmogorov Turbulent Energy Cascade",
+    "Boundary Layer Transition to Turbulence",
+    "Rankine-Hugoniot Shock Jumps",
+    "Rayleigh-Bénard Convection Onset",
+    "von Kármán Vortex Shedding"
+  ]
+}

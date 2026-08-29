@@ -1,0 +1,12 @@
+{
+  "domain": "Applied Sciences & Tech",
+  "discipline": "Reliability & Safety Engineering",
+  "concepts": [
+    "Weibull Failure Rate Modeling",
+    "Fault Tree Minimal Cut Sets",
+    "FMEA Risk Priority Ranking",
+    "Bathtub Curve Burn-In",
+    "Redundancy and Common-Cause Failure",
+    "HAZOP Deviation Analysis"
+  ]
+}

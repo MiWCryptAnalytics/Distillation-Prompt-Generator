@@ -1,0 +1,12 @@
+{
+  "domain": "Formal Sciences",
+  "discipline": "Algebraic Topology",
+  "concepts": [
+    "Homotopy versus Homology",
+    "Fundamental Group Computation",
+    "Exact Sequences and Functoriality",
+    "Cohomology Rings",
+    "Fiber Bundles and Classifying Spaces",
+    "Euler Characteristic Invariance"
+  ]
+}

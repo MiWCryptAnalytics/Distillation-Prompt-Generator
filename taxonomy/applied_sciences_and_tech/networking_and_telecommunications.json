@@ -1,0 +1,12 @@
+{
+  "domain": "Applied Sciences & Tech",
+  "discipline": "Networking & Telecommunications",
+  "concepts": [
+    "TCP Congestion Collapse",
+    "BGP Route Flapping and Convergence",
+    "OFDM Subcarrier Interference",
+    "Head-of-Line Blocking",
+    "DNS Cache Poisoning",
+    "MIMO Spatial Multiplexing"
+  ]
+}

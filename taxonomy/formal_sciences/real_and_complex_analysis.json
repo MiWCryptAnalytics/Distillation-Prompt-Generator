@@ -1,0 +1,12 @@
+{
+  "domain": "Formal Sciences",
+  "discipline": "Real & Complex Analysis",
+  "concepts": [
+    "Uniform versus Pointwise Convergence",
+    "Lebesgue Measure and Integration",
+    "Analytic Continuation and Branch Cuts",
+    "Cauchy Residue Theorem",
+    "Compactness and Heine-Borel",
+    "Fourier Convergence and the Gibbs Phenomenon"
+  ]
+}

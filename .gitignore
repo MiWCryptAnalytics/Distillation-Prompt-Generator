@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Generated datasets and run state (regenerate with the engine)
+*.checkpoint.jsonl
+*.calls.jsonl
+adversarial_distillation_dataset*.json
+*.json.tmp
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store

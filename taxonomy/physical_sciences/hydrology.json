@@ -1,0 +1,12 @@
+{
+  "domain": "Physical Sciences",
+  "discipline": "Hydrology",
+  "concepts": [
+    "Infiltration-Runoff Partitioning",
+    "Baseflow and Aquifer Recharge",
+    "Evapotranspiration Balance",
+    "Flood Wave Routing",
+    "Snowmelt Dynamics",
+    "Rainfall-Runoff Nonlinearity"
+  ]
+}

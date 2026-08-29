@@ -1,0 +1,12 @@
+{
+  "domain": "Interdisciplinary & Emerging Sciences",
+  "discipline": "Data Science",
+  "concepts": [
+    "Overfitting and Cross-Validation",
+    "Feature Leakage",
+    "Class Imbalance and Sampling Bias",
+    "Dimensionality Reduction Distortion",
+    "Spurious Correlation and Confounding",
+    "Concept Drift"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "domain": "Applied Sciences & Tech",
+  "discipline": "Systems Architecture",
+  "concepts": [
+    "Distributed Consensus",
+    "Memory Caching Latency",
+    "Write-Ahead Logging",
+    "Byzantine Fault Tolerance",
+    "Event Sourcing and CQRS",
+    "Lock-Free Concurrency"
+  ]
+}

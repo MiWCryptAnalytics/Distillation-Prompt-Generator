@@ -1,0 +1,12 @@
+{
+  "domain": "Physical Sciences",
+  "discipline": "Electromagnetism",
+  "concepts": [
+    "Displacement Current and Maxwell Closure",
+    "Skin Effect in Conductors",
+    "Waveguide Cutoff Frequencies",
+    "Radiation Reaction on Accelerating Charges",
+    "Magnetic Reconnection",
+    "Dielectric Breakdown"
+  ]
+}

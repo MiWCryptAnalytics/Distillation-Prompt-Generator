@@ -1,0 +1,12 @@
+{
+  "domain": "Economics & Money",
+  "discipline": "Cryptocurrency & Decentralized Finance",
+  "concepts": [
+    "Proof-of-Work versus Proof-of-Stake Security",
+    "Automated Market Maker Slippage",
+    "Impermanent Loss in Liquidity Pools",
+    "MEV and Front-Running",
+    "Stablecoin Peg Mechanisms and Depegs",
+    "Oracle Manipulation Attacks"
+  ]
+}

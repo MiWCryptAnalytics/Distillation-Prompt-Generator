@@ -1,0 +1,12 @@
+{
+  "domain": "Interdisciplinary & Emerging Sciences",
+  "discipline": "Bioinformatics & Computational Biology",
+  "concepts": [
+    "Sequence Alignment and Homology",
+    "Phylogenetic Tree Inference",
+    "Protein Structure Prediction",
+    "Variant Calling Error Models",
+    "Gene Expression Clustering",
+    "Multiple Testing in Genomics"
+  ]
+}

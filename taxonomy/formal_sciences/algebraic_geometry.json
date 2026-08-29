@@ -1,0 +1,12 @@
+{
+  "domain": "Formal Sciences",
+  "discipline": "Algebraic Geometry",
+  "concepts": [
+    "Affine Varieties and Ideals",
+    "The Nullstellensatz",
+    "Schemes and Sheaves",
+    "Divisors and Line Bundles",
+    "Resolution of Singularities",
+    "Intersection Multiplicity"
+  ]
+}

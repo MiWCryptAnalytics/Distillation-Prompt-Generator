@@ -1,0 +1,11 @@
+{
+  "domain": "Applied Sciences & Tech",
+  "discipline": "Control Systems & Robotics",
+  "concepts": [
+    "PID Loop Tuning Stability",
+    "Kalman Filter State Estimation",
+    "SLAM Loop Closure",
+    "Inverse Kinematics Singularities",
+    "Model Predictive Control Horizons"
+  ]
+}

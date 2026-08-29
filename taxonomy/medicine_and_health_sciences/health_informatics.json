@@ -1,0 +1,12 @@
+{
+  "domain": "Medicine & Health Sciences",
+  "discipline": "Health Informatics",
+  "concepts": [
+    "EHR Interoperability Standards",
+    "Clinical Decision Support Alert Fatigue",
+    "Diagnostic Coding Drift",
+    "De-Identification and Re-Identification Risk",
+    "Clinical Terminology Mapping",
+    "Secondary-Use Data Quality"
+  ]
+}

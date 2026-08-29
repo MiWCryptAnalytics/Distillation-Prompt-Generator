@@ -1,0 +1,12 @@
+{
+  "domain": "Social Sciences",
+  "discipline": "Survey Methodology & Social Statistics",
+  "concepts": [
+    "Sampling Frame Coverage Error",
+    "Nonresponse Bias Adjustment",
+    "Question Wording Effects",
+    "Weighting and Post-Stratification",
+    "Panel Attrition",
+    "Mode Effects in Collection"
+  ]
+}

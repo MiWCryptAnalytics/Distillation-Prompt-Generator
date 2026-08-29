@@ -1,0 +1,11 @@
+{
+  "domain": "Formal Sciences",
+  "discipline": "Theory of Computation",
+  "concepts": [
+    "NP-Completeness Reductions",
+    "Interactive Proof Systems",
+    "Kolmogorov Complexity",
+    "The PCP Theorem",
+    "Circuit Lower Bounds"
+  ]
+}

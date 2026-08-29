@@ -1,0 +1,12 @@
+{
+  "domain": "Applied Sciences & Tech",
+  "discipline": "Surveying & Geomatics",
+  "concepts": [
+    "GNSS Multipath Error",
+    "LiDAR Point Cloud Registration",
+    "Geodetic Datum Transformation",
+    "Photogrammetric Bundle Adjustment",
+    "Total Station Angular Closure Error",
+    "InSAR Phase Unwrapping"
+  ]
+}

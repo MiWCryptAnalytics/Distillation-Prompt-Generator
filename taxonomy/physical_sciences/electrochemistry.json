@@ -1,0 +1,12 @@
+{
+  "domain": "Physical Sciences",
+  "discipline": "Electrochemistry",
+  "concepts": [
+    "Nernst Potential Shifts",
+    "Electrical Double Layer Capacitance",
+    "Butler-Volmer Overpotential Kinetics",
+    "Galvanic Corrosion Coupling",
+    "Electrodeposition Nucleation",
+    "Concentration Polarization"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "domain": "Formal Sciences",
+  "discipline": "Functional Analysis",
+  "concepts": [
+    "Banach and Hilbert Spaces",
+    "Bounded Linear Operators",
+    "The Spectral Theorem",
+    "Dual Spaces and Weak Convergence",
+    "Compact Operators",
+    "Hahn-Banach Extension"
+  ]
+}

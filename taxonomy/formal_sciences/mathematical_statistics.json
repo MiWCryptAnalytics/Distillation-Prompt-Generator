@@ -1,0 +1,12 @@
+{
+  "domain": "Formal Sciences",
+  "discipline": "Mathematical Statistics",
+  "concepts": [
+    "Maximum Likelihood Estimation Bias",
+    "Type I and Type II Error Tradeoffs",
+    "Bayesian Posterior Inference",
+    "Confidence Interval Coverage",
+    "Bootstrap Resampling",
+    "Bias-Variance Decomposition"
+  ]
+}

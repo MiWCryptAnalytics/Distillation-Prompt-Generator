@@ -1,0 +1,12 @@
+{
+  "domain": "Formal Sciences",
+  "discipline": "Measure Theory",
+  "concepts": [
+    "Sigma-Algebras and Measurability",
+    "Measure Zero and Almost Everywhere",
+    "Dominated Convergence",
+    "Radon-Nikodym Derivatives",
+    "Non-Measurable Vitali Sets",
+    "Product Measures and Fubini"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "domain": "Applied Sciences & Tech",
+  "discipline": "Data Engineering & Databases",
+  "concepts": [
+    "ACID Transaction Isolation Anomalies",
+    "Query Optimizer Cardinality Estimation",
+    "Data Skew in Distributed Joins",
+    "Change Data Capture Consistency",
+    "B-Tree Index Fragmentation",
+    "Online Schema Migration"
+  ]
+}

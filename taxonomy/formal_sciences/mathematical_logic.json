@@ -1,0 +1,11 @@
+{
+  "domain": "Formal Sciences",
+  "discipline": "Mathematical Logic",
+  "concepts": [
+    "Gödel Incompleteness Constructions",
+    "Sequent Calculus Cut Elimination",
+    "Model-Theoretic Compactness",
+    "Type Theory Normalization",
+    "Forcing and Independence Proofs"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "domain": "Applied Sciences & Tech",
+  "discipline": "Cybersecurity Engineering",
+  "concepts": [
+    "Buffer Overflow Exploitation",
+    "Side-Channel Timing Attacks",
+    "Privilege Escalation Chains",
+    "Certificate Chain Validation Failures",
+    "Supply Chain Dependency Compromise",
+    "Zero-Trust Lateral Movement Containment"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "domain": "Formal Sciences",
+  "discipline": "Differential Equations",
+  "concepts": [
+    "Picard-Lindelöf Existence and Uniqueness",
+    "Stiff Equations and Stability",
+    "Elliptic-Parabolic-Hyperbolic Classification",
+    "Green's Functions for Boundary Value Problems",
+    "Method of Characteristics and Shocks",
+    "Sturm-Liouville Eigenvalue Problems"
+  ]
+}

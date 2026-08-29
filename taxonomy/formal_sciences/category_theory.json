@@ -1,0 +1,12 @@
+{
+  "domain": "Formal Sciences",
+  "discipline": "Category Theory",
+  "concepts": [
+    "Functors and Natural Transformations",
+    "Adjoint Functor Pairs",
+    "Universal Properties and Limits",
+    "Monads and Kleisli Composition",
+    "The Yoneda Lemma",
+    "Cartesian Closed Categories"
+  ]
+}

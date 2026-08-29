@@ -1,0 +1,12 @@
+{
+  "domain": "Economics & Money",
+  "discipline": "Investment & Portfolio Management",
+  "concepts": [
+    "Mean-Variance Optimization",
+    "Factor Risk Premia",
+    "Rebalancing and Transaction Costs",
+    "Sequence-of-Returns Risk",
+    "Alpha Decay in Active Management",
+    "Tail Hedging"
+  ]
+}

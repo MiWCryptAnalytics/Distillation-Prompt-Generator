@@ -1,0 +1,12 @@
+{
+  "domain": "Formal Sciences",
+  "discipline": "Numerical Analysis",
+  "concepts": [
+    "Catastrophic Floating-Point Cancellation",
+    "Condition Number and Ill-Posedness",
+    "Newton's Method Convergence and Divergence",
+    "Numerical Stability of Integrators",
+    "Krylov Iterative Solver Convergence",
+    "Runge's Phenomenon in Interpolation"
+  ]
+}

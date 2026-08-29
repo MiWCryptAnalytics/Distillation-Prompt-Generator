@@ -1,0 +1,12 @@
+{
+  "domain": "Interdisciplinary & Emerging Sciences",
+  "discipline": "Computational Linguistics & NLP",
+  "concepts": [
+    "Distributional Semantics",
+    "Subword Tokenization Tradeoffs",
+    "Parsing Ambiguity Resolution",
+    "Low-Resource Language Transfer",
+    "Hallucination in Generation",
+    "Coreference Resolution"
+  ]
+}

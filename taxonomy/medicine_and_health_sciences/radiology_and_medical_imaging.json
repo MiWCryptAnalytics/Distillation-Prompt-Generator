@@ -1,0 +1,12 @@
+{
+  "domain": "Medicine & Health Sciences",
+  "discipline": "Radiology & Medical Imaging",
+  "concepts": [
+    "CT Hounsfield Attenuation",
+    "MRI T1/T2 Relaxation Contrast",
+    "Ultrasound Acoustic Impedance",
+    "PET Tracer Uptake Kinetics",
+    "Image Artifacts and Misregistration",
+    "ALARA Dose Optimization"
+  ]
+}

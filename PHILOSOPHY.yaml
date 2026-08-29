@@ -1,0 +1,120 @@
+# Machine-readable statement of design philosophy and research direction.
+# Consumed by humans, agents, and tooling (e.g. as grounding context for
+# meta-generation or QA passes). Update when the direction changes, not per round.
+
+meta:
+  project: adversarial-knowledge-distillation-pipeline
+  artifact: training dataset of multi-turn adversarial conversations
+  purpose: >
+    Distill the deep reasoning ("dark knowledge") of large teacher models into
+    open-weights student models by forcing teachers past surface explanations
+    into mechanisms, failure modes, trade-offs, and edge cases.
+  status: taxonomy complete; concept expansion and generation pending
+  last_updated: 2026-08-29
+
+research_direction:
+  target_scale:
+    items: ">= 100,000 two-turn conversations"
+    formula: "items = concepts x trajectories; teacher_calls = items x 2"
+  current_counts:
+    domains: 11
+    disciplines: 367
+    seed_concepts: 2180
+    trajectories: 12
+  next_steps:
+    - run expand_concepts.py to grow disciplines toward 30-60 concepts each
+    - QA pass over generated concepts (dedup, grain check)
+    - concept-level audits against MSC 2020, MeSH, CPC (see taxonomy/_audits.md)
+    - full generation run against a self-hosted teacher
+
+design_principles:
+  - principle: breadth over depth
+    rationale: >
+      Coverage of the full space of human expertise matters more than
+      exhaustive depth in any field; depth is recovered later by automated
+      concept expansion, breadth cannot be.
+  - principle: mechanism-grain concepts
+    rationale: >
+      Every concept is a specific mechanism, phenomenon, named result, failure
+      mode, or technique -- never a broad topic. Adversarial prompts only bite
+      at this grain.
+    good_example: "Xenon-135 Poisoning Transients"
+    bad_example: "Nuclear Reactors"
+  - principle: adversarial trajectories over factual recall
+    rationale: >
+      Prompts demand failure analysis, boundary conditions, quantitative
+      scaling, misconception diagnosis, and cross-domain transfer -- the
+      reasoning structures a teacher model holds but rarely surfaces in
+      benign Q&A.
+  - principle: hand-curated skeleton, machine-generated leaves
+    rationale: >
+      Humans (with AI assistance) own the domain/discipline structure where
+      taste and boundary judgment matter; the teacher model generates concept
+      leaves at scale, constrained by dedup and schema validation.
+  - principle: audit against external catalogs, not intuition
+    rationale: >
+      Coverage claims are checked against independent classification systems
+      built by libraries, economists, labor departments, and regulators.
+      Saturation is declared when new catalogs stop finding gaps.
+  - principle: deterministic, resumable, validated pipeline
+    rationale: >
+      Content-derived item ids, per-item checkpointing, atomic writes, and
+      Pydantic schema enforcement make every run resumable and every output
+      trustworthy; taxonomy edits regenerate only what changed.
+
+taxonomy:
+  layout: "taxonomy/<domain_folder>/<discipline>.json"
+  file_schema:
+    domain: display name (one domain per folder, enforced)
+    discipline: display name (unique within domain, enforced)
+    concepts: list of mechanism-grain concept names (deduped, non-blank)
+  documentation:
+    format_rules: taxonomy/README.md
+    per_domain_coverage_maps: taxonomy/<domain>/_coverage.md
+    audit_registry: taxonomy/_audits.md
+  boundary_conventions:
+    - theory vs practice split across domains (e.g. physics Optics vs applied
+      Photonics; clinical psychology theory vs psychotherapy practice)
+    - engineering treatments live in Applied Sciences & Tech; basic science in
+      Physical/Life Sciences; clinical treatment in Medicine & Health Sciences
+    - interdisciplinary fields earn a discipline only where the synthesis
+      produces concepts neither parent holds
+    - "deliberately excluded: procedurally thin occupations (office/admin
+      support, cleaning, serving) with little expert reasoning to extract"
+
+trajectories:
+  count: 12
+  intent_by_family:
+    interrogative_six: [who_agency, what_mechanics, where_boundaries,
+                        when_dependencies, why_teleology, how_adversarial]
+    analytic_six: [compare_contrast, historical_evolution, quantitative_scaling,
+                   cross_domain_transfer, misconception_diagnosis,
+                   operationalization]
+  style_constraints:
+    - ban surface analogies, definitions, and encyclopedia framing
+    - demand edge cases, cascade analysis, and diagnostic signals
+    - "two turns: foundational grounding, then the adversarial probe"
+
+quality_criteria:
+  concept_acceptance:
+    - short noun phrase, under ~8 words
+    - names a mechanism/result/failure-mode an expert would recognize
+    - not a duplicate (case-insensitive) within its discipline
+    - specific enough that all 12 trajectories produce distinct prompts
+  dataset_item:
+    - exactly 4 messages, roles user/assistant/user/assistant
+    - full metadata: domain, discipline, concept, trajectory
+    - deterministic id = sha256(domain|discipline|concept|trajectory)
+
+ethics_and_licensing:
+  teacher_models: >
+    Use only teachers whose license permits training on outputs (self-hosted
+    open-weights recommended). Anthropic and several other API providers
+    prohibit distillation into competing models.
+  adversarial_framing: >
+    "Exploit" and "failure" trajectories are pedagogical devices aimed at
+    academic concepts; generated content should be reviewed before release.
+  traditional_knowledge: >
+    Disciplines covering traditional/indigenous knowledge systems are framed
+    descriptively and critically (evidence hierarchies included), not as
+    endorsement.

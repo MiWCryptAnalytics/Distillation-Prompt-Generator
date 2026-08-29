@@ -1,0 +1,12 @@
+{
+  "domain": "Formal Sciences",
+  "discipline": "Dynamical Systems & Chaos",
+  "concepts": [
+    "Lyapunov Exponents and Sensitivity",
+    "Bifurcation and Period Doubling",
+    "Strange Attractors and Fractal Dimension",
+    "Limit Cycles and Poincaré Maps",
+    "Ergodicity and Mixing",
+    "KAM Stability Theorem"
+  ]
+}

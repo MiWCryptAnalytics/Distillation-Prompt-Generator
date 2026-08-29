@@ -1,0 +1,12 @@
+{
+  "domain": "Economics & Money",
+  "discipline": "Quantitative & Computational Finance",
+  "concepts": [
+    "Stochastic Volatility Models",
+    "Monte Carlo Pricing Convergence",
+    "Backtest Overfitting",
+    "Alpha Crowding and Signal Decay",
+    "Execution Algorithms and Slippage",
+    "Regime Shifts and Model Risk"
+  ]
+}

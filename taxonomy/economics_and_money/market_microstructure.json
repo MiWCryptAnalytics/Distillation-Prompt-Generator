@@ -1,0 +1,12 @@
+{
+  "domain": "Economics & Money",
+  "discipline": "Market Microstructure",
+  "concepts": [
+    "Limit Order Book Dynamics",
+    "Adverse Selection in Quoting",
+    "Latency Arbitrage and Co-location",
+    "Market Maker Inventory Risk",
+    "Price Discovery and Information Share",
+    "Dark Pools and Fragmentation"
+  ]
+}

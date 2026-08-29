@@ -1,0 +1,11 @@
+{
+  "domain": "Formal Sciences",
+  "discipline": "Graph Theory",
+  "concepts": [
+    "Spectral Graph Partitioning",
+    "Expander Graph Mixing",
+    "Max-Flow Min-Cut Duality",
+    "Chromatic Polynomial Computation",
+    "Ramsey Number Bounds"
+  ]
+}

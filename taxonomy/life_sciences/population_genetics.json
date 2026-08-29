@@ -1,0 +1,12 @@
+{
+  "domain": "Life Sciences",
+  "discipline": "Population Genetics",
+  "concepts": [
+    "Hardy-Weinberg Equilibrium Deviation",
+    "Genetic Drift and Effective Population Size",
+    "Gene Flow and Migration",
+    "Linkage Disequilibrium Decay",
+    "Balancing Selection and Heterozygote Advantage",
+    "Selective Sweeps and Fixation Probability"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "domain": "Applied Sciences & Tech",
+  "discipline": "Signal Processing",
+  "concepts": [
+    "Nyquist Sampling and Aliasing",
+    "FFT Spectral Leakage",
+    "Filter Design Tradeoffs",
+    "Quantization Noise Shaping",
+    "Adaptive Filter Convergence",
+    "Group Delay and Phase Distortion"
+  ]
+}

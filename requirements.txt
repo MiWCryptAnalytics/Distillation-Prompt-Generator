@@ -1,0 +1,4 @@
+pydantic>=2.5
+tqdm>=4.66
+# Only required for --backend local/cloud (any OpenAI-compatible endpoint):
+openai>=1.30

@@ -1,0 +1,12 @@
+{
+  "domain": "Formal Sciences",
+  "discipline": "Differential Geometry",
+  "concepts": [
+    "Riemannian Curvature Tensors",
+    "Geodesic Equations",
+    "Gauss-Bonnet Theorem",
+    "Lie Groups and Tangent Algebras",
+    "Parallel Transport and Holonomy",
+    "Differential Forms and Stokes' Theorem"
+  ]
+}

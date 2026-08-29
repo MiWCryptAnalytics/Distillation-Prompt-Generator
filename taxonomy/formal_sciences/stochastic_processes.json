@@ -1,0 +1,12 @@
+{
+  "domain": "Formal Sciences",
+  "discipline": "Stochastic Processes",
+  "concepts": [
+    "Brownian Motion and Wiener Measure",
+    "Poisson Arrival Processes",
+    "Markov Memorylessness",
+    "Stationarity and Ergodicity",
+    "Itô Calculus and SDEs",
+    "Renewal Theory"
+  ]
+}

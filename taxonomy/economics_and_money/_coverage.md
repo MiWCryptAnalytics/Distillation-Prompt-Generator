@@ -1,0 +1,53 @@
+# Economics & Money — coverage map
+
+Breadth pass across money, markets, and finance — the applied, practitioner-facing
+side of economics — mapped to established classification systems. (Starts with `_`
+/ not `.json`, so the engine ignores it.)
+
+Reference systems used:
+- **DDC** — Dewey Decimal: 332 financial economics, 336 public finance,
+  368 insurance, 338.5 markets
+- **LCC** — Library of Congress: HB economic theory, HG finance, HJ public
+  finance, HD land/real estate
+- **JEL** — Journal of Economic Literature codes: E macro/monetary, F
+  international, G financial, H public, D market design
+
+| Discipline | Branch | DDC | LCC | JEL |
+|---|---|---|---|---|
+| Monetary Systems & Central Banking | Monetary & macro | 332.11 | HG1811 | E5 |
+| Banking & Credit Intermediation | Monetary & macro | 332.1 | HG1501 | G21 |
+| Monetary & Economic History | Monetary & macro | 332.09 | HG231 | N2 |
+| Financial Markets & Trading | Markets & trading | 332.64 | HG4551 | G1 |
+| Market Microstructure | Markets & trading | 332.64 | HG4515 | G14 |
+| Derivatives & Structured Products | Markets & trading | 332.645 | HG6024 | G13 |
+| Quantitative & Computational Finance | Markets & trading | 332.0151 | HG176.5 | C58 |
+| Behavioral Finance | Markets & trading | 332.019 | HG4515.15 | G4 |
+| Commodities & Energy Markets | Markets & trading | 332.644 | HG6046 | Q02 |
+| Investment & Portfolio Management | Corporate & investment | 332.6 | HG4529 | G11 |
+| Corporate Finance & Valuation | Corporate & investment | 658.15 | HG4026 | G3 |
+| Real Estate & Housing Finance | Corporate & investment | 332.63 | HD1382 | R3 |
+| Risk Management & Insurance | Risk & regulation | 368 | HG8011 | G22 |
+| Financial Regulation & Compliance | Risk & regulation | 332.1 | HG173 | G28 |
+| Financial Crises & Systemic Risk | Risk & regulation | 338.542 | HB3722 | G01 |
+| Public Finance & Taxation | Public & international | 336 | HJ | H2 |
+| International Finance & Exchange Rates | Public & international | 332.042 | HG3810 | F3 |
+| Auction & Market Design | Public & international | 381 | HB238 | D44 |
+| Cryptocurrency & Decentralized Finance | Digital & infrastructure | 332.4 | HG1710 | G23 |
+| Payments & Financial Infrastructure | Digital & infrastructure | 332.1 | HG1710 | E42 |
+| Venture Capital & Private Equity | Alternative & specialized | 332.6 | HG4751 | G24 |
+| Pensions & Retirement Systems | Alternative & specialized | 331.252 | HD7105 | H55 |
+| Sustainable & ESG Finance | Alternative & specialized | 332.6 | HG4515.13 | Q56 |
+| Development Finance & Microfinance | Alternative & specialized | 332.1 | HG178.3 | O16 |
+| Islamic Finance | Alternative & specialized | 332.091767 | HG187.4 | Z12 |
+| Financial Data Science & Alternative Data | Alternative & specialized | 332.0285 | HG176.7 | C55 |
+
+## Boundary notes & known gaps
+- **Academic economic theory & policy** — macroeconomics, microeconomics,
+  development, econometrics — lives in Social Sciences; this domain is the
+  money/markets/finance application.
+- **Financial Economics** appears in Social Sciences as the academic field;
+  here it is decomposed into markets, instruments, and institutions.
+- _The audit round filled: VC & private equity, pensions, ESG finance,
+  development finance & microfinance, Islamic finance, financial data science._
+- Still open: sovereign wealth & state capital, insurance-linked securities,
+  household finance.

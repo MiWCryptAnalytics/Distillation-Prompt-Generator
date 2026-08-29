@@ -1,0 +1,12 @@
+{
+  "domain": "Business, Management & Organizations",
+  "discipline": "Business Analytics & Decision Science",
+  "concepts": [
+    "A/B Testing Design",
+    "Demand Forecasting and Sensing",
+    "Constrained Optimization",
+    "Cohort and Retention Analysis",
+    "Goodhart's Law Metric Gaming",
+    "Causal Inference in Business Data"
+  ]
+}

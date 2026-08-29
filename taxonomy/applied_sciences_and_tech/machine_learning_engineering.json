@@ -1,0 +1,11 @@
+{
+  "domain": "Applied Sciences & Tech",
+  "discipline": "Machine Learning Engineering",
+  "concepts": [
+    "Vanishing and Exploding Gradients",
+    "Attention Mechanism Scaling",
+    "Catastrophic Forgetting",
+    "Adversarial Example Robustness",
+    "Model Quantization Error"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "domain": "Social Sciences",
+  "discipline": "Econometrics",
+  "concepts": [
+    "Endogeneity and Instrumental Variables",
+    "Omitted Variable Bias",
+    "Heteroskedasticity and Robust Errors",
+    "Difference-in-Differences Identification",
+    "Regression Discontinuity Design",
+    "Multicollinearity and Identification Failure"
+  ]
+}

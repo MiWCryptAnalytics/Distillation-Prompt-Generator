@@ -1,0 +1,12 @@
+{
+  "domain": "Economics & Money",
+  "discipline": "Derivatives & Structured Products",
+  "concepts": [
+    "Black-Scholes Assumptions and Failures",
+    "Delta Hedging and Gamma Risk",
+    "Volatility Surface and Skew",
+    "Counterparty Risk and CVA",
+    "Path Dependence in Exotics",
+    "Tranche Correlation Risk"
+  ]
+}

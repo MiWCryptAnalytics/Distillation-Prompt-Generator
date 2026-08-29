@@ -1,0 +1,12 @@
+{
+  "domain": "Formal Sciences",
+  "discipline": "Probability Theory",
+  "concepts": [
+    "Measure-Theoretic Probability Spaces",
+    "Central Limit Theorem Conditions",
+    "Martingales and Optional Stopping",
+    "Markov Chain Stationary Distributions",
+    "Chernoff Concentration Bounds",
+    "Large Deviations and Rare Events"
+  ]
+}

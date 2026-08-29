@@ -1,0 +1,12 @@
+{
+  "domain": "Formal Sciences",
+  "discipline": "Algorithm Design & Analysis",
+  "concepts": [
+    "Amortized Analysis and Potential Functions",
+    "Divide-and-Conquer Recurrences",
+    "Approximation Algorithm Ratios",
+    "Randomized Expected-Time Bounds",
+    "Online Competitive Ratios",
+    "Dynamic Programming Optimal Substructure"
+  ]
+}
