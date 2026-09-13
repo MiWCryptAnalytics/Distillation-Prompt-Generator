@@ -45,6 +45,21 @@ Reference systems used:
 | Structural Pest Management | Building & trades | 648.7 | TX325 |
 | Fireground Operations Craft | Public safety | 628.925 | TH9310.5 |
 | Viticulture & Enology | Food & agriculture | 634.8/663.2 | SB388/TP548 |
+| Masonry & Stonework | Building & trades | 693.1 | TH5311 |
+| Machining & Toolmaking | Craft & making | 671.35 | TJ1185 |
+| Rigging & Crane Operations | Building & trades | 621.873 | TJ1363 |
+| Industrial Maintenance & Millwright Craft | Building & trades | 621.816 | TJ153 |
+| Powerline & Utility Work | Building & trades | 621.31923 | TK3231 |
+| Glassblowing & Glasswork | Craft & making | 748.2 | TP859 |
+| Baking & Pastry Craft | Food & agriculture | 641.815 | TX763 |
+| Butchery & Meat Processing | Food & agriculture | 641.36 | TS1962 |
+| Cheesemaking & Dairy Fermentation | Food & agriculture | 637.3 | SF271 |
+| Coffee, Tea & Cocktail Craft | Food & agriculture | 641.877 | TX817/TX951 |
+| Arboriculture & Tree Care | Food & agriculture | 635.977 | SB435 |
+| Climbing & Mountaineering Craft | Sport & recreation | 796.522 | GV200.2 |
+| Scuba & Technical Diving | Sport & recreation | 797.23 | GV838.672 |
+| Commercial Driving & Heavy Vehicle Operation | Operations & transport | 629.284 | TL230.3 |
+| Tattooing & Body Art | Personal service | 391.65 | GT2345 |
 
 ## Boundary notes & known gaps
 - This domain is intentionally the *practitioner's* operational knowledge.
@@ -63,4 +78,29 @@ Reference systems used:
 - _The second gap-fill pass added Viticulture & Enology (grape-side and
   cellar-side mechanisms; grain and mash chemistry stay in Brewing,
   Fermentation & Distilling)._
-- No open discipline gaps currently listed.
+- _The trades depth pass (O*NET task level + SOC 47-53 + DOL/German
+  apprenticeship registries) added 15 disciplines. Trades: Masonry &
+  Stonework (mortar and arch craft; concrete curing stays in Construction
+  Trades), Machining & Toolmaking (chip-making craft; CNC chatter and SPC
+  stay in Applied's Manufacturing), Rigging & Crane Operations, Industrial
+  Maintenance & Millwright Craft (alignment and condition craft; failure
+  modeling stays in Reliability Engineering), Powerline & Utility Work
+  (lineworker protection craft; grid theory stays in Electrical & Power
+  Engineering). Food crafts: Baking & Pastry, Butchery & Meat Processing,
+  Cheesemaking & Dairy Fermentation, Coffee/Tea/Cocktail Craft — each a
+  distinct substrate from Brewing and Culinary Science. Craft & outdoors:
+  Glassblowing & Glasswork, Arboriculture & Tree Care (CODIT and tree risk;
+  stand-level silviculture stays in Life Sciences), Climbing &
+  Mountaineering, Scuba & Technical Diving (gas planning craft; DCS
+  physiology stays in Aerospace & Hyperbaric Medicine), Commercial Driving &
+  Heavy Vehicle Operation, and Tattooing & Body Art._
+- Judged covered, not split: HVAC service (Applied's HVAC & Refrigeration
+  already holds the service mechanisms), commercial printing (Graphic Design
+  + Painting & Printmaking + Leathercraft & Bookbinding + Packaging),
+  upholstery (Sewing & Tailoring + Woodworking), drilling & blasting (Mining
+  & Metallurgical Engineering).
+- Locksmithing & physical security hardware deliberately deferred: the
+  adversarial trajectories would probe bypass techniques, a dual-use grain we
+  choose not to generate.
+- Still open: equestrian craft (folds into Beekeeping & Animal Husbandry for
+  now).
