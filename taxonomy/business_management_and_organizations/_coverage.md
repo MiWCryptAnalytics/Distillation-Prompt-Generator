@@ -41,6 +41,19 @@ Reference systems used:
 | Franchising | Marketing & growth | 658.8708 | HF5429.23 |
 | Corporate Communications & Public Relations | Marketing & growth | 659.2 | HD59 |
 | Procurement & Contract Management | Operations & supply | 658.72 | HD39.5 |
+| Organization Theory & Design | People & organization | 302.35 | HM786 |
+| Change Management & Organization Development | People & organization | 658.406 | HD58.8 |
+| Diversity, Equity & Inclusion Management | People & organization | 658.3008 | HF5549.5.M5 |
+| Healthcare Management & Operations | Operations & supply | 362.11068 | RA971 |
+| Service Management & Customer Experience | Operations & supply | 658.812 | HD9980.5 |
+| Platform & Marketplace Management | Marketing & growth | 658.872 | HF5548.32 |
+| Advertising & Media Strategy | Marketing & growth | 659.1 | HF5823 |
+| Management Consulting | Strategy & governance | 001.068 | HD69.C6 |
+| Enterprise Risk Management & Compliance | Strategy & governance | 658.155 | HD61 |
+| Auditing & Assurance | Finance & control | 657.45 | HF5667 |
+| Forensic Accounting & Fraud Examination | Finance & control | 657.458 | HV6768 |
+| Corporate Taxation & Tax Planning | Finance & control | 658.153 | K4550 |
+| Sustainability Reporting & Carbon Accounting | Finance & control | 657.76 | HD60.3 |
 
 ## Boundary notes & known gaps
 - **Corporate Finance & Valuation** lives in Economics & Money; management
@@ -58,4 +71,24 @@ Reference systems used:
   Interior and fashion design landed in their proper homes — Interior Design &
   Space Planning in Applied Sciences & Tech, Fashion & Apparel Design in
   Humanities & Arts._
+- _The business depth pass (Academy of Management divisions + CPA/CFE/GRC
+  professional bodies) added 13 disciplines. People & organization:
+  Organization Theory & Design (macro theory; OB keeps the micro concepts),
+  Change Management & OD (practice side; OB keeps change resistance), DEI
+  Management (framed as evidence debates — training backfire, tokenism
+  thresholds). Operations: Healthcare Management & Operations (hospital flow
+  and payment mechanics; clinical care stays in Medicine), Service Management
+  & Customer Experience (hospitality keeps the service recovery paradox).
+  Marketing: Platform & Marketplace Management (operational levers; mechanism
+  theory stays in Economics' Auction & Market Design), Advertising & Media
+  Strategy. Strategy & control: Management Consulting, Enterprise Risk
+  Management & Compliance, Auditing & Assurance, Forensic Accounting & Fraud
+  Examination, Corporate Taxation & Tax Planning (practitioner doctrine;
+  policy-level base erosion stays in Economics' Public Finance), and
+  Sustainability Reporting & Carbon Accounting (reporting side; investor-side
+  ESG stays in Economics)._
+- Judged covered, not split: compensation & benefits (HRM holds pay
+  compression and selection; Governance holds executive compensation),
+  quality management (Operations' Six Sigma), brand management (Marketing),
+  knowledge management (IS/IT + Organization Theory).
 - No open discipline gaps currently listed.
