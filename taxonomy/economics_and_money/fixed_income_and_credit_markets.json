@@ -1,0 +1,12 @@
+{
+  "domain": "Economics & Money",
+  "discipline": "Fixed Income & Credit Markets",
+  "concepts": [
+    "Duration and Convexity Hedging",
+    "Curve Steepener and Flattener Positioning",
+    "Credit Spread Decomposition",
+    "Callable Bond Negative Convexity",
+    "On-the-Run Liquidity Premiums",
+    "Repo Specialness Dynamics"
+  ]
+}
