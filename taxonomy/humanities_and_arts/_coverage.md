@@ -56,6 +56,17 @@ Reference systems used:
 | Hermeneutics & Interpretation Theory | Philosophy | 121.686 | BD241 |
 | Oral Tradition & Folklore Studies | Literature | 398 | GR |
 | Fashion & Apparel Design | Arts | 746.92 | TT507 |
+| Early Modern Philosophy | Philosophy | 190 | B801+ |
+| Phenomenology & Existentialism | Philosophy | 142.7 | B829.5/B819 |
+| Metaethics | Philosophy | 170.42 | BJ37 |
+| Philosophy of Mathematics | Philosophy | 510.1 | QA8.4 |
+| Scriptural Studies & Exegesis | Religion | 220.6 | BS476/BP136 |
+| Manuscript Studies & Paleography | History | 091 | Z105/CD5 |
+| Environmental History | History | 304.28 | GF13 |
+| Composition & Orchestration | Arts | 781.3 | MT40/MT70 |
+| Animation & Motion Design | Arts | 741.58 | NC1765/TR897.5 |
+| Painting & Printmaking Techniques | Arts | 751.4/766 | ND1500/NE850 |
+| Calligraphy & Lettering Arts | Arts | 745.61 | NK3600/Z43 |
 
 ## Boundary notes & known gaps
 - **Philosophy of Science** sits here as a humanities/philosophy discipline; the
@@ -74,5 +85,22 @@ Reference systems used:
   It also added Fashion & Apparel Design (design-theory side, beside Graphic
   Design & Typography; construction craft stays in Practical's Sewing &
   Tailoring), relocated here from the Business domain's gap list._
-- Still open: animation craft & principles (motion design and character
-  animation beyond Computer Graphics & Rendering's technical concepts).
+- _The humanities depth pass (PhilPapers / Getty AAT / Grove Music sweep)
+  added 11 disciplines. Philosophy: Early Modern (the historical gap between
+  Ancient & Medieval and the problem-based disciplines), Phenomenology &
+  Existentialism (the continental tradition), Metaethics (Ethics holds the
+  normative puzzles), Philosophy of Mathematics. Religion: Scriptural Studies
+  & Exegesis (source and redaction criticism, isnad authentication; secular
+  stemmatics stays in Classics & Philology). History: Manuscript Studies &
+  Paleography (pre-print hands and codicology; epigraphy stays in Classics,
+  watermarks in Book History), Environmental History. Arts: Composition &
+  Orchestration (craft side; analysis stays in Musicology & Music Theory),
+  Animation & Motion Design (closing the gap-listed item), Painting &
+  Printmaking Techniques (studio mechanisms; materials degradation stays in
+  Conservation Science), Calligraphy & Lettering Arts (Western, East Asian,
+  and Arabic traditions; type design stays in Graphic Design & Typography)._
+- Judged covered, not split: philosophy of religion (lives in Religious
+  Studies & Theology), memory studies (Social & Cultural History + Museum &
+  Heritage), prosody & versification (Rhetoric & Poetics).
+- Still open: creative nonfiction & life writing, Western esotericism studies,
+  numismatics (folds into Archaeology / Museum & Heritage for now).

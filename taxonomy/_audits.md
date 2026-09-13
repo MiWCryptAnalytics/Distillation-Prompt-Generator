@@ -19,6 +19,7 @@ file; the engine only loads `<domain>/<discipline>.json`.)
 | US state licensing boards | Regulatory | yes | Confirmed midwifery, TCM; massage therapy gap-listed |
 | ANZSRC FoR 2020 | Research (AU/NZ) | yes | 11 disciplines (soil science, geomorphology, polymer/computational/medicinal chemistry, ecotoxicology, systematics, medical physics, actuarial science, tort law, clinical trials); Indigenous studies judged covered via Ethnobiology, Non-Western Philosophy, TCM |
 | UNESCO fields of science & technology | Research (int'l) | yes | Confirmed ANZSRC finds; anatomy judged descriptive-grain, food science judged covered (Culinary, Food Eng, Nutrition) |
+| PhilPapers / Getty AAT / Grove Music | Field taxonomies (humanities) | yes | Humanities depth pass: 11 disciplines (early modern phil, phenomenology, metaethics, phil of math, scriptural exegesis, paleography, environmental history, composition, animation, painting/printmaking, calligraphy); phil of religion, memory studies, prosody judged covered |
 | ESCO (13,890 skills) | Skills (EU) | no | Concept-level; candidate for meta-gen QA |
 | MSC 2020 / MeSH / PACS-PhySH | Research subject indexes | no | Concept-level depth checks per domain |
 | CPC/IPC patent classes | Technology | no | Concept-level for Applied domains |
