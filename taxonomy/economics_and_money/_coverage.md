@@ -43,6 +43,7 @@ Reference systems used:
 | Sovereign Wealth & State Capital | Public & international | 332.67252 | HJ3801 | G23 |
 | Insurance-Linked Securities | Risk & regulation | 368.122 | HG8054.5 | G22 |
 | Household Finance | Alternative & specialized | 332.024 | HG179 | D14 |
+| Actuarial Science | Risk & regulation | 368.01 | HG8781 | G22 |
 
 ## Boundary notes & known gaps
 - **Academic economic theory & policy** — macroeconomics, microeconomics,
@@ -56,4 +57,7 @@ Reference systems used:
   Capital, Insurance-Linked Securities, and Household Finance (the academic
   counterpart of Practical's Personal Finance & Household Economics, per the
   theory/practice split)._
+- _The ANZSRC/UNESCO sweep added Actuarial Science (reserving, graduation, and
+  ruin theory — the credentialed quantitative core that Risk Management &
+  Insurance's institutional concepts don't hold)._
 - No open discipline gaps currently listed.

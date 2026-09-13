@@ -44,6 +44,7 @@ Reference systems used:
 | Angling & Foraging Craft | Sport & recreation | 799.1 | SH441/QK98.5 |
 | Structural Pest Management | Building & trades | 648.7 | TX325 |
 | Fireground Operations Craft | Public safety | 628.925 | TH9310.5 |
+| Viticulture & Enology | Food & agriculture | 634.8/663.2 | SB388/TP548 |
 
 ## Boundary notes & known gaps
 - This domain is intentionally the *practitioner's* operational knowledge.
@@ -59,5 +60,7 @@ Reference systems used:
   leathercraft & bookbinding, gemology & jewelry arts, angling & foraging
   craft, structural pest management, and fireground operations craft (the
   practitioner counterpart of Fire Protection & Safety Engineering)._
-- Still open: viticulture & enology (folds into Brewing, Fermentation &
-  Distilling for now).
+- _The second gap-fill pass added Viticulture & Enology (grape-side and
+  cellar-side mechanisms; grain and mash chemistry stay in Brewing,
+  Fermentation & Distilling)._
+- No open discipline gaps currently listed.

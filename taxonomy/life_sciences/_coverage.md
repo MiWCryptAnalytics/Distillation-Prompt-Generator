@@ -50,6 +50,9 @@ Reference systems used:
 | Fisheries Science & Management | Ecology/environment | 639.2 | SH328 |
 | Protistology & Phycology | Microbiology | 579.4/579.8 | QL366/QK564 |
 | Ethology & Behavioral Ecology | Organismal | 591.5 | QL751 |
+| Soil Science & Pedology | Ecology/environment | 631.4 | S590+ |
+| Ecotoxicology & Pollution Science | Ecology/environment | 571.95 | QH545 |
+| Systematics & Phylogenetics | Genetics/evolution | 578.012 | QH83 |
 
 ## Known gaps / candidates for later rounds
 _Filled in the scale round: Endocrinology, Parasitology, Entomology,
@@ -61,6 +64,12 @@ Biology & Toxinology._
 - _The gap-fill round filled both open items: Protistology & Phycology, and
   Ethology & Behavioral Ecology (decision rules and signaling economics,
   distinct from Zoology & Animal Behavior's physiological concepts)._
+- _The ANZSRC/UNESCO sweep added Soil Science & Pedology (soil genesis and
+  function; fertility practice stays in Practical's Agriculture &
+  Horticulture), Ecotoxicology & Pollution Science (ecosystem-level exposure;
+  human clinical toxicology stays in Medicine), and Systematics &
+  Phylogenetics (tree inference and species delimitation, distinct from
+  Population Genetics and Evolutionary Biology)._
 - No open discipline gaps currently listed.
 - Note: clinical/applied medicine now has its own domain
   (Medicine & Health Sciences); this domain stays the basic-science treatment.

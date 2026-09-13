@@ -74,4 +74,5 @@ Reference systems used:
   It also added Fashion & Apparel Design (design-theory side, beside Graphic
   Design & Typography; construction craft stays in Practical's Sewing &
   Tailoring), relocated here from the Business domain's gap list._
-- No open discipline gaps currently listed.
+- Still open: animation craft & principles (motion design and character
+  animation beyond Computer Graphics & Rendering's technical concepts).

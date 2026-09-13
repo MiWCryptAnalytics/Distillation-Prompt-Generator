@@ -46,6 +46,10 @@ Reference systems used:
 | Paleoclimatology | Earth | 551.609 | QC884 |
 | Surface Science | Chemistry | 541.33 | QD506 |
 | Physical Geodesy | Earth | 526.1 | QB281 |
+| Geomorphology | Earth | 551.41 | GB400+ |
+| Polymer Chemistry & Physics | Chemistry | 547.7 | QD380+ |
+| Computational & Quantum Chemistry | Chemistry | 541.28 | QD462 |
+| Medicinal Chemistry & Drug Design | Chemistry | 615.19 | RS403 |
 
 ## Known gaps / candidates for later rounds
 _Filled in the scale round: Biophysics, Atomic & Molecular Physics, Statistical
@@ -54,4 +58,10 @@ Science; the audit round added Physical Acoustics, Rheology, Petrology &
 Structural Geology, and Glaciology._
 - _The gap-fill round added Physical Geodesy (geoid, satellite gravimetry,
   reference frames); the measurement practice stays in Surveying & Geomatics._
+- _The ANZSRC/UNESCO sweep added Geomorphology (landforms and landscape
+  evolution, distinct from process hydrology and structural geology), Polymer
+  Chemistry & Physics (chain-scale theory; processing stays in Applied's
+  Textile & Polymer Processing), Computational & Quantum Chemistry (electronic
+  structure and simulation methods), and Medicinal Chemistry & Drug Design
+  (molecule-side discovery; receptor-side pharmacology stays in Medicine)._
 - No open discipline gaps currently listed.

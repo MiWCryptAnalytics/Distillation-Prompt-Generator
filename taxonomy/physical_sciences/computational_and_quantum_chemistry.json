@@ -1,0 +1,12 @@
+{
+  "domain": "Physical Sciences",
+  "discipline": "Computational & Quantum Chemistry",
+  "concepts": [
+    "DFT Exchange-Correlation Functional Selection",
+    "Basis Set Superposition Error",
+    "Force Field Parameterization Transferability",
+    "Implicit Solvation Model Limitations",
+    "Conical Intersection Nonadiabatic Dynamics",
+    "Coupled Cluster Accuracy Trade-offs"
+  ]
+}

@@ -57,6 +57,9 @@ Reference systems used:
 | Applied Linguistics & Second Language Acquisition | Linguistics | 418.0071 | P118.2 |
 | International Law & Institutions | Law | 341 | KZ |
 | Intellectual Property Law | Law | 346.048 | K1401+ |
+| Constitutional & Administrative Law | Law | 342 | K3161/K3400 |
+| Criminal Law & Procedure | Law | 345 | K5000+ |
+| Tort Law & Civil Liability | Law | 346.03 | K923 |
 
 ## Boundary notes & known gaps
 - **Linguistics** placed here as an empirical science (phonology, syntax,
@@ -74,8 +77,14 @@ Reference systems used:
   discipline for all of LCC K was the domain's thinnest spot — starting with
   International Law & Institutions and Intellectual Property Law (doctrinal
   reasoning; contract mechanics stay in Business Law & Contracts)._
-- Still open: further law splits (constitutional & administrative law, criminal
-  law & procedure) as future candidates.
+- _The second gap-fill pass completed the law split: Constitutional &
+  Administrative Law and Criminal Law & Procedure (the two open candidates),
+  plus Tort Law & Civil Liability (ANZSRC private-law field). Law now spans
+  seven disciplines: jurisprudence, contracts (in Business), international,
+  IP, constitutional/administrative, criminal, and tort._
+- Still open: police science & investigative practice (doctrine and craft
+  beyond Criminology's empirical theory), special education & inclusive
+  practice, technical & professional communication.
 - Area studies (LCC DS-DT) stays deliberately unfilled: it is an umbrella of
   regional syntheses, not a mechanism-grain discipline; regional depth arrives
   via concept expansion inside history, comparative politics, and anthropology.

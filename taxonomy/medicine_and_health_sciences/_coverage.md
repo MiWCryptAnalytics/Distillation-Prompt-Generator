@@ -60,6 +60,8 @@ Reference systems used:
 | Rheumatology | Internal medicine | 616.723 | RC927 |
 | Sleep Medicine | Clinical | 616.8498 | RC547 |
 | Chiropractic, Massage & Manual Therapies | Allied & professional | 615.534 | RZ241/RM721 |
+| Clinical Trial Design & Biostatistics | Foundational | 610.724 | R853.C55 |
+| Pastoral Care & Chaplaincy | Allied & professional | 259.4 | BV4335 |
 
 ## Boundary notes & known gaps
 - **Biomedical *engineering*** (devices, imaging hardware, prosthetics) lives in
@@ -78,6 +80,16 @@ Reference systems used:
   from external catalogs alone) — plus Chiropractic, Massage & Manual
   Therapies, closing the licensing-board gap; per the ethics note it is framed
   descriptively and critically (evidence debates, risk screening)._
+- _The second gap-fill pass added Pastoral Care & Chaplaincy (board-certified
+  chaplaincy, framed evidentially per the ethics note); the ANZSRC/UNESCO
+  sweep added Clinical Trial Design & Biostatistics (trial methodology,
+  distinct from meta-science's publication-system concepts and Life Sciences'
+  disease-dynamics epidemiology)._
 - Still open: optometry (folds into Ophthalmology & Vision Science for now),
   physician assistant studies (a clinical role whose knowledge folds into the
-  existing disciplines), pastoral care & chaplaincy.
+  existing disciplines), addiction medicine (folds into Psychiatry & Mental
+  Health for now), nuclear medicine & radiopharmaceutical therapy (folds into
+  Radiology & Medical Imaging for now).
+- Gross anatomy stays distributed across Physiology, Surgery, and Radiology:
+  its grain is descriptive rather than mechanistic, a poor fit for the 12
+  adversarial trajectories.
