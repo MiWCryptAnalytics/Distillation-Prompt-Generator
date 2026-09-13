@@ -53,6 +53,14 @@ Each item costs two teacher calls. The output is JSON in standard
 `messages` chat format with full domain/discipline/concept/trajectory metadata
 per item — see the schema enforced in `distillation_engine.py` (Pydantic).
 
+**Reasoning capture**: when the teacher thinks out loud, assistant turns gain
+an optional `reasoning` field holding the trace — training on reasoning
+transfers the *process*, not just the conclusions. `--reasoning capture` (the
+default) handles both delivery mechanisms: separated reasoning (vLLM
+`--reasoning-parser`) and inline `<think>` blocks; `strip` removes thinking,
+`raw` passes content through untouched. Context sent back to the teacher is
+always kept clean of traces.
+
 ## Repository layout
 
 | Path | What it is |

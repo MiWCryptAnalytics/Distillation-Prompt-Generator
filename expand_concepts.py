@@ -75,18 +75,19 @@ class MockConceptClient(engine.MockClient):
         super().__init__(*args, **kwargs)
         self._offset = 0
 
-    def _complete(self, messages: list[dict], max_tokens: int) -> str:
+    def _complete(self, messages: list[dict], max_tokens: int) -> tuple[str, str | None]:
         prompt = messages[-1]["content"]
         m = re.search(r"Discipline:\s*(.+)", prompt)
         disc = (m.group(1).strip() if m else "Topic")
         self._offset += 50
         base = self._offset
-        return "\n".join(f"{disc} Synthetic Mechanism {base + i}" for i in range(50))
+        return "\n".join(f"{disc} Synthetic Mechanism {base + i}" for i in range(50)), None
 
 
 def build_client(args: argparse.Namespace) -> engine.InferenceClient:
     config = GenerationConfig(temperature=args.temperature, top_p=args.top_p,
-                              max_tokens=args.max_tokens, timeout_s=args.timeout)
+                              max_tokens=args.max_tokens, timeout_s=args.timeout,
+                              reasoning_mode=args.reasoning)
     logger = CallLogger(Path(args.call_log) if args.call_log else None)
     if args.backend == "mock":
         return MockConceptClient(args.model or "mock-teacher", config, logger)
@@ -131,7 +132,7 @@ def expand_file(path: Path, client: engine.InferenceClient, target: int,
         raw = client.complete([
             {"role": "system", "content": SYSTEM_PROMPT},
             {"role": "user", "content": prompt},
-        ])
+        ]).content
         fresh = 0
         for cand in parse_concepts(raw):
             key = norm(cand)
@@ -226,6 +227,9 @@ def parse_args(argv: list[str] | None = None) -> argparse.Namespace:
     p.add_argument("--top-p", type=float, default=0.95)
     p.add_argument("--max-tokens", type=int, default=1024)
     p.add_argument("--timeout", type=float, default=120.0)
+    p.add_argument("--reasoning", choices=["capture", "strip", "raw"], default="strip",
+                   help="thinking traces are never stored in the taxonomy; "
+                        "'strip' keeps call logs lean, 'capture' records them there")
     p.add_argument("--taxonomy-dir", default=str(engine.DEFAULT_TAXONOMY_DIR))
     p.add_argument("--target", type=int, default=40,
                    help="grow each discipline up to this many concepts")

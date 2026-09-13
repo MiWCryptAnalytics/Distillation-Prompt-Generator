@@ -38,6 +38,7 @@ import json
 import logging
 import os
 import random
+import re
 import sys
 import time
 from abc import ABC, abstractmethod
@@ -247,6 +248,15 @@ TRAJECTORY_NAMES = tuple(ADVERSARIAL_TRAJECTORY_TEMPLATES)
 class Message(BaseModel):
     role: Literal["user", "assistant"]
     content: str = Field(min_length=1)
+    # Teacher thinking trace (reasoning distillation). Only assistant turns may
+    # carry one; omitted from all serialized output when None.
+    reasoning: str | None = None
+
+    @model_validator(mode="after")
+    def _reasoning_on_assistant_only(self) -> "Message":
+        if self.reasoning is not None and self.role != "assistant":
+            raise ValueError("reasoning is only valid on assistant messages")
+        return self
 
 
 class ItemMetadata(BaseModel):
@@ -334,6 +344,30 @@ class GenerationConfig:
     top_p: float = 0.9
     max_tokens: int = 2048
     timeout_s: float = 120.0
+    reasoning_mode: str = "capture"  # capture | strip | raw
+
+
+@dataclass
+class CompletionResult:
+    """One teacher completion: clean answer text plus any thinking trace."""
+    content: str
+    reasoning: str | None = None
+
+
+THINK_BLOCK_RE = re.compile(r"<think>(.*?)</think>", re.DOTALL)
+
+
+def _field_reasoning(message) -> str | None:
+    """Separated thinking as served by vLLM --reasoning-parser and friends."""
+    for key in ("reasoning_content", "reasoning"):
+        value = getattr(message, key, None)
+        if value is None:
+            extra = getattr(message, "model_extra", None)
+            if extra:
+                value = extra.get(key)
+        if isinstance(value, str) and value.strip():
+            return value.strip()
+    return None
 
 
 class CallLogger:
@@ -344,7 +378,7 @@ class CallLogger:
 
     def record(self, *, backend: str, model: str, config: GenerationConfig,
                max_tokens_used: int, messages: list[dict], response: str,
-               attempts: int, elapsed_s: float) -> None:
+               reasoning: str | None, attempts: int, elapsed_s: float) -> None:
         if self.path is None:
             return
         entry = {
@@ -359,6 +393,7 @@ class CallLogger:
             },
             "messages": messages,
             "response": response,
+            "reasoning": reasoning,
             "attempts": attempts,
             "elapsed_s": round(elapsed_s, 3),
         }
@@ -382,10 +417,28 @@ class InferenceClient(ABC):
         self.call_logger = call_logger
 
     @abstractmethod
-    def _complete(self, messages: list[dict], max_tokens: int) -> str:
-        """Single raw completion attempt. Raises TransientError / TokenLimitError."""
+    def _complete(self, messages: list[dict], max_tokens: int) -> tuple[str, str | None]:
+        """Single raw attempt. Returns (content, separated_reasoning_or_None).
+        Raises TransientError / TokenLimitError."""
 
-    def complete(self, messages: list[dict]) -> str:
+    def _apply_reasoning_mode(self, content: str,
+                              field_reasoning: str | None) -> CompletionResult:
+        mode = self.config.reasoning_mode
+        if mode == "raw":
+            return CompletionResult(content=content.strip(), reasoning=None)
+        inline = "\n\n".join(m.strip() for m in THINK_BLOCK_RE.findall(content)) or None
+        stripped = THINK_BLOCK_RE.sub("", content)
+        if "<think>" in stripped:  # unclosed tag: thinking ran past the token budget
+            head, _, tail = stripped.partition("<think>")
+            inline = ((inline + "\n\n") if inline else "") + tail.strip()
+            stripped = head
+        content_clean = stripped.strip()
+        if mode == "strip":
+            return CompletionResult(content=content_clean, reasoning=None)
+        return CompletionResult(content=content_clean,
+                                reasoning=field_reasoning or inline or None)
+
+    def complete(self, messages: list[dict]) -> CompletionResult:
         max_tokens = self.config.max_tokens
         transient_attempts = 0
         truncations = 0
@@ -394,16 +447,19 @@ class InferenceClient(ABC):
         while True:
             total_attempts += 1
             try:
-                text = self._complete(messages, max_tokens)
-                if not text or not text.strip():
-                    raise TransientError("model returned an empty completion")
-                text = text.strip()
+                raw_content, field_reasoning = self._complete(messages, max_tokens)
+                result = self._apply_reasoning_mode(raw_content or "", field_reasoning)
+                if not result.content:
+                    raise TransientError(
+                        "empty completion after reasoning handling (thinking may "
+                        "have consumed the token budget; consider a higher --max-tokens)")
                 self.call_logger.record(
                     backend=self.backend_name, model=self.model, config=self.config,
-                    max_tokens_used=max_tokens, messages=messages, response=text,
+                    max_tokens_used=max_tokens, messages=messages,
+                    response=result.content, reasoning=result.reasoning,
                     attempts=total_attempts, elapsed_s=time.monotonic() - started,
                 )
-                return text
+                return result
             except TokenLimitError as exc:
                 if max_tokens > self.MIN_MAX_TOKENS:
                     max_tokens = max(self.MIN_MAX_TOKENS, max_tokens // 2)
@@ -441,13 +497,16 @@ class MockClient(InferenceClient):
 
     backend_name = "mock"
 
-    def _complete(self, messages: list[dict], max_tokens: int) -> str:
+    def _complete(self, messages: list[dict], max_tokens: int) -> tuple[str, str | None]:
         prompt = messages[-1]["content"]
+        # Inline <think> block exercises the same extraction path a real
+        # thinking model served without a reasoning parser would hit.
         return (
+            f"<think>[MOCK reasoning] Planning an answer about: {prompt[:80]}</think>"
             f"[MOCK {self.model}] turn={len(messages) // 2 + 1} "
             f"context_msgs={len(messages)} max_tokens={max_tokens} :: "
             f"Simulated teacher response to: {prompt[:140]}"
-        )
+        ), None
 
 
 class OpenAICompatibleClient(InferenceClient):
@@ -497,16 +556,17 @@ class OpenAICompatibleClient(InferenceClient):
 
         if not resp.choices:
             raise TransientError("response contained no choices")
-        content = resp.choices[0].message.content
-        if content is None:
+        message = resp.choices[0].message
+        if message.content is None:
             raise TransientError("response choice had no content")
-        return content
+        return message.content, _field_reasoning(message)
 
 
 def build_client(args: argparse.Namespace, call_logger: CallLogger) -> InferenceClient:
     config = GenerationConfig(
         temperature=args.temperature, top_p=args.top_p,
         max_tokens=args.max_tokens, timeout_s=args.timeout,
+        reasoning_mode=args.reasoning,
     )
     if args.backend == "mock":
         return MockClient(args.model or "mock-teacher", config, call_logger)
@@ -574,7 +634,7 @@ class CheckpointStore:
 
     def add(self, item: TrajectoryItem) -> None:
         with self.path.open("a", encoding="utf-8") as fh:
-            fh.write(item.model_dump_json() + "\n")
+            fh.write(item.model_dump_json(exclude_none=True) + "\n")
             fh.flush()
             os.fsync(fh.fileno())
         self.items[item.id] = item
@@ -589,7 +649,7 @@ class CheckpointStore:
         tmp_path = self.path.with_suffix(self.path.suffix + ".tmp")
         with tmp_path.open("w", encoding="utf-8") as fh:
             for item in self.items.values():
-                fh.write(item.model_dump_json() + "\n")
+                fh.write(item.model_dump_json(exclude_none=True) + "\n")
         os.replace(tmp_path, self.path)
         return len(stale)
 
@@ -599,7 +659,7 @@ class CheckpointStore:
             key=lambda it: (it.metadata.domain, it.metadata.discipline,
                             it.metadata.concept, it.metadata.trajectory),
         )
-        payload = [it.model_dump() for it in ordered]
+        payload = [it.model_dump(exclude_none=True) for it in ordered]
         tmp_path = out_path.with_suffix(out_path.suffix + ".tmp")
         with tmp_path.open("w", encoding="utf-8") as fh:
             json.dump(payload, fh, indent=2, ensure_ascii=False)
@@ -614,23 +674,27 @@ class CheckpointStore:
 
 
 def generate_item(client: InferenceClient, work: WorkItem) -> TrajectoryItem:
-    conversation: list[dict] = [{
-        "role": "user",
-        "content": TURN1_TEMPLATE.format(concept=work.concept, discipline=work.discipline),
-    }]
-    conversation.append({"role": "assistant", "content": client.complete(conversation)})
-    conversation.append({
-        "role": "user",
-        "content": ADVERSARIAL_TRAJECTORY_TEMPLATES[work.trajectory].format(concept=work.concept),
-    })
-    conversation.append({"role": "assistant", "content": client.complete(conversation)})
+    turn1 = TURN1_TEMPLATE.format(concept=work.concept, discipline=work.discipline)
+    api_messages: list[dict] = [{"role": "user", "content": turn1}]
+    reply1 = client.complete(api_messages)
+    # Context sent back to the teacher stays clean of thinking traces; only the
+    # dataset records them (the recommended multi-turn convention for thinking models).
+    api_messages.append({"role": "assistant", "content": reply1.content})
+    turn2 = ADVERSARIAL_TRAJECTORY_TEMPLATES[work.trajectory].format(concept=work.concept)
+    api_messages.append({"role": "user", "content": turn2})
+    reply2 = client.complete(api_messages)
     return TrajectoryItem(
         id=work.id,
         metadata=ItemMetadata(
             domain=work.domain, discipline=work.discipline,
             concept=work.concept, trajectory=work.trajectory,
         ),
-        messages=[Message(**m) for m in conversation],
+        messages=[
+            Message(role="user", content=turn1),
+            Message(role="assistant", content=reply1.content, reasoning=reply1.reasoning),
+            Message(role="user", content=turn2),
+            Message(role="assistant", content=reply2.content, reasoning=reply2.reasoning),
+        ],
     )
 
 
@@ -749,6 +813,13 @@ def parse_args(argv: list[str] | None = None) -> argparse.Namespace:
                         help="max completion tokens per teacher call")
     parser.add_argument("--timeout", type=float, default=120.0,
                         help="per-call timeout in seconds")
+    parser.add_argument("--reasoning", choices=["capture", "strip", "raw"],
+                        default="capture",
+                        help="teacher thinking traces: capture them into the "
+                             "dataset's optional per-message reasoning field, "
+                             "strip them from output, or pass content through raw. "
+                             "Handles both separated reasoning (vLLM "
+                             "--reasoning-parser) and inline <think> blocks")
     parser.add_argument("--output", default="adversarial_distillation_dataset.json",
                         help="final dataset path")
     parser.add_argument("--checkpoint", default=None,

@@ -56,6 +56,13 @@ design_principles:
       Coverage claims are checked against independent classification systems
       built by libraries, economists, labor departments, and regulators.
       Saturation is declared when new catalogs stop finding gaps.
+  - principle: capture reasoning, not just answers
+    rationale: >
+      When the teacher exposes its thinking, the trace is stored alongside the
+      final answer (optional per-message reasoning field). Distilling on
+      reasoning traces transfers the process, not just the conclusions.
+      Commercial APIs increasingly hide these traces precisely to prevent
+      this; open-weights teachers are preferred partly for that reason.
   - principle: deterministic, resumable, validated pipeline
     rationale: >
       Content-derived item ids, per-item checkpointing, atomic writes, and
@@ -103,7 +110,9 @@ quality_criteria:
     - specific enough that all 12 trajectories produce distinct prompts
   dataset_item:
     - exactly 4 messages, roles user/assistant/user/assistant
-    - full metadata: domain, discipline, concept, trajectory
+    - assistant messages may carry an optional reasoning field (teacher
+      thinking trace); user messages never do; the key is omitted when absent
+    - "full metadata: domain, discipline, concept, trajectory"
     - deterministic id = sha256(domain|discipline|concept|trajectory)
 
 ethics_and_licensing:
