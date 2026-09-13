@@ -48,6 +48,8 @@ Reference systems used:
 | Paleontology | Genetics/evolution | 560 | QE701 |
 | Forestry & Silviculture | Ecology/environment | 634.9 | SD |
 | Fisheries Science & Management | Ecology/environment | 639.2 | SH328 |
+| Protistology & Phycology | Microbiology | 579.4/579.8 | QL366/QK564 |
+| Ethology & Behavioral Ecology | Organismal | 591.5 | QL751 |
 
 ## Known gaps / candidates for later rounds
 _Filled in the scale round: Endocrinology, Parasitology, Entomology,
@@ -56,7 +58,9 @@ Pathology; the audit round added Biogerontology, Biogeography, and Venom
 Biology & Toxinology._
 - _The SOC audit added Forestry & Silviculture and Fisheries Science &
   Management (BLS 19-1032, 45-3031)._
-- Protistology & phycology (LCC QK564/QL366)
-- Ethology as distinct from Zoology & Animal Behavior (LCC QL751)
+- _The gap-fill round filled both open items: Protistology & Phycology, and
+  Ethology & Behavioral Ecology (decision rules and signaling economics,
+  distinct from Zoology & Animal Behavior's physiological concepts)._
+- No open discipline gaps currently listed.
 - Note: clinical/applied medicine now has its own domain
   (Medicine & Health Sciences); this domain stays the basic-science treatment.

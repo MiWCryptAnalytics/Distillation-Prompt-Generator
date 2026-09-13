@@ -44,12 +44,16 @@ Reference systems used:
 | Stochastic Processes | Applied math | 519.23 | QA274 |
 | Coding Theory | Applied math | 003.54 | QA268 |
 | Decision Theory | Applied math | 519.542 | QA279.4 |
+| Proof Theory & Reverse Mathematics | Logic | 511.36 | QA9.54 |
 
 ## Known gaps / candidates for later rounds
 _Filled in the scale round: Set Theory, Measure Theory, Functional Analysis,
 Stochastic Processes, Coding Theory, Decision Theory; the audit round added
 Mathematical Physics and Combinatorial & Algorithmic Game Theory (the political
 economy application stays in Social Sciences)._
-- Proof Theory & Reverse Mathematics split from Mathematical Logic (LCC QA9.54)
+- _The gap-fill round split Proof Theory & Reverse Mathematics out of
+  Mathematical Logic (ordinal analysis, the Big Five subsystems, proof mining;
+  cut elimination itself stays in Mathematical Logic)._
+- No open discipline gaps currently listed.
 - Note: statistics here is the *mathematical* theory; applied/empirical methods
   recur inside domain-specific disciplines elsewhere.

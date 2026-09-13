@@ -57,6 +57,9 @@ Reference systems used:
 | Occupational & Environmental Medicine | Population & preventive | 616.9803 | RC963 |
 | Traditional & Complementary Medicine | Allied & professional | 615.5 | R733 |
 | Midwifery & Perinatal Practice | Reproductive & life-stage | 618.2 | RG950 |
+| Rheumatology | Internal medicine | 616.723 | RC927 |
+| Sleep Medicine | Clinical | 616.8498 | RC547 |
+| Chiropractic, Massage & Manual Therapies | Allied & professional | 615.534 | RZ241/RM721 |
 
 ## Boundary notes & known gaps
 - **Biomedical *engineering*** (devices, imaging hardware, prosthetics) lives in
@@ -70,6 +73,11 @@ Reference systems used:
   audiology, occupational & environmental medicine, plus health informatics._
 - _The catalog audit (ISCO-08, licensing boards) added Traditional &
   Complementary Medicine and Midwifery & Perinatal Practice._
+- _The gap-fill round added Rheumatology and Sleep Medicine — both board
+  specialties no catalog sweep had flagged (a caveat on declaring saturation
+  from external catalogs alone) — plus Chiropractic, Massage & Manual
+  Therapies, closing the licensing-board gap; per the ethics note it is framed
+  descriptively and critically (evidence debates, risk screening)._
 - Still open: optometry (folds into Ophthalmology & Vision Science for now),
-  physician assistant studies, chiropractic & manual therapy, massage & manual
-  therapy, pastoral care & chaplaincy.
+  physician assistant studies (a clinical role whose knowledge folds into the
+  existing disciplines), pastoral care & chaplaincy.

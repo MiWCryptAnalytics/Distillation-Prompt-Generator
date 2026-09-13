@@ -1,0 +1,12 @@
+{
+  "domain": "Applied Sciences & Tech",
+  "discipline": "Spacecraft Operations & Mission Control",
+  "concepts": [
+    "Reaction Wheel Momentum Desaturation",
+    "Safe Mode Triggering and Recovery",
+    "Deep Space Link Budget Constraints",
+    "Conjunction Assessment and Collision Avoidance",
+    "Eclipse Season Power and Thermal Management",
+    "Light-Time Delayed Command Sequencing"
+  ]
+}

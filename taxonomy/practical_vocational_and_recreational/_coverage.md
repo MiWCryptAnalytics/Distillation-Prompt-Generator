@@ -38,6 +38,12 @@ Reference systems used:
 | Maritime Operations & Seamanship | Operations & transport | 623.88 | VK541 |
 | Cosmetology & Personal Care Science | Personal service | 646.72 | TT950 |
 | Mortuary Science & Death Care | Personal service | 614.6 | RA622 |
+| Horology & Watchmaking | Craft & making | 681.114 | TS540+ |
+| Leathercraft & Bookbinding | Craft & making | 675/686.3 | TS940/Z266+ |
+| Gemology & Jewelry Arts | Craft & making | 736.2 | TS750+ |
+| Angling & Foraging Craft | Sport & recreation | 799.1 | SH441/QK98.5 |
+| Structural Pest Management | Building & trades | 648.7 | TX325 |
+| Fireground Operations Craft | Public safety | 628.925 | TH9310.5 |
 
 ## Boundary notes & known gaps
 - This domain is intentionally the *practitioner's* operational knowledge.
@@ -49,6 +55,9 @@ Reference systems used:
   performance craft, bicycle & small-engine repair._
 - _The SOC audit added Maritime Operations & Seamanship, Cosmetology & Personal
   Care Science, and Mortuary Science & Death Care (BLS 53-5021, 39-5012, 39-4031)._
-- Still open: horology & watchmaking, leathercraft & bookbinding, angling &
-  foraging craft, gemology & jewelry craft, structural pest management,
-  fireground operations craft.
+- _The gap-fill round filled all six open items: horology & watchmaking,
+  leathercraft & bookbinding, gemology & jewelry arts, angling & foraging
+  craft, structural pest management, and fireground operations craft (the
+  practitioner counterpart of Fire Protection & Safety Engineering)._
+- Still open: viticulture & enology (folds into Brewing, Fermentation &
+  Distilling for now).

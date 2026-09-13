@@ -43,6 +43,9 @@ Reference systems used:
 | Synthetic Biology | Life & bio-computation | 572.86 | TA164 — Molecular Bio + Engineering |
 | Conservation Science & Heritage Materials | Society & culture | 702.88 | N8560 — Chemistry + Art History |
 | Ethnobiology & Traditional Knowledge | Society & culture | 581.63 | GN476 — Anthropology + Ecology |
+| Color Science | Mind & cognition | 535.6 | QC495 — Optics + Perception + Design |
+| Game Studies & Ludology | Society & culture | 794.8 | GV1469.3 — Media + HCI + Psychology |
+| Urban Science | Complex systems | 307.76 | HT166 — Network Sci + Geography + Planning |
 
 ## Notes & known gaps
 - Each discipline here has "home" treatments elsewhere (e.g. Quantum Physics in
@@ -52,5 +55,11 @@ Reference systems used:
   synthetic biology, materials informatics, science of science, embodied AI,
   plus meta-science, forecasting, conservation science, ethnobiology, sensory
   science, and information design._
+- _The gap-fill round filled: Color Science (colorimetry and appearance models,
+  the synthesis between Optics' physics and the design fields' application),
+  Game Studies & Ludology (theory side; player strategy craft stays in
+  Practical's Competitive Games & Strategy), and Urban Science (scaling laws
+  and network morphology, the quantitative synthesis neither Urban Studies nor
+  Urban & Regional Planning holds)._
 - Still open: behavioral data science (folds into Data Science + Computational
-  Social Science for now), color science, game studies & ludology, urban science.
+  Social Science for now).

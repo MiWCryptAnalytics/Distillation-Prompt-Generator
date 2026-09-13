@@ -63,6 +63,13 @@ Reference systems used:
 | Quantum Computing Engineering | 006.3843 | QA76.889 | (quantum eng.) |
 | Architecture & Building Design | 720 | NA2750 | (architecture) |
 | Aircraft Maintenance & Airworthiness | 629.1346 | TL671.9 | (transport ops) |
+| Corrosion Engineering | 620.11223 | TA462+ | (materials, other eng.) |
+| Railway Systems Engineering | 625.1 | TF | (transport eng.) |
+| Spacecraft Operations & Mission Control | 629.4 | TL873 | (aerospace ops) |
+| Computer Graphics & Rendering | 006.6 | T385 | ACM: Computing methodologies |
+| Programming Languages & Compilers | 005.13 | QA76.7 | ACM: Software & its eng. |
+| Geographic Information Science & Cartography | 526 | GA102.4 | (geomatics, geography) |
+| Interior Design & Space Planning | 729 | NK2110 | (design practice) |
 
 ## Known gaps / candidates for later rounds
 _The audit round filled: Reliability & Safety, Forensic Engineering, Forensic
@@ -70,7 +77,13 @@ Science & Criminalistics, Human Factors & Ergonomics, Disaster & Emergency
 Management, Urban & Regional Planning, Aviation Operations._
 - _The SOC audit added Architecture & Building Design and Aircraft Maintenance
   & Airworthiness._
-- Corrosion engineering (LCC TA462)
-- Railway systems engineering (LCC TF)
-- Spacecraft operations & mission control (LCC TL873)
+- _The gap-fill round added: Corrosion, Railway Systems, and Spacecraft
+  Operations (the three open LCC gaps), plus Computer Graphics & Rendering and
+  Programming Languages & Compilers (ACM CCS sub-trees no discipline covered),
+  Geographic Information Science & Cartography (analysis side of Surveying &
+  Geomatics; MAUP, generalization, projections), and Interior Design & Space
+  Planning (NCIDQ-licensed practice, distinct from Architecture's
+  building-scale concepts)._
+- No open discipline gaps; next finds expected from the CPC/IPC concept-level
+  audit (see `../_audits.md`).
 - Petroleum is now oil/gas only; hard-rock mining moved to Mining & Metallurgical.

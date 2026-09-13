@@ -1,0 +1,12 @@
+{
+  "domain": "Applied Sciences & Tech",
+  "discipline": "Computer Graphics & Rendering",
+  "concepts": [
+    "Monte Carlo Path Tracing Variance",
+    "Physically Based BRDF Energy Conservation",
+    "Z-Fighting and Depth Buffer Precision",
+    "Level-of-Detail Transition Popping",
+    "Linear Blend Skinning Artifacts",
+    "Shadow Map Aliasing and Bias Trade-offs"
+  ]
+}

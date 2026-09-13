@@ -1,0 +1,12 @@
+{
+  "domain": "Physical Sciences",
+  "discipline": "Physical Geodesy",
+  "concepts": [
+    "Geoid Undulation Determination",
+    "Satellite Gravimetry Mass Change Detection",
+    "Height Systems and Orthometric Correction",
+    "Earth Rotation and Polar Motion Variations",
+    "Solid Earth and Ocean Tidal Loading",
+    "Terrestrial Reference Frame Realization"
+  ]
+}

@@ -45,10 +45,13 @@ Reference systems used:
 | Hydrology | Earth | 551.48 | GB651+ |
 | Paleoclimatology | Earth | 551.609 | QC884 |
 | Surface Science | Chemistry | 541.33 | QD506 |
+| Physical Geodesy | Earth | 526.1 | QB281 |
 
 ## Known gaps / candidates for later rounds
 _Filled in the scale round: Biophysics, Atomic & Molecular Physics, Statistical
 Mechanics, Quantum Optics, Volcanology, Hydrology, Paleoclimatology, Surface
 Science; the audit round added Physical Acoustics, Rheology, Petrology &
 Structural Geology, and Glaciology._
-- Physical geodesy (LCC QB281) — measurement side lives in Surveying & Geomatics
+- _The gap-fill round added Physical Geodesy (geoid, satellite gravimetry,
+  reference frames); the measurement practice stays in Surveying & Geomatics._
+- No open discipline gaps currently listed.

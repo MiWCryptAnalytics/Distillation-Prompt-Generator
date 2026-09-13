@@ -52,6 +52,10 @@ Reference systems used:
 | Theatre & Dramaturgy | Arts | 792 | PN2000+ |
 | Photography as Art | Arts | 770.1 | TR642 |
 | Graphic Design & Typography | Arts | 741.6 | NC997/Z250 |
+| Comics & Graphic Narrative | Literature | 741.5 | PN6700+ |
+| Hermeneutics & Interpretation Theory | Philosophy | 121.686 | BD241 |
+| Oral Tradition & Folklore Studies | Literature | 398 | GR |
+| Fashion & Apparel Design | Arts | 746.92 | TT507 |
 
 ## Boundary notes & known gaps
 - **Philosophy of Science** sits here as a humanities/philosophy discipline; the
@@ -65,5 +69,9 @@ Reference systems used:
   history & bibliography._
 - _The catalog audit (O*NET Design knowledge area) added Graphic Design &
   Typography._
-- Still open: comics & graphic narrative (LCC PN6700), hermeneutics &
-  interpretation theory, oral tradition & folklore studies (LCC GR).
+- _The gap-fill round filled all three open items: comics & graphic narrative,
+  hermeneutics & interpretation theory, and oral tradition & folklore studies.
+  It also added Fashion & Apparel Design (design-theory side, beside Graphic
+  Design & Typography; construction craft stays in Practical's Sewing &
+  Tailoring), relocated here from the Business domain's gap list._
+- No open discipline gaps currently listed.

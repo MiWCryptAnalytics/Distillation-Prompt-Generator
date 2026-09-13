@@ -10,7 +10,7 @@ meta:
     open-weights student models by forcing teachers past surface explanations
     into mechanisms, failure modes, trade-offs, and edge cases.
   status: taxonomy complete; concept expansion and generation pending
-  last_updated: 2026-08-29
+  last_updated: 2026-09-13
 
 research_direction:
   target_scale:
@@ -18,8 +18,8 @@ research_direction:
     formula: "items = concepts x trajectories; teacher_calls = items x 2"
   current_counts:
     domains: 11
-    disciplines: 367
-    seed_concepts: 2180
+    disciplines: 404
+    seed_concepts: 2402
     trajectories: 12
   next_steps:
     - run expand_concepts.py to grow disciplines toward 30-60 concepts each

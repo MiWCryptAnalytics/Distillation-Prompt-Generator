@@ -37,6 +37,10 @@ Reference systems used:
 | Real Estate & Property Management | Finance & control | 333.5 | HD1394 |
 | Business Law & Contracts | Strategy & governance | 346.07 | K1000+ |
 | Retail & Merchandising | Marketing & growth | 658.87 | HF5429 |
+| Family Business & Succession | Strategy & governance | 658.045 | HD62.25 |
+| Franchising | Marketing & growth | 658.8708 | HF5429.23 |
+| Corporate Communications & Public Relations | Marketing & growth | 659.2 | HD59 |
+| Procurement & Contract Management | Operations & supply | 658.72 | HD39.5 |
 
 ## Boundary notes & known gaps
 - **Corporate Finance & Valuation** lives in Economics & Money; management
@@ -48,6 +52,10 @@ Reference systems used:
   hospitality & tourism, sales management, real estate & property management,
   business law._
 - _The SOC audit added Retail & Merchandising._
-- Still open: family business & succession, franchising, corporate
-  communications & PR, procurement & contract management (folds into Supply
-  Chain for now), interior & fashion design practice.
+- _The gap-fill round filled: family business & succession, franchising,
+  corporate communications & PR, and procurement & contract management (split
+  out of Supply Chain: sourcing and contract-design reasoning, not logistics).
+  Interior and fashion design landed in their proper homes — Interior Design &
+  Space Planning in Applied Sciences & Tech, Fashion & Apparel Design in
+  Humanities & Arts._
+- No open discipline gaps currently listed.

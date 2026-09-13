@@ -40,6 +40,9 @@ Reference systems used:
 | Development Finance & Microfinance | Alternative & specialized | 332.1 | HG178.3 | O16 |
 | Islamic Finance | Alternative & specialized | 332.091767 | HG187.4 | Z12 |
 | Financial Data Science & Alternative Data | Alternative & specialized | 332.0285 | HG176.7 | C55 |
+| Sovereign Wealth & State Capital | Public & international | 332.67252 | HJ3801 | G23 |
+| Insurance-Linked Securities | Risk & regulation | 368.122 | HG8054.5 | G22 |
+| Household Finance | Alternative & specialized | 332.024 | HG179 | D14 |
 
 ## Boundary notes & known gaps
 - **Academic economic theory & policy** — macroeconomics, microeconomics,
@@ -49,5 +52,8 @@ Reference systems used:
   here it is decomposed into markets, instruments, and institutions.
 - _The audit round filled: VC & private equity, pensions, ESG finance,
   development finance & microfinance, Islamic finance, financial data science._
-- Still open: sovereign wealth & state capital, insurance-linked securities,
-  household finance.
+- _The gap-fill round filled all three open items: Sovereign Wealth & State
+  Capital, Insurance-Linked Securities, and Household Finance (the academic
+  counterpart of Practical's Personal Finance & Household Economics, per the
+  theory/practice split)._
+- No open discipline gaps currently listed.

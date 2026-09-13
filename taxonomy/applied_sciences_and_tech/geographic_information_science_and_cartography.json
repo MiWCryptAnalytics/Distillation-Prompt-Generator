@@ -1,0 +1,12 @@
+{
+  "domain": "Applied Sciences & Tech",
+  "discipline": "Geographic Information Science & Cartography",
+  "concepts": [
+    "Map Projection Distortion Trade-offs",
+    "Cartographic Generalization Conflicts",
+    "Modifiable Areal Unit Problem",
+    "Choropleth Classification Bias",
+    "Spatial Autocorrelation Measurement Pitfalls",
+    "Dasymetric Population Mapping"
+  ]
+}

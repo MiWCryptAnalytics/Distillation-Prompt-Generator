@@ -1,0 +1,12 @@
+{
+  "domain": "Applied Sciences & Tech",
+  "discipline": "Programming Languages & Compilers",
+  "concepts": [
+    "Static Single Assignment Transformation",
+    "Register Allocation by Graph Coloring",
+    "Generational Garbage Collection Hypothesis",
+    "Hindley-Milner Type Inference",
+    "Escape Analysis for Stack Allocation",
+    "JIT Tiering and Deoptimization"
+  ]
+}

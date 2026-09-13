@@ -54,6 +54,9 @@ Reference systems used:
 | Urban Studies | Sociology | 307.76 | HT151 |
 | Counseling & Psychotherapy Practice | Psychology | 158.3 | BF636.6 |
 | Archival Science & Records Management | Information | 025.171 | CD950 |
+| Applied Linguistics & Second Language Acquisition | Linguistics | 418.0071 | P118.2 |
+| International Law & Institutions | Law | 341 | KZ |
+| Intellectual Property Law | Law | 346.048 | K1401+ |
 
 ## Boundary notes & known gaps
 - **Linguistics** placed here as an empirical science (phonology, syntax,
@@ -65,4 +68,14 @@ Reference systems used:
   survey methodology (public opinion research folds in here)._
 - _The SOC audit added Counseling & Psychotherapy Practice and Archival Science
   & Records Management (BLS 21-1013, 25-4011)._
-- Still open: area studies (LCC DS-DT).
+- _The gap-fill round added Applied Linguistics & Second Language Acquisition
+  (SLA mechanisms, distinct from Linguistics' L1 theory and Education's general
+  learning science) and began splitting Law & Jurisprudence — a single
+  discipline for all of LCC K was the domain's thinnest spot — starting with
+  International Law & Institutions and Intellectual Property Law (doctrinal
+  reasoning; contract mechanics stay in Business Law & Contracts)._
+- Still open: further law splits (constitutional & administrative law, criminal
+  law & procedure) as future candidates.
+- Area studies (LCC DS-DT) stays deliberately unfilled: it is an umbrella of
+  regional syntheses, not a mechanism-grain discipline; regional depth arrives
+  via concept expansion inside history, comparative politics, and anthropology.
