@@ -18,8 +18,8 @@ research_direction:
     formula: "items = concepts x trajectories; teacher_calls = items x 2"
   current_counts:
     domains: 11
-    disciplines: 430
-    seed_concepts: 2558
+    disciplines: 442
+    seed_concepts: 2630
     trajectories: 12
   next_steps:
     - run expand_concepts.py to grow disciplines toward 30-60 concepts each

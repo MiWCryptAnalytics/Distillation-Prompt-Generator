@@ -62,6 +62,18 @@ Reference systems used:
 | Chiropractic, Massage & Manual Therapies | Allied & professional | 615.534 | RZ241/RM721 |
 | Clinical Trial Design & Biostatistics | Foundational | 610.724 | R853.C55 |
 | Pastoral Care & Chaplaincy | Allied & professional | 259.4 | BV4335 |
+| Family Medicine & Primary Care | Clinical | 610 | R729.5.G4 |
+| Transplant Medicine & Surgery | Perioperative & acute | 617.95 | RD120.7 |
+| Cardiothoracic Surgery & Perfusion | Perioperative & acute | 617.412 | RD598 |
+| Plastic & Reconstructive Surgery | Perioperative & acute | 617.952 | RD118 |
+| Neurosurgery | Perioperative & acute | 617.48 | RD593 |
+| Pain Medicine | Clinical | 616.0472 | RB127 |
+| Addiction Medicine | Clinical | 616.86 | RC564 |
+| Aerospace & Hyperbaric Medicine | Population & preventive | 616.98021 | RC1062/RC1005 |
+| Tropical & Travel Medicine | Internal medicine | 616.9883 | RC961 |
+| Forensic Pathology & Legal Medicine | Diagnostics | 614.1 | RA1063 |
+| Paramedicine & Prehospital Care | Perioperative & acute | 362.188 | RC86.7 |
+| Genetic Counseling | Foundational | 616.042 | RB155.7 |
 
 ## Boundary notes & known gaps
 - **Biomedical *engineering*** (devices, imaging hardware, prosthetics) lives in
@@ -85,11 +97,27 @@ Reference systems used:
   sweep added Clinical Trial Design & Biostatistics (trial methodology,
   distinct from meta-science's publication-system concepts and Life Sciences'
   disease-dynamics epidemiology)._
+- _The medicine depth pass (ABMS/ACGME specialty boards + MeSH top trees)
+  added 12 disciplines. Generalist and process: Family Medicine & Primary Care
+  (undifferentiated-presentation reasoning no organ specialty holds),
+  Paramedicine & Prehospital Care (field decisions; hospital-side stays in
+  Emergency & Trauma), Genetic Counseling (communication and duty questions;
+  variant science stays in Medical Genetics). Surgical: Transplant,
+  Cardiothoracic & Perfusion, Plastic & Reconstructive, Neurosurgery (each
+  carved around Surgery & Perioperative's general concepts). Cross-cutting:
+  Pain Medicine (modality mechanisms; chronification stays in Rehabilitation),
+  Addiction Medicine (treatment practice; reward circuitry stays in
+  Psychiatry — its former fold note is hereby closed), Aerospace & Hyperbaric
+  Medicine, Tropical & Travel Medicine, Forensic Pathology & Legal Medicine
+  (autopsy interpretation; criminalistics stays in Applied)._
 - Still open: optometry (folds into Ophthalmology & Vision Science for now),
-  physician assistant studies (a clinical role whose knowledge folds into the
-  existing disciplines), addiction medicine (folds into Psychiatry & Mental
-  Health for now), nuclear medicine & radiopharmaceutical therapy (folds into
-  Radiology & Medical Imaging for now).
+  physician assistant studies and hospital medicine (clinical roles whose
+  knowledge folds into the existing disciplines), nuclear medicine &
+  radiopharmaceutical therapy (folds into Radiology & Medical Imaging for
+  now), wilderness & expedition medicine (folds into Aerospace & Hyperbaric +
+  Emergency + Sports Medicine), podiatric medicine, vaccinology (folds into
+  Immunology + Public Health + Pediatrics), occupational therapy (folds into
+  Rehabilitation & Physical Medicine).
 - Gross anatomy stays distributed across Physiology, Surgery, and Radiology:
   its grain is descriptive rather than mechanistic, a poor fit for the 12
   adversarial trajectories.
