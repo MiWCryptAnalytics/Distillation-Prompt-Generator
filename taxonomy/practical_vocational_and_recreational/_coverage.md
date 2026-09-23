@@ -64,6 +64,7 @@ Reference systems used:
 | Circus Arts & Acrobatics | Sport & recreation | 791.3 | GV1801+ |
 | Martial Arts & Combatives | Sport & recreation | 796.8 | GV1111+ |
 | Instrument Making & Lutherie | Craft & making | 784.192 | ML755 |
+| Casino Advantage Play & Game Protection | Sport & recreation | 795 | GV1301+ |
 
 ## Boundary notes & known gaps
 - This domain is intentionally the *practitioner's* operational knowledge.
@@ -98,7 +99,7 @@ Reference systems used:
   Mountaineering, Scuba & Technical Diving (gas planning craft; DCS
   physiology stays in Aerospace & Hyperbaric Medicine), Commercial Driving &
   Heavy Vehicle Operation, and Tattooing & Body Art._
-- _The agentic ideation pass added Theatrical Magic & Illusion, Circus Arts & Acrobatics, Martial Arts & Combatives, and Instrument Making & Lutherie._
+- _The agentic ideation pass added Theatrical Magic & Illusion, Circus Arts & Acrobatics, Martial Arts & Combatives, Instrument Making & Lutherie, and Casino Advantage Play & Game Protection._
 - Judged covered, not split: HVAC service (Applied's HVAC & Refrigeration
   already holds the service mechanisms), commercial printing (Graphic Design
   + Painting & Printmaking + Leathercraft & Bookbinding + Packaging),

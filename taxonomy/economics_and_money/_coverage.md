@@ -54,6 +54,7 @@ Reference systems used:
 | Wealth Management & Financial Planning | Alternative & specialized | 332.6 | HG4529.5 | G51 |
 | Corporate Treasury & Liquidity Management | Corporate & investment | 658.152 | HG4028.C45 | G32 |
 | Clearing, Collateral & Securities Services | Digital & infrastructure | 332.64 | HG4515.5 | G23 |
+| Underground Economies & Black Markets | Alternative & specialized | 339.4 | HD2346 | K42 |
 
 ## Boundary notes & known gaps
 - **Academic economic theory & policy** — macroeconomics, microeconomics,
@@ -87,4 +88,5 @@ Reference systems used:
   Economics — the domain boundary), M&A advisory (Investment Banking +
   Corporate Finance & Valuation), fintech lending and BNPL (Banking + Payments
   + Financial Data Science).
+- _The agentic ideation pass added Underground Economies & Black Markets._
 - No open discipline gaps currently listed.
