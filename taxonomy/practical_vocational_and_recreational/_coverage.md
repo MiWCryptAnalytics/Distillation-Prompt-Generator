@@ -60,6 +60,10 @@ Reference systems used:
 | Scuba & Technical Diving | Sport & recreation | 797.23 | GV838.672 |
 | Commercial Driving & Heavy Vehicle Operation | Operations & transport | 629.284 | TL230.3 |
 | Tattooing & Body Art | Personal service | 391.65 | GT2345 |
+| Theatrical Magic & Illusion | Sport & recreation | 793.8 | GV1541+ |
+| Circus Arts & Acrobatics | Sport & recreation | 791.3 | GV1801+ |
+| Martial Arts & Combatives | Sport & recreation | 796.8 | GV1111+ |
+| Instrument Making & Lutherie | Craft & making | 784.192 | ML755 |
 
 ## Boundary notes & known gaps
 - This domain is intentionally the *practitioner's* operational knowledge.
@@ -94,6 +98,7 @@ Reference systems used:
   Mountaineering, Scuba & Technical Diving (gas planning craft; DCS
   physiology stays in Aerospace & Hyperbaric Medicine), Commercial Driving &
   Heavy Vehicle Operation, and Tattooing & Body Art._
+- _The agentic ideation pass added Theatrical Magic & Illusion, Circus Arts & Acrobatics, Martial Arts & Combatives, and Instrument Making & Lutherie._
 - Judged covered, not split: HVAC service (Applied's HVAC & Refrigeration
   already holds the service mechanisms), commercial printing (Graphic Design
   + Painting & Printmaking + Leathercraft & Bookbinding + Packaging),

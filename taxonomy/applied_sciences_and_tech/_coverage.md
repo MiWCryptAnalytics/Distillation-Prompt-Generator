@@ -71,6 +71,7 @@ Reference systems used:
 | Geographic Information Science & Cartography | 526 | GA102.4 | (geomatics, geography) |
 | Interior Design & Space Planning | 729 | NK2110 | (design practice) |
 | Medical & Radiation Physics | 615.842 | R895 | (medical physics) |
+| Theme Park & Dark Ride Design | 790.068 | GV1851 | (civil, other eng.) |
 
 ## Known gaps / candidates for later rounds
 _The audit round filled: Reliability & Safety, Forensic Engineering, Forensic
@@ -88,6 +89,7 @@ Management, Urban & Regional Planning, Aviation Operations._
 - _The ANZSRC/UNESCO sweep added Medical & Radiation Physics (therapy-machine
   dosimetry and QA; diagnostic imaging physics stays in Medicine's Radiology &
   Medical Imaging)._
+- _The agentic ideation pass added Theme Park & Dark Ride Design._
 - Industrial hygiene folds into Occupational & Environmental Medicine plus
   Reliability & Safety Engineering for now.
 - No open discipline gaps; next finds expected from the CPC/IPC concept-level

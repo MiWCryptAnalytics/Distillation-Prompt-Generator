@@ -60,6 +60,7 @@ Reference systems used:
 | Constitutional & Administrative Law | Law | 342 | K3161/K3400 |
 | Criminal Law & Procedure | Law | 345 | K5000+ |
 | Tort Law & Civil Liability | Law | 346.03 | K923 |
+| Clandestine Tradecraft & Espionage | Political science | 327.12 | UB250/JF1525.I6 |
 
 ## Boundary notes & known gaps
 - **Linguistics** placed here as an empirical science (phonology, syntax,
@@ -82,6 +83,7 @@ Reference systems used:
   plus Tort Law & Civil Liability (ANZSRC private-law field). Law now spans
   seven disciplines: jurisprudence, contracts (in Business), international,
   IP, constitutional/administrative, criminal, and tort._
+- _The agentic ideation pass added Clandestine Tradecraft & Espionage (operational craft beyond Intelligence Analysis)._
 - Still open: police science & investigative practice (doctrine and craft
   beyond Criminology's empirical theory), special education & inclusive
   practice, technical & professional communication.

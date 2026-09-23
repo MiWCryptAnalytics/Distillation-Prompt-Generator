@@ -67,6 +67,7 @@ Reference systems used:
 | Animation & Motion Design | Arts | 741.58 | NC1765/TR897.5 |
 | Painting & Printmaking Techniques | Arts | 751.4/766 | ND1500/NE850 |
 | Calligraphy & Lettering Arts | Arts | 745.61 | NK3600/Z43 |
+| Esoteric & Occult Systems | Religion | 133 | BF1405+ |
 
 ## Boundary notes & known gaps
 - **Philosophy of Science** sits here as a humanities/philosophy discipline; the
@@ -99,6 +100,7 @@ Reference systems used:
   Printmaking Techniques (studio mechanisms; materials degradation stays in
   Conservation Science), Calligraphy & Lettering Arts (Western, East Asian,
   and Arabic traditions; type design stays in Graphic Design & Typography)._
+- _The agentic ideation pass added Esoteric & Occult Systems._
 - Judged covered, not split: philosophy of religion (lives in Religious
   Studies & Theology), memory studies (Social & Cultural History + Museum &
   Heritage), prosody & versification (Rhetoric & Poetics).

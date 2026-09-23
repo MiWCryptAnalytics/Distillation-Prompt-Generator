@@ -46,6 +46,8 @@ Reference systems used:
 | Color Science | Mind & cognition | 535.6 | QC495 — Optics + Perception + Design |
 | Game Studies & Ludology | Society & culture | 794.8 | GV1469.3 — Media + HCI + Psychology |
 | Urban Science | Complex systems | 307.76 | HT166 — Network Sci + Geography + Planning |
+| Speedrunning & Glitch Hunting | Computation & data | 794.8 | GV1469.3 — Media + CS |
+| Trust & Safety Operations | Society & culture | 302.231 | HN49.I56 — Sociology + CS + Policy |
 
 ## Notes & known gaps
 - Each discipline here has "home" treatments elsewhere (e.g. Quantum Physics in
@@ -61,5 +63,6 @@ Reference systems used:
   Practical's Competitive Games & Strategy), and Urban Science (scaling laws
   and network morphology, the quantitative synthesis neither Urban Studies nor
   Urban & Regional Planning holds)._
+- _The agentic ideation pass added Speedrunning & Glitch Hunting and Trust & Safety Operations._
 - Still open: behavioral data science (folds into Data Science + Computational
   Social Science for now).

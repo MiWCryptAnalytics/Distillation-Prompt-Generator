@@ -1,0 +1,12 @@
+{
+  "domain": "Interdisciplinary & Emerging Sciences",
+  "discipline": "Speedrunning & Glitch Hunting",
+  "concepts": [
+    "Out-of-Bounds (OOB) Clipping Setup",
+    "Arbitrary Code Execution via Memory Corruption",
+    "Frame-Perfect Input Timing Windows",
+    "RNG (Random Number Generator) Manipulation",
+    "Subpixel Position Alignment",
+    "Sequence Breaking and Event Flags"
+  ]
+}
