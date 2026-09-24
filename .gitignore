@@ -9,6 +9,7 @@ venv/
 *.calls.jsonl
 adversarial_distillation_dataset*.json
 *.json.tmp
+batch_prompts.json
 
 # Editors / OS
 .vscode/
