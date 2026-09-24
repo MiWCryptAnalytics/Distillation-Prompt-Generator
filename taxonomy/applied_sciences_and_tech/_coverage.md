@@ -105,6 +105,7 @@ Management, Urban & Regional Planning, Aviation Operations._
 - Industrial hygiene folds into Occupational & Environmental Medicine plus
   Reliability & Safety Engineering for now.
 - _A conceptual sweep added Hacktivism & Asymmetric Cyber Warfare to capture decentralized adversarial disruption._
+- _An Agentic Ideation (Niche Industrial & Hard Tech) brainstorm added 13 deep engineering specialties: Horology & Precision Timekeeping, Pyrotechnics & Explosives Engineering, Hardware Reverse Engineering & Glitching, Cryogenics & Low-Temperature Engineering, Vertical Farming & CEA, Prosthetics & Bionics Engineering, Scientific Glassblowing, Plastics Engineering & Injection Molding, Welding Engineering & Joining Tech, Optomechanics & Telescope Engineering, Microelectromechanical Systems (MEMS), Fluid Power & Pneumatics Engineering, and Audio Transducer & Loudspeaker Design._
 - No open discipline gaps; next finds expected from the CPC/IPC concept-level
   audit (see `../_audits.md`).
 - Petroleum is now oil/gas only; hard-rock mining moved to Mining & Metallurgical.

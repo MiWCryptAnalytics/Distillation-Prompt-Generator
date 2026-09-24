@@ -1,0 +1,11 @@
+{
+  "domain": "Applied Sciences & Tech",
+  "discipline": "Hardware Reverse Engineering & Glitching",
+  "concepts": [
+    "Focused Ion Beam (FIB) Circuit Edit",
+    "Voltage Fault Injection",
+    "Silicon Decapsulation",
+    "JTAG/UART Hunting",
+    "Side-Channel Power Analysis"
+  ]
+}
