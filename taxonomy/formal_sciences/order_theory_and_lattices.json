@@ -1,0 +1,11 @@
+{
+  "domain": "Formal Sciences",
+  "discipline": "Order Theory & Lattices",
+  "concepts": [
+    "Partially Ordered Sets (Posets)",
+    "Zorn's Lemma",
+    "Boolean Algebras",
+    "Galois Connections",
+    "Complete Lattices"
+  ]
+}

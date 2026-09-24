@@ -1,0 +1,11 @@
+{
+  "domain": "Formal Sciences",
+  "discipline": "Queueing Theory",
+  "concepts": [
+    "Little's Law",
+    "M/M/1 Queue Steady-State",
+    "Markovian Arrival Processes",
+    "Kendall's Notation",
+    "Queuing Network Product Form Solutions"
+  ]
+}

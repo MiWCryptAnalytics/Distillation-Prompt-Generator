@@ -1,0 +1,11 @@
+{
+  "domain": "Formal Sciences",
+  "discipline": "Operator Theory",
+  "concepts": [
+    "Spectral Theorem for Bounded Operators",
+    "Fredholm Operators",
+    "Compact Operators",
+    "C*-Algebras",
+    "Von Neumann Algebras"
+  ]
+}

@@ -54,6 +54,12 @@ economy application stays in Social Sciences)._
 - _The gap-fill round split Proof Theory & Reverse Mathematics out of
   Mathematical Logic (ordinal analysis, the Big Five subsystems, proof mining;
   cut elimination itself stays in Mathematical Logic)._
-- No open discipline gaps currently listed.
+- _The latest MSC 2020 and ACM CCS expansion round added 28 highly specific fields:_
+  - **Logic/Foundations**: Computability Theory, Model Theory, Non-Classical Logic.
+  - **Geometry/Topology**: Discrete Geometry, Convex Geometry.
+  - **Analysis**: Harmonic Analysis, Operator Theory, Ergodic Theory, Global/Manifold Analysis (via information geometry), Approximations (via harmonic/operator).
+  - **Algebra**: Commutative Algebra, Non-associative Rings and Algebras, Representation Theory, Lie Groups and Lie Algebras, K-Theory, Universal Algebra, Field Theory and Polynomials, Linear Algebra and Matrix Theory, Homological Algebra, Order Theory & Lattices.
+  - **Theoretical CS**: Automata Theory & Formal Languages, Computational Complexity Theory, Semantics of Programming Languages, Type Theory, Process Algebra, Computational Geometry, Data Structures, Quantum Computing Theory.
+  - **Operations/Statistics**: Queueing Theory, Information Geometry.
 - Note: statistics here is the *mathematical* theory; applied/empirical methods
   recur inside domain-specific disciplines elsewhere.

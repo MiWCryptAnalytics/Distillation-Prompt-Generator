@@ -1,0 +1,11 @@
+{
+  "domain": "Formal Sciences",
+  "discipline": "Automata Theory & Formal Languages",
+  "concepts": [
+    "Pumping Lemma",
+    "Chomsky Hierarchy",
+    "Pushdown Automata",
+    "Regular Expressions to DFAs",
+    "Context-Free Grammars"
+  ]
+}

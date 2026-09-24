@@ -1,0 +1,11 @@
+{
+  "domain": "Formal Sciences",
+  "discipline": "Information Geometry",
+  "concepts": [
+    "Fisher Information Metric",
+    "Amari-Chentsov Tensor",
+    "Kullback-Leibler Divergence Geometry",
+    "Dual Connections",
+    "E-Geodesics"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "domain": "Formal Sciences",
+  "discipline": "Quantum Computing Theory",
+  "concepts": [
+    "Quantum Turing Machines",
+    "BQP Complexity Class",
+    "Shor's Algorithm Analysis",
+    "Quantum Error Correction Codes",
+    "Quantum Circuit Lower Bounds"
+  ]
+}

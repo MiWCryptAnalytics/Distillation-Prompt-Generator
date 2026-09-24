@@ -1,0 +1,11 @@
+{
+  "domain": "Formal Sciences",
+  "discipline": "Convex Geometry",
+  "concepts": [
+    "Minkowski Addition",
+    "Brunn-Minkowski Inequality",
+    "Convex Hulls",
+    "Support Functions",
+    "Mahler Volume"
+  ]
+}

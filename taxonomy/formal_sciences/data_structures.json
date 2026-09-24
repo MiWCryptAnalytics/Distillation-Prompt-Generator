@@ -1,0 +1,11 @@
+{
+  "domain": "Formal Sciences",
+  "discipline": "Data Structures",
+  "concepts": [
+    "Balanced Binary Search Trees",
+    "Bloom Filter False Positives",
+    "Disjoint-Set Forests (Union-Find)",
+    "Splay Tree Amortized Analysis",
+    "B-Trees"
+  ]
+}

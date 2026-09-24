@@ -1,0 +1,11 @@
+{
+  "domain": "Formal Sciences",
+  "discipline": "Semantics of Programming Languages",
+  "concepts": [
+    "Operational Semantics",
+    "Denotational Semantics",
+    "Axiomatic Semantics (Hoare Logic)",
+    "Lambda Calculus Evaluation",
+    "Domain Theory"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "domain": "Formal Sciences",
+  "discipline": "Process Algebra",
+  "concepts": [
+    "Communicating Sequential Processes (CSP)",
+    "Calculus of Communicating Systems (CCS)",
+    "Pi-Calculus",
+    "Bisimulation Equivalence",
+    "Actor Model Semantics"
+  ]
+}

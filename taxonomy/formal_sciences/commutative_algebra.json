@@ -1,0 +1,11 @@
+{
+  "domain": "Formal Sciences",
+  "discipline": "Commutative Algebra",
+  "concepts": [
+    "Noetherian Rings",
+    "Krull Dimension",
+    "Primary Decomposition",
+    "Cohen-Macaulay Rings",
+    "Regular Local Rings"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "domain": "Formal Sciences",
+  "discipline": "Non-Classical Logic",
+  "concepts": [
+    "Kripke Semantics",
+    "Intuitionistic Logic",
+    "Modal Logic S4/S5",
+    "Many-Valued Logics",
+    "Linear Logic"
+  ]
+}

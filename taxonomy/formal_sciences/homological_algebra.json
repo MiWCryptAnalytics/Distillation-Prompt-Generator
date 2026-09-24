@@ -1,0 +1,11 @@
+{
+  "domain": "Formal Sciences",
+  "discipline": "Homological Algebra",
+  "concepts": [
+    "Exact Sequences",
+    "Tor and Ext Functors",
+    "Chain Complexes",
+    "Derived Categories",
+    "Spectral Sequences"
+  ]
+}

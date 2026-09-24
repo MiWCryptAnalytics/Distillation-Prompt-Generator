@@ -1,0 +1,11 @@
+{
+  "domain": "Formal Sciences",
+  "discipline": "Computational Geometry",
+  "concepts": [
+    "Sweep-Line Algorithms",
+    "Convex Hull Algorithms",
+    "Delaunay Triangulation",
+    "Point Location Data Structures",
+    "Polygon Triangulation"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "domain": "Formal Sciences",
+  "discipline": "Harmonic Analysis",
+  "concepts": [
+    "Fourier Transforms on Groups",
+    "Plancherel Theorem",
+    "Pontryagin Duality",
+    "Wavelet Transforms",
+    "Singular Integrals"
+  ]
+}

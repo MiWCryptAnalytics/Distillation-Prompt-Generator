@@ -1,0 +1,11 @@
+{
+  "domain": "Formal Sciences",
+  "discipline": "Type Theory",
+  "concepts": [
+    "Simply Typed Lambda Calculus",
+    "Dependent Types",
+    "Curry-Howard Correspondence",
+    "Polymorphism (System F)",
+    "Homotopy Type Theory"
+  ]
+}

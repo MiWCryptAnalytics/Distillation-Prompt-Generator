@@ -1,0 +1,11 @@
+{
+  "domain": "Formal Sciences",
+  "discipline": "Linear Algebra and Matrix Theory",
+  "concepts": [
+    "Jordan Canonical Form",
+    "Singular Value Decomposition",
+    "Spectral Theorem for Hermitian Matrices",
+    "Perron-Frobenius Theorem",
+    "Cayley-Hamilton Theorem"
+  ]
+}

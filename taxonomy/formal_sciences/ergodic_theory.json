@@ -1,0 +1,11 @@
+{
+  "domain": "Formal Sciences",
+  "discipline": "Ergodic Theory",
+  "concepts": [
+    "Birkhoff's Ergodic Theorem",
+    "Measure-Preserving Transformations",
+    "Kolmogorov-Sinai Entropy",
+    "Mixing Systems",
+    "Poincar\u00e9 Recurrence"
+  ]
+}

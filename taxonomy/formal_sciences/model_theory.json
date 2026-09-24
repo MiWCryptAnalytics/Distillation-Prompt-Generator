@@ -1,0 +1,11 @@
+{
+  "domain": "Formal Sciences",
+  "discipline": "Model Theory",
+  "concepts": [
+    "Compactness Theorem",
+    "Lowenheim-Skolem Theorems",
+    "Saturated Models",
+    "Morley's Categoricity Theorem",
+    "Forcing in Model Theory"
+  ]
+}

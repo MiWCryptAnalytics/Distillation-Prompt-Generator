@@ -1,0 +1,11 @@
+{
+  "domain": "Formal Sciences",
+  "discipline": "Computability Theory",
+  "concepts": [
+    "Turing Degrees",
+    "Post's Problem",
+    "Recursively Enumerable Sets",
+    "Arithmetical Hierarchy",
+    "Oracles and Relativization"
+  ]
+}

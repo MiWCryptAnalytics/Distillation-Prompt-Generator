@@ -1,0 +1,11 @@
+{
+  "domain": "Formal Sciences",
+  "discipline": "Discrete Geometry",
+  "concepts": [
+    "Pick's Theorem",
+    "Voronoi Tessellations",
+    "Polytope Combinatorics",
+    "Helly's Theorem",
+    "Sphere Packing Bounds"
+  ]
+}

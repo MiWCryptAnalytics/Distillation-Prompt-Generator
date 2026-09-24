@@ -1,0 +1,11 @@
+{
+  "domain": "Formal Sciences",
+  "discipline": "Computational Complexity Theory",
+  "concepts": [
+    "NP-Completeness Reductions",
+    "Polynomial Hierarchy",
+    "Circuit Complexity Classes (NC/AC)",
+    "PCP Theorem",
+    "Interactive Proof Systems"
+  ]
+}

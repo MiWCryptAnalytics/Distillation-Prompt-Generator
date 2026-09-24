@@ -1,0 +1,11 @@
+{
+  "domain": "Formal Sciences",
+  "discipline": "Lie Groups and Lie Algebras",
+  "concepts": [
+    "Killing Form",
+    "Root Systems and Weyl Groups",
+    "Cartan Subalgebras",
+    "Engel's Theorem",
+    "Levi Decomposition"
+  ]
+}
