@@ -59,14 +59,15 @@ def generate_images_for_taxonomy(taxonomy_data_path, output_dir, batch_output_fi
             style = random.choice(styles)
             palette = random.choice(palettes)
             comp = random.choice(compositions)
+            
+            concepts = discipline.get("concepts", [])
+            # Select up to 3 concepts to keep the prompt under the 77 token limit
+            concept_str = ", ".join(random.sample(concepts, min(3, len(concepts)))) if concepts else "specialized tools"
 
-            # Create a rich prompt suitable for Flux
+            # Create a concise prompt suitable for Flux (77 token limit)
             prompt = (
-                f"A breathtaking, highly detailed scene representing the academic discipline of '{discipline_name}'. "
-                f"The image features a focused person actively engaged in this craft or field of study, surrounded by "
-                f"relevant tools, objects, and an environment that capture the deeper meaning of the topic. "
-                f"Visual theme: {style}. Color palette: {palette}. Camera angle: {comp}. "
-                f"4k resolution, masterpiece, professional illustration, trending on artstation."
+                f"Detailed illustration of '{discipline_name}'. A focused person actively working with: "
+                f"{concept_str}. {style}, {palette}, {comp}."
             )
             
             batch_prompts.append({
