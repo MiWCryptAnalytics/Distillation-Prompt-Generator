@@ -1,0 +1,11 @@
+{
+  "domain": "Applied Sciences & Tech",
+  "discipline": "Battery Management System Engineering",
+  "concepts": [
+    "Active vs. Passive Cell Balancing",
+    "State-of-Charge (SOC) Estimation Algorithms",
+    "Thermal Runaway Propagation Modeling",
+    "Electrochemical Impedance Spectroscopy",
+    "Contactor Welding Prevention"
+  ]
+}
