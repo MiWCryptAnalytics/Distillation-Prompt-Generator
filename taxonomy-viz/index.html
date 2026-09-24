@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/vite.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Taxonomy WebGL Starmap</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;800&family=Outfit:wght@500;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/style.css">
+  </head>
+  <body>
+    <div id="app">
+      <div id="loader" class="loader">Loading WebGL Universe...</div>
+      
+      <!-- 3D Force Graph Container -->
+      <div id="viz-container"></div>
+
+      <!-- Glassmorphism Sidebar -->
+      <aside id="sidebar" class="sidebar hidden">
+        <button id="close-sidebar" class="close-btn">&times;</button>
+        <div id="sidebar-content" class="sidebar-content">
+          <!-- Populated by JS -->
+        </div>
+      </aside>
+
+      <!-- UI Overlay Header -->
+      <div class="ui-overlay">
+        <h1 class="gradient-text">Taxonomy Starmap</h1>
+        <p class="subtitle">Drag to rotate the camera. Scroll to zoom. Click space objects to explore domains and disciplines in 3D.</p>
+      </div>
+
+      <!-- Control Panel -->
+      <div class="controls-panel">
+        <button id="btn-rotate" class="control-btn">Start Auto-Rotate</button>
+        <button id="btn-collapse" class="control-btn">Collapse All</button>
+        <button id="btn-reset" class="control-btn">Reset Camera</button>
+        
+        <div class="slider-group">
+          <label for="size-slider">Node Scale: <span id="size-val">1.0</span>x</label>
+          <input type="range" id="size-slider" min="0.5" max="3" step="0.1" value="1.0">
+        </div>
+      </div>
+    </div>
+    <script type="module" src="/main.js"></script>
+  </body>
+</html>
