@@ -133,3 +133,4 @@ Reference systems used:
   adversarial trajectories would probe bypass techniques, a dual-use grain we
   choose not to generate.
 - _The final gap-fill round added Equestrian Craft._
+- _A conceptual sweep added Parenting & Early Childcare Craft, Informal Eldercare & Accessibility Adaptation, and Domestic Operations & Maintenance Logistics to capture the domestic sphere._

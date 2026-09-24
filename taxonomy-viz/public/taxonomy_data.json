@@ -167,6 +167,18 @@
       "type": "Completeness Review",
       "swept": "yes",
       "outcome": "Added the final 16 open disciplines across Medicine, Humanities, Social Sciences, Practical, and Interdisciplinary domains."
+    },
+    {
+      "catalog": "Agentic Ideation (Internet Vernacular & Creator Economies)",
+      "type": "Agentic Ideation",
+      "swept": "yes",
+      "outcome": "Added 3 emergent disciplines capturing digital culture, fandom mechanics, and influencer operations."
+    },
+    {
+      "catalog": "Agentic Ideation (Domestic & Caregiving Craft)",
+      "type": "Agentic Ideation",
+      "swept": "yes",
+      "outcome": "Added 3 disciplines capturing the mechanistic craft of parenting, eldercare, and home operations."
     }
   ],
   "domains": [
@@ -1099,6 +1111,18 @@
             "Thin Capitalization Interest Limits",
             "Deferred Tax Asset Recognition Judgment",
             "Loss Carryforward Utilization Limits"
+          ]
+        },
+        {
+          "id": "creator_economy_and_influencer_operations",
+          "name": "Creator Economy & Influencer Operations",
+          "concepts": [
+            "Parasocial Relationship Cultivation",
+            "Algorithmic Pacing and Content Treadmills",
+            "Cross-Platform Audience Funneling",
+            "Sponsorship Integration Sequencing",
+            "Aesthetic Micro-Trend Cycling",
+            "VTuber Persona Mechanics"
           ]
         },
         {
@@ -2662,6 +2686,18 @@
           ]
         },
         {
+          "id": "fandom_and_participatory_culture",
+          "name": "Fandom & Participatory Culture",
+          "concepts": [
+            "Collaborative Wiki Canon Stewardship",
+            "Fanfiction Trope Inversion",
+            "Stan Culture Crowd-Mobilization",
+            "Alternate Reality Game (ARG) Breadcrumbing",
+            "Ship Wars and Discourse Dynamics",
+            "Crowdsourced Scanlation and Subbing Workflows"
+          ]
+        },
+        {
           "id": "fashion_and_apparel_design",
           "name": "Fashion & Apparel Design",
           "concepts": [
@@ -3228,6 +3264,18 @@
             "Digitization Bias and Gaps",
             "Topic Model Interpretation",
             "Cultural Analytics"
+          ]
+        },
+        {
+          "id": "digital_memetics_and_vernacular",
+          "name": "Digital Memetics & Vernacular",
+          "concepts": [
+            "Algorithmic Slang Masking (Algospeak)",
+            "Irony Poisoning and Post-Cringe Sincerity",
+            "Audio Trend Lifecycles",
+            "Copypasta Mutation and Forking",
+            "Deep-Fried and Surrealist Image Macros",
+            "Context Collapse Dynamics"
           ]
         },
         {
@@ -5599,6 +5647,18 @@
           ]
         },
         {
+          "id": "domestic_operations_and_maintenance_logistics",
+          "name": "Domestic Operations & Maintenance Logistics",
+          "concepts": [
+            "Deep Cleaning Surfactant Chemistry",
+            "Wardrobe Lifecycle Maintenance",
+            "Meal Prep Batching Logistics",
+            "Clutter Mitigation Zoning",
+            "Preventive Maintenance Scheduling",
+            "Indoor Air Quality Mitigation"
+          ]
+        },
+        {
           "id": "electrical_and_plumbing_trades",
           "name": "Electrical & Plumbing Trades",
           "concepts": [
@@ -5779,6 +5839,18 @@
           ]
         },
         {
+          "id": "informal_eldercare_and_accessibility_adaptation",
+          "name": "Informal Eldercare & Accessibility Adaptation",
+          "concepts": [
+            "Fall-Risk Home Modification",
+            "Dementia Redirection Heuristics",
+            "Caregiver Burnout Respite Scheduling",
+            "Medication Polypharmacy Tracking",
+            "Assistive Transfer Biomechanics",
+            "Palliative Comfort Feeding"
+          ]
+        },
+        {
           "id": "instrument_making_and_lutherie",
           "name": "Instrument Making & Lutherie",
           "concepts": [
@@ -5932,6 +6004,18 @@
             "Water Sourcing and Purification",
             "Weather Fronts and Reading",
             "Rescue Signaling"
+          ]
+        },
+        {
+          "id": "parenting_and_early_childcare_craft",
+          "name": "Parenting & Early Childcare Craft",
+          "concepts": [
+            "Sleep Training Extinction Bursts",
+            "Lactation Latch Biomechanics",
+            "Toddler Tantrum Co-Regulation",
+            "Baby-Led Weaning Gag Reflex vs Choking",
+            "Potty Training Readiness Signals",
+            "Sensory Play Texture Desensitization"
           ]
         },
         {

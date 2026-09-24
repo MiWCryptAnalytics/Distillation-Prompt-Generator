@@ -111,4 +111,5 @@ Reference systems used:
   Studies & Theology), memory studies (Social & Cultural History + Museum &
   Heritage), prosody & versification (Rhetoric & Poetics).
 - _The final gap-fill round added the remaining 3 open disciplines: Creative Nonfiction & Life Writing, Western Esotericism Studies, and Numismatics._
+- _A conceptual sweep added Fandom & Participatory Culture to capture the collaborative governance of fan communities._
 - No open discipline gaps currently listed.

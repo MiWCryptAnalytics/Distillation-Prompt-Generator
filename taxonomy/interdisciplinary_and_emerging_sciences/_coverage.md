@@ -65,4 +65,5 @@ Reference systems used:
   Urban & Regional Planning holds)._
 - _The agentic ideation pass added Speedrunning & Glitch Hunting and Trust & Safety Operations._
 - _The final gap-fill round added Behavioral Data Science._
+- _A conceptual sweep added Digital Memetics & Vernacular to capture the mechanics of internet culture._
 - No open discipline gaps currently listed.

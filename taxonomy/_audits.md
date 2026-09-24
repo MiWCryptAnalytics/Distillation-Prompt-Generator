@@ -34,4 +34,6 @@ file; the engine only loads `<domain>/<discipline>.json`.)
 | Agentic Ideation (Cozy Home & Geeky Pursuits Part 2) | Agentic Ideation | yes | Added 6 more disciplines: Botanical Perfumery & Olfactory Arts, Fungi Cultivation & Mycology Craft, Basketry & Woven Fiber Crafts, First-Person View (FPV) Drone Engineering, Amateur Radio & Ham Communication, Retrocomputing & Vintage Hardware. |
 | Agentic Ideation (Playful Arts & Niche Leisure) | Agentic Ideation | yes | Added 6 disciplines: Board Game Design & Tabletop Mechanics, Aquascaping & Planted Aquariums, Origami & Paper Engineering, Cosplay & Costume Fabrication, Bonsai Cultivation & Shaping, Kite Making & Aerocrafts. |
 | Final Gap-Fill Sweep | Completeness Review | yes | Added the final 16 open disciplines across Medicine, Humanities, Social Sciences, Practical, and Interdisciplinary domains. |
+| Agentic Ideation (Internet Vernacular & Creator Economies) | Agentic Ideation | yes | Added 3 emergent disciplines capturing digital culture, fandom mechanics, and influencer operations. |
+| Agentic Ideation (Domestic & Caregiving Craft) | Agentic Ideation | yes | Added 3 disciplines capturing the mechanistic craft of parenting, eldercare, and home operations. |
 
