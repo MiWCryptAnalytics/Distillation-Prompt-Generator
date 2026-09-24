@@ -134,3 +134,5 @@ Reference systems used:
   choose not to generate.
 - _The final gap-fill round added Equestrian Craft._
 - _A conceptual sweep added Parenting & Early Childcare Craft, Informal Eldercare & Accessibility Adaptation, and Domestic Operations & Maintenance Logistics to capture the domestic sphere._
+- _A conceptual sweep added Advanced Bushcraft & Off-Grid Survival, Extreme & Action Sports Biomechanics, and Urban Exploration & Infiltration to capture extreme physical survivalism._
+- _A conceptual sweep added Traditional Navigation & Wayfinding to capture the mechanistic logic of indigenous navigation systems._

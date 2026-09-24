@@ -6,6 +6,7 @@
     "Interactive Proof Systems",
     "Kolmogorov Complexity",
     "The PCP Theorem",
-    "Circuit Lower Bounds"
+    "Circuit Lower Bounds",
+    "Turing Machine Halting Decidability"
   ]
 }

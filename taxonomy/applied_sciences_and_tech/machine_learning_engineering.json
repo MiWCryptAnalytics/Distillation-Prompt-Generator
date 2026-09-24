@@ -6,6 +6,7 @@
     "Attention Mechanism Scaling",
     "Catastrophic Forgetting",
     "Adversarial Example Robustness",
-    "Model Quantization Error"
+    "Model Quantization Error",
+    "Gradient Penalty Regularization Dynamics"
   ]
 }

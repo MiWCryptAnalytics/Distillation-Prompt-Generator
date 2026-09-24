@@ -6,6 +6,7 @@
     "Expander Graph Mixing",
     "Max-Flow Min-Cut Duality",
     "Chromatic Polynomial Computation",
-    "Ramsey Number Bounds"
+    "Ramsey Number Bounds",
+    "Bipartite Matching Augmenting Paths"
   ]
 }

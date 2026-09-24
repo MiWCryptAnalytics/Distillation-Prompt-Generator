@@ -6,6 +6,7 @@
     "Kalman Filter State Estimation",
     "SLAM Loop Closure",
     "Inverse Kinematics Singularities",
-    "Model Predictive Control Horizons"
+    "Model Predictive Control Horizons",
+    "Kalman Filter Covariance Matrix Updating"
   ]
 }

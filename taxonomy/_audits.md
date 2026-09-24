@@ -36,4 +36,8 @@ file; the engine only loads `<domain>/<discipline>.json`.)
 | Final Gap-Fill Sweep | Completeness Review | yes | Added the final 16 open disciplines across Medicine, Humanities, Social Sciences, Practical, and Interdisciplinary domains. |
 | Agentic Ideation (Internet Vernacular & Creator Economies) | Agentic Ideation | yes | Added 3 emergent disciplines capturing digital culture, fandom mechanics, and influencer operations. |
 | Agentic Ideation (Domestic & Caregiving Craft) | Agentic Ideation | yes | Added 3 disciplines capturing the mechanistic craft of parenting, eldercare, and home operations. |
+| Agentic Ideation (Fringe & Speculative Systems) | Agentic Ideation | yes | Added 3 disciplines capturing the internal logic of parapsychology, ufology, and speculative design. |
+| Agentic Ideation (Extreme Survival) | Agentic Ideation | yes | Added 3 disciplines capturing the mechanics of off-grid survival, action sports, and urban exploration. |
+| Agentic Ideation (Indigenous & Holistic Epistemologies) | Agentic Ideation | yes | Added 2 disciplines to treat indigenous knowledge (ecological management and navigation) as mechanistic operational systems. |
+| Concept Standardization & Illicit Operations | Agentic Ideation | yes | Appended missing 6th concepts to 22 early disciplines and added 3 disciplines covering illicit/adversarial operations. |
 

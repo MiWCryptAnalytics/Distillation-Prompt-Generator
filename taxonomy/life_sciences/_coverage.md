@@ -70,6 +70,7 @@ Biology & Toxinology._
   human clinical toxicology stays in Medicine), and Systematics &
   Phylogenetics (tree inference and species delimitation, distinct from
   Population Genetics and Evolutionary Biology)._
+- _A conceptual sweep added Traditional Ecological Knowledge & Land Management to codify indigenous ecosystem stewardship._
 - No open discipline gaps currently listed.
 - Note: clinical/applied medicine now has its own domain
   (Medicine & Health Sciences); this domain stays the basic-science treatment.

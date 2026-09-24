@@ -179,6 +179,30 @@
       "type": "Agentic Ideation",
       "swept": "yes",
       "outcome": "Added 3 disciplines capturing the mechanistic craft of parenting, eldercare, and home operations."
+    },
+    {
+      "catalog": "Agentic Ideation (Fringe & Speculative Systems)",
+      "type": "Agentic Ideation",
+      "swept": "yes",
+      "outcome": "Added 3 disciplines capturing the internal logic of parapsychology, ufology, and speculative design."
+    },
+    {
+      "catalog": "Agentic Ideation (Extreme Survival)",
+      "type": "Agentic Ideation",
+      "swept": "yes",
+      "outcome": "Added 3 disciplines capturing the mechanics of off-grid survival, action sports, and urban exploration."
+    },
+    {
+      "catalog": "Agentic Ideation (Indigenous & Holistic Epistemologies)",
+      "type": "Agentic Ideation",
+      "swept": "yes",
+      "outcome": "Added 2 disciplines to treat indigenous knowledge (ecological management and navigation) as mechanistic operational systems."
+    },
+    {
+      "catalog": "Concept Standardization & Illicit Operations",
+      "type": "Agentic Ideation",
+      "swept": "yes",
+      "outcome": "Appended missing 6th concepts to 22 early disciplines and added 3 disciplines covering illicit/adversarial operations."
     }
   ],
   "domains": [
@@ -374,7 +398,8 @@
             "Kalman Filter State Estimation",
             "SLAM Loop Closure",
             "Inverse Kinematics Singularities",
-            "Model Predictive Control Horizons"
+            "Model Predictive Control Horizons",
+            "Kalman Filter Covariance Matrix Updating"
           ]
         },
         {
@@ -570,6 +595,18 @@
           ]
         },
         {
+          "id": "hacktivism_and_asymmetric_cyber_warfare",
+          "name": "Hacktivism & Asymmetric Cyber Warfare",
+          "concepts": [
+            "Distributed Denial of Service (DDoS) Botnet Herding",
+            "Doxxing Data Aggregation Pipelines",
+            "Zero-Day Exploit Brokerage Markets",
+            "Defacement Payload Delivery",
+            "Hacktivist Cell Decentralized Command",
+            "Social Engineering Spear-Phishing"
+          ]
+        },
+        {
           "id": "human_factors_and_ergonomics",
           "name": "Human Factors & Ergonomics",
           "concepts": [
@@ -625,7 +662,8 @@
             "Attention Mechanism Scaling",
             "Catastrophic Forgetting",
             "Adversarial Example Robustness",
-            "Model Quantization Error"
+            "Model Quantization Error",
+            "Gradient Penalty Regularization Dynamics"
           ]
         },
         {
@@ -660,7 +698,8 @@
             "Semiconductor Doping Profiles",
             "Composite Delamination",
             "Shape-Memory Alloy Transitions",
-            "Creep Deformation Mechanisms"
+            "Creep Deformation Mechanisms",
+            "Dislocation Glide and Strain Hardening"
           ]
         },
         {
@@ -1474,6 +1513,18 @@
           ]
         },
         {
+          "id": "smuggling_and_contraband_logistics",
+          "name": "Smuggling & Contraband Logistics",
+          "concepts": [
+            "Trade-Based Money Laundering Over-Invoicing",
+            "Narco-Submarine Ballast Mechanics",
+            "Darknet Dead-Drop Routing",
+            "Border Checkpoint Flow Analysis",
+            "Contraband Concealment Compartmentalization",
+            "Front Company Layering Operations"
+          ]
+        },
+        {
           "id": "supply_chain_and_logistics",
           "name": "Supply Chain & Logistics",
           "concepts": [
@@ -2189,7 +2240,8 @@
             "Expander Graph Mixing",
             "Max-Flow Min-Cut Duality",
             "Chromatic Polynomial Computation",
-            "Ramsey Number Bounds"
+            "Ramsey Number Bounds",
+            "Bipartite Matching Augmenting Paths"
           ]
         },
         {
@@ -2212,7 +2264,8 @@
             "Sequent Calculus Cut Elimination",
             "Model-Theoretic Compactness",
             "Type Theory Normalization",
-            "Forcing and Independence Proofs"
+            "Forcing and Independence Proofs",
+            "G\u00f6del Incompleteness Arithmetization"
           ]
         },
         {
@@ -2355,7 +2408,8 @@
             "Interactive Proof Systems",
             "Kolmogorov Complexity",
             "The PCP Theorem",
-            "Circuit Lower Bounds"
+            "Circuit Lower Bounds",
+            "Turing Machine Halting Decidability"
           ]
         },
         {
@@ -2384,7 +2438,8 @@
             "Mimesis and Representation",
             "The Kantian Sublime",
             "Authorial Intent and Interpretation",
-            "Aura and Mechanical Reproduction"
+            "Aura and Mechanical Reproduction",
+            "Kantian Disinterested Judgment"
           ]
         },
         {
@@ -2647,7 +2702,8 @@
             "Bayesian Confirmation Theory",
             "The Problem of Induction",
             "Epistemic Closure Failures",
-            "Testimonial Knowledge Transmission"
+            "Testimonial Knowledge Transmission",
+            "Bayesian Epistemic Updating"
           ]
         },
         {
@@ -2670,7 +2726,8 @@
             "Moral Luck",
             "The Non-Identity Problem",
             "Contractualist Reasonable Rejection",
-            "Virtue Ethics and Situationism"
+            "Virtue Ethics and Situationism",
+            "Utilitarian Utility Calculus Aggregation"
           ]
         },
         {
@@ -2753,7 +2810,8 @@
             "Counterfactual Historical Analysis",
             "The Annales School Longue Dur\u00e9e",
             "Archival Silences",
-            "Periodization Debates"
+            "Periodization Debates",
+            "Subaltern Studies Archival Silences"
           ]
         },
         {
@@ -3066,6 +3124,18 @@
             "Material Culture and Consumption",
             "Gender and the Private Sphere",
             "Tradition and Cultural Transmission"
+          ]
+        },
+        {
+          "id": "speculative_design_and_science_fiction_prototyping",
+          "name": "Speculative Design & Science Fiction Prototyping",
+          "concepts": [
+            "Diegetic Prototype Worldbuilding",
+            "Alternate History Divergence Points",
+            "Hard Sci-Fi Orbital Mechanics Accuracy",
+            "Xenobiology Ecosystem Simulation",
+            "Dystopian Scenario Extrapolation",
+            "Cyberpunk Aesthetic Extrapolation"
           ]
         },
         {
@@ -3387,6 +3457,18 @@
           ]
         },
         {
+          "id": "parapsychology_and_psychical_research",
+          "name": "Parapsychology & Psychical Research",
+          "concepts": [
+            "Ganzfeld Experiment Telepathy Protocols",
+            "Remote Viewing Coordinate Traversal",
+            "Psychokinesis Micro-PK Statistical Anomalies",
+            "Electronic Voice Phenomenon (EVP) Audio Filtering",
+            "Out-of-Body Experience (OBE) Induction Methods",
+            "Zener Card Clairvoyance Probability"
+          ]
+        },
+        {
           "id": "quantum_information_science",
           "name": "Quantum Information Science",
           "concepts": [
@@ -3516,6 +3598,18 @@
             "Moderation Queue Algorithmic Prioritization",
             "Ban Evasion Device Fingerprinting",
             "Content Authenticity Provenance Verification"
+          ]
+        },
+        {
+          "id": "ufology_and_anomalous_phenomena",
+          "name": "Ufology & Anomalous Phenomena",
+          "concepts": [
+            "Close Encounter Classification Scales (Hynek)",
+            "Radar-Visual UAP Correlation",
+            "Abduction Regression Hypnosis Protocols",
+            "Electromagnetic Vehicle Interference Signatures",
+            "Crop Circle Geometry and Node Bending",
+            "Roswell Debris Reverse Engineering Lore"
           ]
         },
         {
@@ -3736,7 +3830,8 @@
             "Epigenetic Methylation Inheritance",
             "Alternative Splicing Regulation",
             "Horizontal Gene Transfer",
-            "Telomere Attrition Dynamics"
+            "Telomere Attrition Dynamics",
+            "Epigenetic Histone Methylation Profiling"
           ]
         },
         {
@@ -3747,7 +3842,8 @@
             "MHC Antigen Presentation",
             "Cytokine Storm Feedback Loops",
             "Peripheral Immunological Tolerance",
-            "Somatic Hypermutation"
+            "Somatic Hypermutation",
+            "T-Cell Receptor V(D)J Recombination"
           ]
         },
         {
@@ -3770,7 +3866,8 @@
             "Krebs Cycle Allosteric Regulation",
             "Glycolytic Flux Control",
             "Fatty Acid Beta-Oxidation",
-            "mTOR Nutrient Signaling"
+            "mTOR Nutrient Signaling",
+            "Allosteric Enzyme Feedback Inhibition"
           ]
         },
         {
@@ -3829,7 +3926,8 @@
             "Predictive Coding Hierarchies",
             "Neurotransmitter Reuptake Kinetics",
             "Cortical Column Organization",
-            "Action Potential Propagation"
+            "Action Potential Propagation",
+            "Synaptic Vesicle SNARE Complex Fusion"
           ]
         },
         {
@@ -3974,6 +4072,18 @@
             "Repressilator Biological Oscillators",
             "Bistability and Robustness in Networks",
             "Genetic Circuit Noise and Stochasticity"
+          ]
+        },
+        {
+          "id": "traditional_ecological_knowledge_and_land_management",
+          "name": "Traditional Ecological Knowledge & Land Management",
+          "concepts": [
+            "Controlled Burn Indigenous Fire Regimes",
+            "Milpa Agroforestry Succession",
+            "Intertidal Clam Garden Mariculture",
+            "Phenological Indicator Tracking",
+            "Sacred Grove Biodiversity Refugia",
+            "Kincentric Ecological Governance"
           ]
         },
         {
@@ -4836,7 +4946,8 @@
             "Accretion Disk Instabilities",
             "Gravitational Lensing Reconstruction",
             "Stellar Nucleosynthesis Chains",
-            "Cosmic Inflation Perturbations"
+            "Cosmic Inflation Perturbations",
+            "Supermassive Black Hole Accretion Disk Thermodynamics"
           ]
         },
         {
@@ -4907,7 +5018,8 @@
             "Topological Insulator Edge States",
             "Anderson Localization",
             "Quasiparticle Excitations",
-            "Band Structure Engineering"
+            "Band Structure Engineering",
+            "Bose-Einstein Condensate Phase Transitions"
           ]
         },
         {
@@ -5206,7 +5318,8 @@
             "Bell Inequality Violations",
             "Quantum Error Correction Codes",
             "Quantum Tunneling Rates",
-            "Renormalization Group Flow"
+            "Renormalization Group Flow",
+            "Quantum Entanglement Bell Inequality Violations"
           ]
         },
         {
@@ -5265,7 +5378,8 @@
             "Carnot Efficiency Limits",
             "Landauer's Erasure Principle",
             "Phase Transition Criticality",
-            "Onsager Reciprocal Relations"
+            "Onsager Reciprocal Relations",
+            "Entropy Maximization Statistical Mechanics"
           ]
         },
         {
@@ -5286,6 +5400,18 @@
       "id": "practical_vocational_and_recreational",
       "name": "Practical, Vocational & Recreational",
       "disciplines": [
+        {
+          "id": "advanced_bushcraft_and_off_grid_survival",
+          "name": "Advanced Bushcraft & Off-Grid Survival",
+          "concepts": [
+            "Friction Fire Wood Selection Thermodynamics",
+            "Water Sourcing Transpiration Traps",
+            "Improvised Shelter Thermal Mass",
+            "Wild Edibles Caloric Foraging",
+            "Deadfall Trap Trigger Mechanics",
+            "Natural Cordage Tensile Strength"
+          ]
+        },
         {
           "id": "agriculture_and_horticulture_practice",
           "name": "Agriculture & Horticulture Practice",
@@ -5680,6 +5806,18 @@
             "Saddle Fitting Pressure Distribution",
             "Equine Behavior Conditioning Schedules",
             "Stable Management Biosecurity Protocols"
+          ]
+        },
+        {
+          "id": "extreme_and_action_sports_biomechanics",
+          "name": "Extreme & Action Sports Biomechanics",
+          "concepts": [
+            "Base Jumping Glide Ratios",
+            "Parkour Drop Rolling Momentum Transfer",
+            "Big Wave Surfing Hold-Down Hypoxia",
+            "Free Solo Climbing Rest Scumming",
+            "Downhill Mountain Bike Suspension Rebound",
+            "Skateboard Flip Trick Gyroscopic Forces"
           ]
         },
         {
@@ -6151,6 +6289,30 @@
           ]
         },
         {
+          "id": "traditional_navigation_and_wayfinding",
+          "name": "Traditional Navigation & Wayfinding",
+          "concepts": [
+            "Polynesian Star Compass Alignment",
+            "Swell Refraction and Wave Piloting",
+            "Zenith Star Island Targeting",
+            "Bioluminescence Wake Reading",
+            "Cloud Formation Land Bounce Signatures",
+            "Migratory Bird Pathfinding Aids"
+          ]
+        },
+        {
+          "id": "urban_exploration_and_infiltration",
+          "name": "Urban Exploration & Infiltration",
+          "concepts": [
+            "Abandoned Structural Integrity Assessment",
+            "Subterranean Confined Space Gas Pockets",
+            "Motion Sensor Bypass Angles",
+            "Historical Blueprint Reverse Engineering",
+            "Elevator Shaft Navigation Safety",
+            "Night Vision Tactical Movement"
+          ]
+        },
+        {
           "id": "viticulture_and_enology",
           "name": "Viticulture & Enology",
           "concepts": [
@@ -6224,7 +6386,8 @@
             "Operant Conditioning Schedules",
             "Cognitive Dissonance Reduction",
             "Dual-Process Reasoning",
-            "Hedonic Adaptation"
+            "Hedonic Adaptation",
+            "Operant Conditioning Variable-Ratio Schedules"
           ]
         },
         {
@@ -6451,7 +6614,8 @@
             "Mechanism Design Incentive Compatibility",
             "Arrow's Impossibility Theorem",
             "Principal-Agent Contract Failures",
-            "Repeated Game Folk Theorems"
+            "Repeated Game Folk Theorems",
+            "Nash Equilibrium Best-Response Functions"
           ]
         },
         {
@@ -6606,7 +6770,8 @@
             "Phillips Curve Expectations",
             "Quantitative Easing Transmission",
             "Sovereign Debt Sustainability",
-            "The Impossible Trinity"
+            "The Impossible Trinity",
+            "Keynesian Multiplier Propensity to Consume"
           ]
         },
         {
@@ -6643,6 +6808,18 @@
             "Combined Arms Coordination",
             "Attrition versus Maneuver",
             "Civil-Military Relations"
+          ]
+        },
+        {
+          "id": "organized_crime_network_structures",
+          "name": "Organized Crime Network Structures",
+          "concepts": [
+            "Omert\u00e0 and Kinship Enforcement Mechanisms",
+            "Cartel Franchise Scaling Models",
+            "Protection Racket Extortion Equilibriums",
+            "Underground Arbitration and Dispute Resolution",
+            "Illicit Market Monopoly Violence",
+            "Syndicate Succession Planning"
           ]
         },
         {
@@ -6725,7 +6902,8 @@
             "Institutional Isomorphism",
             "Collective Action Problems",
             "Threshold Models of Collective Behavior",
-            "Social Capital Formation"
+            "Social Capital Formation",
+            "Symbolic Interactionist Dramaturgy"
           ]
         },
         {

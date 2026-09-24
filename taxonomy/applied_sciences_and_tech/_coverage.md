@@ -104,6 +104,7 @@ Management, Urban & Regional Planning, Aviation Operations._
 - _The Cozy Home & Geeky Pursuits Part 2 brainstorm added First-Person View (FPV) Drone Engineering, Amateur Radio & Ham Communication, and Retrocomputing & Vintage Hardware._
 - Industrial hygiene folds into Occupational & Environmental Medicine plus
   Reliability & Safety Engineering for now.
+- _A conceptual sweep added Hacktivism & Asymmetric Cyber Warfare to capture decentralized adversarial disruption._
 - No open discipline gaps; next finds expected from the CPC/IPC concept-level
   audit (see `../_audits.md`).
 - Petroleum is now oil/gas only; hard-rock mining moved to Mining & Metallurgical.

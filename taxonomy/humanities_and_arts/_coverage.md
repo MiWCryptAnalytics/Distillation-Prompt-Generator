@@ -112,4 +112,5 @@ Reference systems used:
   Heritage), prosody & versification (Rhetoric & Poetics).
 - _The final gap-fill round added the remaining 3 open disciplines: Creative Nonfiction & Life Writing, Western Esotericism Studies, and Numismatics._
 - _A conceptual sweep added Fandom & Participatory Culture to capture the collaborative governance of fan communities._
+- _A conceptual sweep added Speculative Design & Science Fiction Prototyping to capture the internal logic of fringe systems and worldbuilding._
 - No open discipline gaps currently listed.

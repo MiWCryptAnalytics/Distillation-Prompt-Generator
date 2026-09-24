@@ -87,6 +87,7 @@ Reference systems used:
   IP, constitutional/administrative, criminal, and tort._
 - _The agentic ideation pass added Clandestine Tradecraft & Espionage (operational craft beyond Intelligence Analysis), Coercive Control & Cult Dynamics, and Deception Detection & Polygraphy._
 - _The final gap-fill round added the remaining 3 open disciplines: Police Science & Investigative Practice, Special Education & Inclusive Practice, and Technical & Professional Communication._
+- _A conceptual sweep added Organized Crime Network Structures to capture illicit sociological governance._
 - Area studies (LCC DS-DT) stays deliberately unfilled: it is an umbrella of
   regional syntheses, not a mechanism-grain discipline; regional depth arrives
   via concept expansion inside history, comparative politics, and anthropology.

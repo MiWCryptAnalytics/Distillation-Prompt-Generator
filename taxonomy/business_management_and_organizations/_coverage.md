@@ -93,5 +93,6 @@ Reference systems used:
   quality management (Operations' Six Sigma), brand management (Marketing),
   knowledge management (IS/IT + Organization Theory).
 - _A conceptual sweep added Creator Economy & Influencer Operations to capture the operational mechanics of digital content creation._
+- _A conceptual sweep added Smuggling & Contraband Logistics to capture the mechanics of illicit supply chains._
 - No open discipline gaps currently listed.
 - _The Joy & Whimsy brainstorm added Event Planning & Celebration Arts._

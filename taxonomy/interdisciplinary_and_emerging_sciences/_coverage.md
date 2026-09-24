@@ -66,4 +66,5 @@ Reference systems used:
 - _The agentic ideation pass added Speedrunning & Glitch Hunting and Trust & Safety Operations._
 - _The final gap-fill round added Behavioral Data Science._
 - _A conceptual sweep added Digital Memetics & Vernacular to capture the mechanics of internet culture._
+- _A conceptual sweep added Parapsychology & Psychical Research and Ufology & Anomalous Phenomena to capture the internal logic of fringe systems._
 - No open discipline gaps currently listed.
