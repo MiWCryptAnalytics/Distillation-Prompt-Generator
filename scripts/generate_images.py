@@ -27,33 +27,33 @@ def generate_images_for_taxonomy(taxonomy_data_path, output_dir, batch_output_fi
                 continue
                 
             styles = [
-                "cyberpunk neon data streams",
-                "ethereal bioluminescent web",
-                "minimalist sacred geometry",
-                "holographic 3d projection",
-                "macro photography of glowing crystals",
-                "intricate fractal mathematics",
-                "fluid dynamic particle simulation",
-                "starlight nebula clouds",
-                "dark matter void with intense energy lines",
-                "glassmorphism floating prisms"
+                "cinematic lighting",
+                "oil painting style",
+                "hyper-realistic digital illustration",
+                "detailed concept art",
+                "soft studio lighting",
+                "dramatic chiaroscuro",
+                "vibrant watercolor",
+                "vintage photograph style",
+                "retro-futuristic illustration",
+                "modern minimalist illustration"
             ]
             
             palettes = [
-                "deep space blues and purples",
-                "neon pink and cyan vaporwave",
-                "emerald green and brilliant gold",
-                "crimson, copper, and obsidian",
-                "monochrome slate with electric silver highlights",
-                "vibrant cosmic rainbow"
+                "warm earthy tones",
+                "cool blues and silver",
+                "vibrant contrasting colors",
+                "muted pastel colors",
+                "rich jewel tones",
+                "monochrome with a pop of bright color"
             ]
             
             compositions = [
-                "centered symmetrical composition",
-                "dynamic flowing curved lines",
-                "orbiting spheres and scattered particles",
-                "intricate interconnected network",
-                "floating geometric monoliths"
+                "over-the-shoulder shot",
+                "wide angle environmental portrait",
+                "close up on the hands and tools",
+                "dramatic low angle",
+                "bird's-eye view"
             ]
             
             style = random.choice(styles)
@@ -62,10 +62,11 @@ def generate_images_for_taxonomy(taxonomy_data_path, output_dir, batch_output_fi
 
             # Create a rich prompt suitable for Flux
             prompt = (
-                f"A breathtaking, highly detailed abstract digital art representation of the academic discipline: "
-                f"'{discipline_name}'. Visual theme: {style}. Color palette: {palette}. Composition: {comp}. "
-                f"Deep space aesthetic, glowing accents, 4k resolution, masterpiece, trending on artstation, "
-                f"conceptual art."
+                f"A breathtaking, highly detailed scene representing the academic discipline of '{discipline_name}'. "
+                f"The image features a focused person actively engaged in this craft or field of study, surrounded by "
+                f"relevant tools, objects, and an environment that capture the deeper meaning of the topic. "
+                f"Visual theme: {style}. Color palette: {palette}. Camera angle: {comp}. "
+                f"4k resolution, masterpiece, professional illustration, trending on artstation."
             )
             
             batch_prompts.append({
