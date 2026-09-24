@@ -72,6 +72,8 @@ Reference systems used:
 | Interior Design & Space Planning | 729 | NK2110 | (design practice) |
 | Medical & Radiation Physics | 615.842 | R895 | (medical physics) |
 | Theme Park & Dark Ride Design | 790.068 | GV1851 | (civil, other eng.) |
+| Toy Design & Play Science | 688.7 | TS2301.T7 | (industrial eng.) |
+| Baking & Pastry Science | 664.752 | TP430 | (agricultural biotech) |
 
 ## Known gaps / candidates for later rounds
 _The audit round filled: Reliability & Safety, Forensic Engineering, Forensic
@@ -90,6 +92,8 @@ Management, Urban & Regional Planning, Aviation Operations._
   dosimetry and QA; diagnostic imaging physics stays in Medicine's Radiology &
   Medical Imaging)._
 - _The agentic ideation pass added Theme Park & Dark Ride Design._
+- _The Joy & Whimsy brainstorm added Toy Design & Play Science._
+- _The Sweet Delights brainstorm added Baking & Pastry Science._
 - Industrial hygiene folds into Occupational & Environmental Medicine plus
   Reliability & Safety Engineering for now.
 - No open discipline gaps; next finds expected from the CPC/IPC concept-level

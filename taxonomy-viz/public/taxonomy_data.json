@@ -131,6 +131,18 @@
       "type": "Technology",
       "swept": "no",
       "outcome": "Concept-level for Applied domains"
+    },
+    {
+      "catalog": "Agentic Ideation (Joy & Whimsy Brainstorm)",
+      "type": "Agentic Ideation",
+      "swept": "yes",
+      "outcome": "Broad expansion pass focusing on cute and happy topics: added 7 disciplines spanning play and celebration (toy design, confectionery, floristry, puppetry, event planning, miniatures, children's literature)."
+    },
+    {
+      "catalog": "Agentic Ideation (Sweet Delights Brainstorm)",
+      "type": "Agentic Ideation",
+      "swept": "yes",
+      "outcome": "Added 5 \"sweet\" disciplines: Confectionery & Candy Making, Chocolatier Artistry, Baking & Pastry Science, Dessert & Pastry Craft, Gourmet Ice Cream & Gelato."
     }
   ],
   "domains": [
@@ -208,6 +220,18 @@
             "Wake Turbulence Separation",
             "Fuel Planning and Diversion Decisions",
             "Controlled Flight Into Terrain Prevention"
+          ]
+        },
+        {
+          "id": "baking_and_pastry_science",
+          "name": "Baking & Pastry Science",
+          "concepts": [
+            "Gluten Network Cross-Linking",
+            "Maillard Reaction Kinetic Modeling",
+            "Leavening Agent Gas Production Rates",
+            "Starch Gelatinization Thermodynamics",
+            "Dough Rheology and Extensibility",
+            "Lipid Shortening Effects on Crumb"
           ]
         },
         {
@@ -808,6 +832,18 @@
           ]
         },
         {
+          "id": "toy_design_and_play_science",
+          "name": "Toy Design & Play Science",
+          "concepts": [
+            "Child Development Ergonomics",
+            "Interactive Play Feedback Loops",
+            "Choking Hazard Safety Engineering",
+            "Plush Toy Pattern Drafting",
+            "Game Mechanics and Reward Systems",
+            "Sensory and Tactile Material Selection"
+          ]
+        },
+        {
           "id": "transportation_and_automotive_engineering",
           "name": "Transportation & Automotive Engineering",
           "concepts": [
@@ -1003,6 +1039,18 @@
             "Pivot and Iteration Cycles",
             "Cap Table and Dilution",
             "Premature Scaling"
+          ]
+        },
+        {
+          "id": "event_planning_and_celebration_arts",
+          "name": "Event Planning & Celebration Arts",
+          "concepts": [
+            "Guest Experience Flow Mapping",
+            "Venue Spatial Acoustics and Lighting",
+            "Catering Ratio and Dietary Logistics",
+            "Party Favor and Souvenir Curation",
+            "Theme Integration and Decor Continuity",
+            "Crowd Pacing and Entertainment Scheduling"
           ]
         },
         {
@@ -2328,6 +2376,18 @@
           ]
         },
         {
+          "id": "childrens_literature_and_illustration",
+          "name": "Children's Literature & Illustration",
+          "concepts": [
+            "Picture Book Pacing and Page Turns",
+            "Character Consistency in Sequential Art",
+            "Age-Appropriate Vocabulary Scaffolding",
+            "Anthropomorphic Animal Character Design",
+            "Visual Storytelling without Words",
+            "Pop-up Book Paper Engineering"
+          ]
+        },
+        {
           "id": "classics_and_philology",
           "name": "Classics & Philology",
           "concepts": [
@@ -2766,6 +2826,18 @@
             "Rights and the Limits of State Power",
             "Ideal versus Non-Ideal Theory",
             "The Paradox of Toleration"
+          ]
+        },
+        {
+          "id": "puppetry_and_animatronics",
+          "name": "Puppetry & Animatronics",
+          "concepts": [
+            "Marionette Stringing and Tension",
+            "Animatronic Servo Synchronization",
+            "Hand-and-Rod Manipulation",
+            "Shadow Puppet Silhouette Design",
+            "Muppet-style Mouth Syncing (Lip Sync)",
+            "Eye Mechanism Blinking Actuation"
           ]
         },
         {
@@ -5047,6 +5119,18 @@
           ]
         },
         {
+          "id": "chocolatier_artistry",
+          "name": "Chocolatier Artistry",
+          "concepts": [
+            "Cocoa Butter Beta-V Crystal Tempering",
+            "Ganache Emulsification Stability",
+            "Couverture Viscosity and Flow Control",
+            "Praline Caramelization and Enrobing",
+            "Truffle Shell Casting Techniques",
+            "Airbrushing Colored Cocoa Butter"
+          ]
+        },
+        {
           "id": "circus_arts_and_acrobatics",
           "name": "Circus Arts & Acrobatics",
           "concepts": [
@@ -5107,6 +5191,30 @@
           ]
         },
         {
+          "id": "confectionery_and_candy_making",
+          "name": "Confectionery & Candy Making",
+          "concepts": [
+            "Pectin Gelation and Setting Ph",
+            "Caramelization Temperature Milestones",
+            "Fondant Extrusion Mechanisms",
+            "Taffy Aeration and Pulling Mechanics",
+            "Hard Candy Mold Release Chemistry",
+            "Nougat Aeration and Whipping Dynamics"
+          ]
+        },
+        {
+          "id": "confectionery_and_sugar_arts",
+          "name": "Confectionery & Sugar Arts",
+          "concepts": [
+            "Pulled Sugar Ribboning Techniques",
+            "Isomalt Casting and Sculpting",
+            "Hard Candy Flavor Suspension",
+            "Fondant Draping and Smoothing",
+            "Marshmallow Aeration Stabilization",
+            "Gummy Gelatin Setting Science"
+          ]
+        },
+        {
           "id": "construction_trades_and_building",
           "name": "Construction Trades & Building",
           "concepts": [
@@ -5143,6 +5251,18 @@
           ]
         },
         {
+          "id": "dessert_and_pastry_craft",
+          "name": "Dessert & Pastry Craft",
+          "concepts": [
+            "P\u00e2te \u00e0 Choux Moisture Expansion",
+            "Meringue Protein Denaturation",
+            "Entremet Layering and Assembly",
+            "Mirror Glaze Gelatin Stabilization",
+            "Macaron Macaronage Consistency",
+            "Tart Shell Blind Baking Integrity"
+          ]
+        },
+        {
           "id": "electrical_and_plumbing_trades",
           "name": "Electrical & Plumbing Trades",
           "concepts": [
@@ -5164,6 +5284,18 @@
             "Zero-Visibility Search Patterns",
             "Firefighter Air Management Planning",
             "Structural Collapse Zone Assessment"
+          ]
+        },
+        {
+          "id": "floristry_and_floral_design",
+          "name": "Floristry & Floral Design",
+          "concepts": [
+            "Ikebana Spatial Harmonization",
+            "Bloom Hydration and Preservation",
+            "Color Theory in Botanical Arrangements",
+            "Structural Wiring for Heavy Blooms",
+            "Corsage and Boutonni\u00e8re Mechanics",
+            "Seasonal Foraging and Ethnobotany"
           ]
         },
         {
@@ -5200,6 +5332,18 @@
             "Lampworking Flame Chemistry Control",
             "Coefficient of Expansion Compatibility Matching",
             "Slumping and Kiln-Forming Schedules"
+          ]
+        },
+        {
+          "id": "gourmet_ice_cream_and_gelato",
+          "name": "Gourmet Ice Cream & Gelato",
+          "concepts": [
+            "Ice Crystal Size Suppression",
+            "Overrun Percentage Control",
+            "Butterfat Emulsion Churning",
+            "Freezing Point Depression by Sucrose",
+            "Gelato Base Pasteurization Dynamics",
+            "Sorbet Brix Measurement and Balancing"
           ]
         },
         {
@@ -5320,6 +5464,18 @@
             "Preheat and Hydrogen Cracking",
             "Joint Fit-Up Tolerances",
             "Arc Stability and Penetration"
+          ]
+        },
+        {
+          "id": "miniature_crafting_and_dioramas",
+          "name": "Miniature Crafting & Dioramas",
+          "concepts": [
+            "1:12 Scale Proportion Accuracy",
+            "Faux Texture Painting (Stone, Wood)",
+            "Resin Pouring for Miniature Water",
+            "Dollhouse Electrification and Wiring",
+            "Polymer Clay Tiny Food Sculpting",
+            "Forced Perspective in Shadowboxes"
           ]
         },
         {

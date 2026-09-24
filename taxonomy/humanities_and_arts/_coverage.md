@@ -68,6 +68,8 @@ Reference systems used:
 | Painting & Printmaking Techniques | Arts | 751.4/766 | ND1500/NE850 |
 | Calligraphy & Lettering Arts | Arts | 745.61 | NK3600/Z43 |
 | Esoteric & Occult Systems | Religion | 133 | BF1405+ |
+| Puppetry & Animatronics | Arts | 791.5 | PN1970+ |
+| Children's Literature & Illustration | Literature | 809.89282 | PN1009 |
 
 ## Boundary notes & known gaps
 - **Philosophy of Science** sits here as a humanities/philosophy discipline; the
@@ -101,6 +103,7 @@ Reference systems used:
   Conservation Science), Calligraphy & Lettering Arts (Western, East Asian,
   and Arabic traditions; type design stays in Graphic Design & Typography)._
 - _The agentic ideation pass added Esoteric & Occult Systems._
+- _The Joy & Whimsy brainstorm added Puppetry & Animatronics, and Children's Literature & Illustration._
 - Judged covered, not split: philosophy of religion (lives in Religious
   Studies & Theology), memory studies (Social & Cultural History + Museum &
   Heritage), prosody & versification (Rhetoric & Poetics).

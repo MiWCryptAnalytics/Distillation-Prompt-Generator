@@ -54,6 +54,7 @@ Reference systems used:
 | Forensic Accounting & Fraud Examination | Finance & control | 657.458 | HV6768 |
 | Corporate Taxation & Tax Planning | Finance & control | 658.153 | K4550 |
 | Sustainability Reporting & Carbon Accounting | Finance & control | 657.76 | HD60.3 |
+| Event Planning & Celebration Arts | Operations & supply | 395.3 | GT3405 |
 
 ## Boundary notes & known gaps
 - **Corporate Finance & Valuation** lives in Economics & Money; management
@@ -92,3 +93,4 @@ Reference systems used:
   quality management (Operations' Six Sigma), brand management (Marketing),
   knowledge management (IS/IT + Organization Theory).
 - No open discipline gaps currently listed.
+- _The Joy & Whimsy brainstorm added Event Planning & Celebration Arts._

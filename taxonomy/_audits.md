@@ -28,3 +28,6 @@ file; the engine only loads `<domain>/<discipline>.json`.)
 | ESCO (13,890 skills) | Skills (EU) | no | Concept-level; candidate for meta-gen QA |
 | MSC 2020 / MeSH / PACS-PhySH | Research subject indexes | no | Concept-level depth checks per domain |
 | CPC/IPC patent classes | Technology | no | Concept-level for Applied domains |
+| Agentic Ideation (Joy & Whimsy Brainstorm) | Agentic Ideation | yes | Broad expansion pass focusing on cute and happy topics: added 7 disciplines spanning play and celebration (toy design, confectionery, floristry, puppetry, event planning, miniatures, children's literature). |
+| Agentic Ideation (Sweet Delights Brainstorm) | Agentic Ideation | yes | Added 5 "sweet" disciplines: Confectionery & Candy Making, Chocolatier Artistry, Baking & Pastry Science, Dessert & Pastry Craft, Gourmet Ice Cream & Gelato. |
+

@@ -65,6 +65,13 @@ Reference systems used:
 | Martial Arts & Combatives | Sport & recreation | 796.8 | GV1111+ |
 | Instrument Making & Lutherie | Craft & making | 784.192 | ML755 |
 | Casino Advantage Play & Game Protection | Sport & recreation | 795 | GV1301+ |
+| Confectionery & Sugar Arts | Food & agriculture | 641.85 | TX791 |
+| Floristry & Floral Design | Craft & making | 745.92 | SB449 |
+| Miniature Crafting & Dioramas | Craft & making | 745.592 | TT175 |
+| Confectionery & Candy Making | Food & agriculture | 641.85 | TX791 |
+| Chocolatier Artistry | Food & agriculture | 641.853 | TX767 |
+| Dessert & Pastry Craft | Food & agriculture | 641.86 | TX773 |
+| Gourmet Ice Cream & Gelato | Food & agriculture | 641.862 | TX795 |
 
 ## Boundary notes & known gaps
 - This domain is intentionally the *practitioner's* operational knowledge.
@@ -100,6 +107,8 @@ Reference systems used:
   physiology stays in Aerospace & Hyperbaric Medicine), Commercial Driving &
   Heavy Vehicle Operation, and Tattooing & Body Art._
 - _The agentic ideation pass added Theatrical Magic & Illusion, Circus Arts & Acrobatics, Martial Arts & Combatives, Instrument Making & Lutherie, and Casino Advantage Play & Game Protection._
+- _The Joy & Whimsy brainstorm added Confectionery & Sugar Arts, Floristry & Floral Design, and Miniature Crafting & Dioramas._
+- _The Sweet Delights brainstorm added Confectionery & Candy Making, Chocolatier Artistry, Dessert & Pastry Craft, and Gourmet Ice Cream & Gelato._
 - Judged covered, not split: HVAC service (Applied's HVAC & Refrigeration
   already holds the service mechanisms), commercial printing (Graphic Design
   + Painting & Printmaking + Leathercraft & Bookbinding + Packaging),
