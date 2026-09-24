@@ -4,7 +4,7 @@ Generate deep, multi-turn training conversations across the breadth of human
 knowledge — for distilling large "teacher" models into open-weights students
 (Qwen, Gemma, etc.).
 
-A hand-curated taxonomy of **11 domains → 493 disciplines → 2,936 seed
+A hand-curated taxonomy of **11 domains → 613 disciplines → 3,623 seed
 concepts** is crossed with **12 adversarial prompt trajectories** (failure
 modes, edge cases, misconceptions, scaling limits, …) to produce two-turn
 conversations that force a teacher model past textbook summaries and into its
@@ -45,9 +45,9 @@ validates and prints the tree, `--prune-stale` cleans up after renames.
 
 | Stage | Items (2-turn conversations) |
 |---|---|
-| Seed concepts as-is | 2,936 × 12 = 35,232 |
-| After `expand_concepts.py --target 30` | ~177,000 |
-| After `--target 40` | ~236,000 |
+| Seed concepts as-is | 3,623 × 12 = 43,476 |
+| After `expand_concepts.py --target 30` | ~220,000 |
+| After `--target 40` | ~294,000 |
 
 Each item costs two teacher calls. The output is JSON in standard
 `messages` chat format with full domain/discipline/concept/trajectory metadata
