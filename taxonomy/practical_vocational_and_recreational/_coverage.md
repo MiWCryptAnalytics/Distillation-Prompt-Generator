@@ -72,6 +72,18 @@ Reference systems used:
 | Chocolatier Artistry | Food & agriculture | 641.853 | TX767 |
 | Dessert & Pastry Craft | Food & agriculture | 641.86 | TX773 |
 | Gourmet Ice Cream & Gelato | Food & agriculture | 641.862 | TX795 |
+| Artisanal Soap & Candle Making | Craft & making | 745.5 | TT899 |
+| Fermentation & Cultured Foods | Food & agriculture | 641.4 | TX601 |
+| Hand-Spun Textiles & Natural Dyeing | Craft & making | 746.1 | TT847 |
+| Heritage Seed Saving & Heirloom Botany | Food & agriculture | 631.521 | SB113.2 |
+| Model Railroading & Layout Engineering | Sport & recreation | 790.1 | TF197 |
+| Botanical Perfumery & Olfactory Arts | Craft & making | 668.54 | TP983 |
+| Fungi Cultivation & Mycology Craft | Food & agriculture | 635.8 | SB353 |
+| Basketry & Woven Fiber Crafts | Craft & making | 746.41 | TT879.B3 |
+| Aquascaping & Planted Aquariums | Sport & recreation | 639.34 | SF457 |
+| Cosplay & Costume Fabrication | Craft & making | 646.47 | TT633 |
+| Bonsai Cultivation & Shaping | Food & agriculture | 635.9772 | SB433.5 |
+| Kite Making & Aerocrafts | Craft & making | 745.592 | TL759 |
 
 ## Boundary notes & known gaps
 - This domain is intentionally the *practitioner's* operational knowledge.
@@ -109,6 +121,9 @@ Reference systems used:
 - _The agentic ideation pass added Theatrical Magic & Illusion, Circus Arts & Acrobatics, Martial Arts & Combatives, Instrument Making & Lutherie, and Casino Advantage Play & Game Protection._
 - _The Joy & Whimsy brainstorm added Confectionery & Sugar Arts, Floristry & Floral Design, and Miniature Crafting & Dioramas._
 - _The Sweet Delights brainstorm added Confectionery & Candy Making, Chocolatier Artistry, Dessert & Pastry Craft, and Gourmet Ice Cream & Gelato._
+- _The Cozy Home & Geeky Pursuits brainstorm added Artisanal Soap & Candle Making, Fermentation & Cultured Foods, Hand-Spun Textiles & Natural Dyeing, Heritage Seed Saving & Heirloom Botany, and Model Railroading & Layout Engineering._
+- _The Cozy Home & Geeky Pursuits Part 2 brainstorm added Botanical Perfumery & Olfactory Arts, Fungi Cultivation & Mycology Craft, and Basketry & Woven Fiber Crafts._
+- _The Playful Arts & Niche Leisure brainstorm added Aquascaping & Planted Aquariums, Cosplay & Costume Fabrication, Bonsai Cultivation & Shaping, and Kite Making & Aerocrafts._
 - Judged covered, not split: HVAC service (Applied's HVAC & Refrigeration
   already holds the service mechanisms), commercial printing (Graphic Design
   + Painting & Printmaking + Leathercraft & Bookbinding + Packaging),

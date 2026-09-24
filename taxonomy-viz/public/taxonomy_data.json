@@ -143,6 +143,24 @@
       "type": "Agentic Ideation",
       "swept": "yes",
       "outcome": "Added 5 \"sweet\" disciplines: Confectionery & Candy Making, Chocolatier Artistry, Baking & Pastry Science, Dessert & Pastry Craft, Gourmet Ice Cream & Gelato."
+    },
+    {
+      "catalog": "Agentic Ideation (Cozy Home & Geeky Pursuits)",
+      "type": "Agentic Ideation",
+      "swept": "yes",
+      "outcome": "Added 8 disciplines: Artisanal Soap & Candle Making, Fermentation & Cultured Foods, Hand-Spun Textiles & Natural Dyeing, Heritage Seed Saving, Mechanical Keyboard Customization, Amateur High-Power Rocketry, Model Railroading & Layout Engineering, Synthesizer Design & Eurorack Patching."
+    },
+    {
+      "catalog": "Agentic Ideation (Cozy Home & Geeky Pursuits Part 2)",
+      "type": "Agentic Ideation",
+      "swept": "yes",
+      "outcome": "Added 6 more disciplines: Botanical Perfumery & Olfactory Arts, Fungi Cultivation & Mycology Craft, Basketry & Woven Fiber Crafts, First-Person View (FPV) Drone Engineering, Amateur Radio & Ham Communication, Retrocomputing & Vintage Hardware."
+    },
+    {
+      "catalog": "Agentic Ideation (Playful Arts & Niche Leisure)",
+      "type": "Agentic Ideation",
+      "swept": "yes",
+      "outcome": "Added 6 disciplines: Board Game Design & Tabletop Mechanics, Aquascaping & Planted Aquariums, Origami & Paper Engineering, Cosplay & Costume Fabrication, Bonsai Cultivation & Shaping, Kite Making & Aerocrafts."
     }
   ],
   "domains": [
@@ -196,6 +214,30 @@
             "Minimum Equipment List Deferrals",
             "Maintenance Error Chains",
             "Corrosion Prevention Programs"
+          ]
+        },
+        {
+          "id": "amateur_high_power_rocketry",
+          "name": "Amateur High-Power Rocketry",
+          "concepts": [
+            "Ammonium Perchlorate Composite Propellant Casting",
+            "Center of Pressure to Center of Gravity Margin",
+            "Dual-Deployment Apogee Barometric Altimetry",
+            "Ejection Charge Black Powder Sizing",
+            "Fin Flutter Resonance and Mach Limits",
+            "Motor Retention and Thrust Ring Mechanics"
+          ]
+        },
+        {
+          "id": "amateur_radio_and_ham_communication",
+          "name": "Amateur Radio & Ham Communication",
+          "concepts": [
+            "High-Frequency (HF) Ionospheric Skip Propagation",
+            "Standing Wave Ratio (SWR) Antenna Tuning",
+            "Single Sideband (SSB) Carrier Suppression",
+            "Yagi-Uda Antenna Director Element Spacing",
+            "Software Defined Radio (SDR) Fast Fourier Transforms",
+            "Meteor Scatter Packet Transmission"
           ]
         },
         {
@@ -438,6 +480,18 @@
           ]
         },
         {
+          "id": "first_person_view_drone_engineering",
+          "name": "First-Person View (FPV) Drone Engineering",
+          "concepts": [
+            "Brushless Motor KV vs Propeller Pitch",
+            "Flight Controller PID Tuning Loops",
+            "Electronic Speed Controller (ESC) Telemetry",
+            "Analog Video Transmitter (VTX) Frequency Bands",
+            "Lithium Polymer (LiPo) C-Rating Draw",
+            "Carbon Fiber Frame Resonance Dampening"
+          ]
+        },
+        {
           "id": "forensic_engineering_and_failure_analysis",
           "name": "Forensic Engineering & Failure Analysis",
           "concepts": [
@@ -604,6 +658,18 @@
           ]
         },
         {
+          "id": "mechanical_keyboard_customization",
+          "name": "Mechanical Keyboard Customization",
+          "concepts": [
+            "Tactile Switch Leaf Lubrication Kinematics",
+            "PCB Gasket Mount Acoustic Isolation",
+            "Stabilizer Wire Balancing and Holee Mod",
+            "Keycap Profile Ergonomic Sculpting",
+            "FR4 vs Polycarbonate Plate Flex Resonance",
+            "Switch Spring Weight Force Curves"
+          ]
+        },
+        {
           "id": "medical_and_radiation_physics",
           "name": "Medical & Radiation Physics",
           "concepts": [
@@ -748,6 +814,18 @@
           ]
         },
         {
+          "id": "retrocomputing_and_vintage_hardware",
+          "name": "Retrocomputing & Vintage Hardware",
+          "concepts": [
+            "CRT Monitor High Voltage Flyback Transformer Discharging",
+            "Electrolytic Capacitor Equivalent Series Resistance (ESR) Failing",
+            "Floppy Disk Drive Read/Write Head Stepper Alignment",
+            "EPROM Ultraviolet Erasure Windows",
+            "Z80 Microprocessor Instruction Cycle Timing",
+            "Plastic Yellowing Retrobrighting (Bromine Oxidation)"
+          ]
+        },
+        {
           "id": "signal_processing",
           "name": "Signal Processing",
           "concepts": [
@@ -793,6 +871,18 @@
             "Photogrammetric Bundle Adjustment",
             "Total Station Angular Closure Error",
             "InSAR Phase Unwrapping"
+          ]
+        },
+        {
+          "id": "synthesizer_design_and_eurorack_patching",
+          "name": "Synthesizer Design & Eurorack Patching",
+          "concepts": [
+            "Voltage-Controlled Oscillator Wavefolding",
+            "Control Voltage (CV) Attenuverting",
+            "Low-Pass Gate Vactrol Response Times",
+            "Frequency Modulation (FM) Indexing",
+            "Bucket-Brigade Device (BBD) Delay Artifacts",
+            "Envelope Generator ADSR Slopes"
           ]
         },
         {
@@ -2352,6 +2442,18 @@
           ]
         },
         {
+          "id": "board_game_design_and_tabletop_mechanics",
+          "name": "Board Game Design & Tabletop Mechanics",
+          "concepts": [
+            "Action Point Allowance Systems",
+            "Worker Placement Action Drafting",
+            "Catch-Up Mechanisms",
+            "Victory Point Salad Scoring",
+            "Deck-Building Entropy Control",
+            "Asymmetric Player Powers"
+          ]
+        },
+        {
           "id": "book_history_and_bibliography",
           "name": "Book History & Bibliography",
           "concepts": [
@@ -2718,6 +2820,18 @@
             "Multiformity in Oral Performance",
             "Ritual Year Calendar Customs",
             "Fakelore and Invented Tradition"
+          ]
+        },
+        {
+          "id": "origami_and_paper_engineering",
+          "name": "Origami & Paper Engineering",
+          "concepts": [
+            "Mountain and Valley Crease Patterns",
+            "Wet-Folding Cellulose Plasticity",
+            "Box Pleating Techniques",
+            "Tessellation Interlocking Grids",
+            "Modular Kusudama Assembly",
+            "Action Model Hinge Mechanisms"
           ]
         },
         {
@@ -4999,6 +5113,18 @@
           ]
         },
         {
+          "id": "aquascaping_and_planted_aquariums",
+          "name": "Aquascaping & Planted Aquariums",
+          "concepts": [
+            "Iwagumi Golden Ratio Rock Placement",
+            "CO2 Injection Bubble Counting",
+            "Substrate Cation Exchange Capacity",
+            "Epiphyte Rhizome Attachment",
+            "Denitrification in Deep Sand Beds",
+            "Algae Allelopathy"
+          ]
+        },
+        {
           "id": "arboriculture_and_tree_care",
           "name": "Arboriculture & Tree Care",
           "concepts": [
@@ -5008,6 +5134,18 @@
             "Rigging Shock Load Multipliers",
             "Construction Root Zone Protection",
             "Girdling Root Diagnosis"
+          ]
+        },
+        {
+          "id": "artisanal_soap_and_candle_making",
+          "name": "Artisanal Soap & Candle Making",
+          "concepts": [
+            "Cold-Process Saponification Value Calculation",
+            "Fragrance Oil Flashpoint Management",
+            "Soy Wax Polymorphism and Frosting",
+            "Lye Solution Exothermic Reaction Control",
+            "Wick Capillary Action and Burn Pool Sizing",
+            "Gel Phase Induction in Soap Loaves"
           ]
         },
         {
@@ -5035,6 +5173,18 @@
           ]
         },
         {
+          "id": "basketry_and_woven_fiber_crafts",
+          "name": "Basketry & Woven Fiber Crafts",
+          "concepts": [
+            "Willow Withy Soaking and Pliability",
+            "Biaxial Woven Tensioning Mechanics",
+            "Splint Wood Riving and Pounding",
+            "Coiled Pine Needle Stitch Spacing",
+            "Rush Seating Warp and Weft Friction",
+            "Sweetgrass Hydration and Plaiting"
+          ]
+        },
+        {
           "id": "beekeeping_and_animal_husbandry",
           "name": "Beekeeping & Animal Husbandry",
           "concepts": [
@@ -5056,6 +5206,30 @@
             "Two-Stroke Scavenging",
             "Bearing Preload Adjustment",
             "Hydraulic Brake Bleeding"
+          ]
+        },
+        {
+          "id": "bonsai_cultivation_and_shaping",
+          "name": "Bonsai Cultivation & Shaping",
+          "concepts": [
+            "Nebari Surface Root Ramification",
+            "Jin and Shari Deadwood Carving",
+            "Apical Dominance Redirection",
+            "Copper Wire Tensioning Bends",
+            "Defoliation Leaf Reduction",
+            "Akadama Clay Substrate Porosity"
+          ]
+        },
+        {
+          "id": "botanical_perfumery_and_olfactory_arts",
+          "name": "Botanical Perfumery & Olfactory Arts",
+          "concepts": [
+            "Enfleurage Fat Saturation",
+            "Essential Oil Steam Distillation Kinetics",
+            "Fragrance Base Note Fixative Binding",
+            "Olfactory Pyramid Volatility Scaling",
+            "Tincture Maceration Timeframes",
+            "Indolic Compound Micro-Dosing"
           ]
         },
         {
@@ -5239,6 +5413,18 @@
           ]
         },
         {
+          "id": "cosplay_and_costume_fabrication",
+          "name": "Cosplay & Costume Fabrication",
+          "concepts": [
+            "EVA Foam Heat Forming",
+            "Worbla Thermoplastic Sculpting",
+            "Neodymium Magnet Harnessing",
+            "Airbrush Stencil Weathering",
+            "Wig Weft Ventilation",
+            "Pepakura Unfolding Software"
+          ]
+        },
+        {
           "id": "culinary_science_and_gastronomy",
           "name": "Culinary Science & Gastronomy",
           "concepts": [
@@ -5275,6 +5461,18 @@
           ]
         },
         {
+          "id": "fermentation_and_cultured_foods",
+          "name": "Fermentation & Cultured Foods",
+          "concepts": [
+            "Lacto-Fermentation Salinity Thresholds",
+            "SCOBY Cellulose Pellicle Formation",
+            "Aspergillus Oryzae Protease Secretion (Koji)",
+            "Kombucha Acetic Acid Ph Titration",
+            "Water Kefir Grain Polysaccharide Matrix",
+            "Anaerobic Airlock Pressure Mechanics"
+          ]
+        },
+        {
           "id": "fireground_operations_craft",
           "name": "Fireground Operations Craft",
           "concepts": [
@@ -5296,6 +5494,18 @@
             "Structural Wiring for Heavy Blooms",
             "Corsage and Boutonni\u00e8re Mechanics",
             "Seasonal Foraging and Ethnobotany"
+          ]
+        },
+        {
+          "id": "fungi_cultivation_and_mycology_craft",
+          "name": "Fungi Cultivation & Mycology Craft",
+          "concepts": [
+            "Agar Plate Mycelial Sectoring",
+            "Grain Spawn Sterilization Pressures",
+            "Fruiting Chamber CO2 Flushing",
+            "Liquid Culture Submerged Fermentation",
+            "Bulk Substrate Pasteurization Temperatures",
+            "Mushroom Pinning Trigger Mechanisms"
           ]
         },
         {
@@ -5347,6 +5557,30 @@
           ]
         },
         {
+          "id": "hand_spun_textiles_and_natural_dyeing",
+          "name": "Hand-Spun Textiles & Natural Dyeing",
+          "concepts": [
+            "Alum Mordant Metallic Salt Binding",
+            "Spindle Whorl Inertia and Twist Insertion",
+            "Indigo Vat Reduction and Oxidation",
+            "Worsted vs Woolen Drafting Mechanisms",
+            "Cochineal Carminic Acid Ph Shifting",
+            "Fleece Lanolin Scouring Thermodynamics"
+          ]
+        },
+        {
+          "id": "heritage_seed_saving_and_heirloom_botany",
+          "name": "Heritage Seed Saving & Heirloom Botany",
+          "concepts": [
+            "Cross-Pollination Isolation Distances",
+            "Wet Fermentation Seed Processing",
+            "Desiccation and Germination Viability",
+            "Biennial Vernalization Triggers",
+            "Inbreeding Depression Mitigation",
+            "Landrace Adaptation Genetics"
+          ]
+        },
+        {
           "id": "home_systems_and_maintenance",
           "name": "Home Systems & Maintenance",
           "concepts": [
@@ -5392,6 +5626,18 @@
             "Bridge Intonation Physics",
             "Neck Relief and Truss Rod Tension",
             "Acoustic Impedance Matching"
+          ]
+        },
+        {
+          "id": "kite_making_and_aerocrafts",
+          "name": "Kite Making & Aerocrafts",
+          "concepts": [
+            "Ripstop Nylon Hot Knife Sealing",
+            "Bridle Tow Point Tuning",
+            "Dihedral Angle Wind Stability",
+            "Spar Deflection Flexibility",
+            "Fighter Kite Center of Gravity",
+            "Cellular Box Kite Lift"
           ]
         },
         {
@@ -5476,6 +5722,18 @@
             "Dollhouse Electrification and Wiring",
             "Polymer Clay Tiny Food Sculpting",
             "Forced Perspective in Shadowboxes"
+          ]
+        },
+        {
+          "id": "model_railroading_and_layout_engineering",
+          "name": "Model Railroading & Layout Engineering",
+          "concepts": [
+            "Digital Command Control (DCC) Bus Architecture",
+            "Track Minimum Radius and Superelevation",
+            "Forced Perspective Scenery Scaling",
+            "Turnout Frog Polarity Reversing",
+            "Static Grass Electrostatic Application",
+            "Locomotive Decoder Back-EMF Load Compensation"
           ]
         },
         {

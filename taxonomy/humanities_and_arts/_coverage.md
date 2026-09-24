@@ -70,6 +70,8 @@ Reference systems used:
 | Esoteric & Occult Systems | Religion | 133 | BF1405+ |
 | Puppetry & Animatronics | Arts | 791.5 | PN1970+ |
 | Children's Literature & Illustration | Literature | 809.89282 | PN1009 |
+| Board Game Design & Tabletop Mechanics | Arts | 794 | GV1312 |
+| Origami & Paper Engineering | Arts | 736.98 | TT870 |
 
 ## Boundary notes & known gaps
 - **Philosophy of Science** sits here as a humanities/philosophy discipline; the
@@ -104,6 +106,7 @@ Reference systems used:
   and Arabic traditions; type design stays in Graphic Design & Typography)._
 - _The agentic ideation pass added Esoteric & Occult Systems._
 - _The Joy & Whimsy brainstorm added Puppetry & Animatronics, and Children's Literature & Illustration._
+- _The Playful Arts & Niche Leisure brainstorm added Board Game Design & Tabletop Mechanics, and Origami & Paper Engineering._
 - Judged covered, not split: philosophy of religion (lives in Religious
   Studies & Theology), memory studies (Social & Cultural History + Museum &
   Heritage), prosody & versification (Rhetoric & Poetics).

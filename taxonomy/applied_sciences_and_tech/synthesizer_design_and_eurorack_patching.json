@@ -1,0 +1,12 @@
+{
+  "domain": "Applied Sciences & Tech",
+  "discipline": "Synthesizer Design & Eurorack Patching",
+  "concepts": [
+    "Voltage-Controlled Oscillator Wavefolding",
+    "Control Voltage (CV) Attenuverting",
+    "Low-Pass Gate Vactrol Response Times",
+    "Frequency Modulation (FM) Indexing",
+    "Bucket-Brigade Device (BBD) Delay Artifacts",
+    "Envelope Generator ADSR Slopes"
+  ]
+}

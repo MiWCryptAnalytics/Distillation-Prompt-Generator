@@ -1,0 +1,12 @@
+{
+  "domain": "Applied Sciences & Tech",
+  "discipline": "Amateur Radio & Ham Communication",
+  "concepts": [
+    "High-Frequency (HF) Ionospheric Skip Propagation",
+    "Standing Wave Ratio (SWR) Antenna Tuning",
+    "Single Sideband (SSB) Carrier Suppression",
+    "Yagi-Uda Antenna Director Element Spacing",
+    "Software Defined Radio (SDR) Fast Fourier Transforms",
+    "Meteor Scatter Packet Transmission"
+  ]
+}

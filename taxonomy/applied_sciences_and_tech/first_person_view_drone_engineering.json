@@ -1,0 +1,12 @@
+{
+  "domain": "Applied Sciences & Tech",
+  "discipline": "First-Person View (FPV) Drone Engineering",
+  "concepts": [
+    "Brushless Motor KV vs Propeller Pitch",
+    "Flight Controller PID Tuning Loops",
+    "Electronic Speed Controller (ESC) Telemetry",
+    "Analog Video Transmitter (VTX) Frequency Bands",
+    "Lithium Polymer (LiPo) C-Rating Draw",
+    "Carbon Fiber Frame Resonance Dampening"
+  ]
+}

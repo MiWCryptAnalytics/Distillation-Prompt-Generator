@@ -74,6 +74,12 @@ Reference systems used:
 | Theme Park & Dark Ride Design | 790.068 | GV1851 | (civil, other eng.) |
 | Toy Design & Play Science | 688.7 | TS2301.T7 | (industrial eng.) |
 | Baking & Pastry Science | 664.752 | TP430 | (agricultural biotech) |
+| Mechanical Keyboard Customization | 004.76 | TK7881.83 | (industrial eng.) |
+| Amateur High-Power Rocketry | 629.47 | TL782 | (aerospace eng.) |
+| Synthesizer Design & Eurorack Patching | 621.381 | TK7881.4 | (electronic eng.) |
+| First-Person View (FPV) Drone Engineering | 629.13339 | TL718 | (aerospace eng.) |
+| Amateur Radio & Ham Communication | 621.38416 | TK9956 | (electronic eng.) |
+| Retrocomputing & Vintage Hardware | 004.16 | TK7885 | (computer systems) |
 
 ## Known gaps / candidates for later rounds
 _The audit round filled: Reliability & Safety, Forensic Engineering, Forensic
@@ -94,6 +100,8 @@ Management, Urban & Regional Planning, Aviation Operations._
 - _The agentic ideation pass added Theme Park & Dark Ride Design._
 - _The Joy & Whimsy brainstorm added Toy Design & Play Science._
 - _The Sweet Delights brainstorm added Baking & Pastry Science._
+- _The Cozy Home & Geeky Pursuits brainstorm added Mechanical Keyboard Customization, Amateur High-Power Rocketry, and Synthesizer Design & Eurorack Patching._
+- _The Cozy Home & Geeky Pursuits Part 2 brainstorm added First-Person View (FPV) Drone Engineering, Amateur Radio & Ham Communication, and Retrocomputing & Vintage Hardware._
 - Industrial hygiene folds into Occupational & Environmental Medicine plus
   Reliability & Safety Engineering for now.
 - No open discipline gaps; next finds expected from the CPC/IPC concept-level
