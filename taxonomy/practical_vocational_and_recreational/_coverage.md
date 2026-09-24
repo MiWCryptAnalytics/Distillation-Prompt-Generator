@@ -132,5 +132,4 @@ Reference systems used:
 - Locksmithing & physical security hardware deliberately deferred: the
   adversarial trajectories would probe bypass techniques, a dual-use grain we
   choose not to generate.
-- Still open: equestrian craft (folds into Beekeeping & Animal Husbandry for
-  now).
+- _The final gap-fill round added Equestrian Craft._

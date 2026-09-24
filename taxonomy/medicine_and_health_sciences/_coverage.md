@@ -110,14 +110,11 @@ Reference systems used:
   Psychiatry — its former fold note is hereby closed), Aerospace & Hyperbaric
   Medicine, Tropical & Travel Medicine, Forensic Pathology & Legal Medicine
   (autopsy interpretation; criminalistics stays in Applied)._
-- Still open: optometry (folds into Ophthalmology & Vision Science for now),
-  physician assistant studies and hospital medicine (clinical roles whose
-  knowledge folds into the existing disciplines), nuclear medicine &
-  radiopharmaceutical therapy (folds into Radiology & Medical Imaging for
-  now), wilderness & expedition medicine (folds into Aerospace & Hyperbaric +
-  Emergency + Sports Medicine), podiatric medicine, vaccinology (folds into
-  Immunology + Public Health + Pediatrics), occupational therapy (folds into
-  Rehabilitation & Physical Medicine).
+- _The final gap-fill round added the remaining 8 open disciplines: Optometry,
+  Physician Assistant Studies, Hospital Medicine, Nuclear Medicine &
+  Radiopharmaceutical Therapy, Wilderness & Expedition Medicine, Podiatric
+  Medicine, Vaccinology, and Occupational Therapy._
+- No open discipline gaps currently listed.
 - Gross anatomy stays distributed across Physiology, Surgery, and Radiology:
   its grain is descriptive rather than mechanistic, a poor fit for the 12
   adversarial trajectories.

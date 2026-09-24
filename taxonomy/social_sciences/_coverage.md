@@ -86,9 +86,7 @@ Reference systems used:
   seven disciplines: jurisprudence, contracts (in Business), international,
   IP, constitutional/administrative, criminal, and tort._
 - _The agentic ideation pass added Clandestine Tradecraft & Espionage (operational craft beyond Intelligence Analysis), Coercive Control & Cult Dynamics, and Deception Detection & Polygraphy._
-- Still open: police science & investigative practice (doctrine and craft
-  beyond Criminology's empirical theory), special education & inclusive
-  practice, technical & professional communication.
+- _The final gap-fill round added the remaining 3 open disciplines: Police Science & Investigative Practice, Special Education & Inclusive Practice, and Technical & Professional Communication._
 - Area studies (LCC DS-DT) stays deliberately unfilled: it is an umbrella of
   regional syntheses, not a mechanism-grain discipline; regional depth arrives
   via concept expansion inside history, comparative politics, and anthropology.

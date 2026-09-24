@@ -64,5 +64,5 @@ Reference systems used:
   and network morphology, the quantitative synthesis neither Urban Studies nor
   Urban & Regional Planning holds)._
 - _The agentic ideation pass added Speedrunning & Glitch Hunting and Trust & Safety Operations._
-- Still open: behavioral data science (folds into Data Science + Computational
-  Social Science for now).
+- _The final gap-fill round added Behavioral Data Science._
+- No open discipline gaps currently listed.

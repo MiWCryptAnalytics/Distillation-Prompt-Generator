@@ -161,6 +161,12 @@
       "type": "Agentic Ideation",
       "swept": "yes",
       "outcome": "Added 6 disciplines: Board Game Design & Tabletop Mechanics, Aquascaping & Planted Aquariums, Origami & Paper Engineering, Cosplay & Costume Fabrication, Bonsai Cultivation & Shaping, Kite Making & Aerocrafts."
+    },
+    {
+      "catalog": "Final Gap-Fill Sweep",
+      "type": "Completeness Review",
+      "swept": "yes",
+      "outcome": "Added the final 16 open disciplines across Medicine, Humanities, Social Sciences, Practical, and Interdisciplinary domains."
     }
   ],
   "domains": [
@@ -2550,6 +2556,18 @@
           ]
         },
         {
+          "id": "creative_nonfiction_and_life_writing",
+          "name": "Creative Nonfiction & Life Writing",
+          "concepts": [
+            "Memoir Narrative Arc Structuring",
+            "Autoethnography Subjective Framing",
+            "Lyric Essay Associative Logic",
+            "Literary Journalism Scene Reconstruction",
+            "Personal Essay Voice and Persona",
+            "Epistolary Nonfiction Intimacy"
+          ]
+        },
+        {
           "id": "cultural_and_critical_theory",
           "name": "Cultural & Critical Theory",
           "concepts": [
@@ -2811,6 +2829,18 @@
           ]
         },
         {
+          "id": "numismatics",
+          "name": "Numismatics",
+          "concepts": [
+            "Coin Grading Wear Assessment",
+            "Mint Mark Provenance Tracing",
+            "Die Variety Identification",
+            "Ancient Coin Hoard Stratigraphy",
+            "Medallic Art Relief Sculpting",
+            "Banknote Anti-Counterfeiting Features"
+          ]
+        },
+        {
           "id": "oral_tradition_and_folklore_studies",
           "name": "Oral Tradition & Folklore Studies",
           "concepts": [
@@ -3025,6 +3055,18 @@
             "Retranslation and Aging",
             "Machine Translation Post-Editing"
           ]
+        },
+        {
+          "id": "western_esotericism_studies",
+          "name": "Western Esotericism Studies",
+          "concepts": [
+            "Hermeticism As Above So Below",
+            "Kabbalistic Tree of Life Emanations",
+            "Alchemical Transmutation Allegory",
+            "Rosicrucian Invisible College Myths",
+            "Theosophical Root Race Theory",
+            "Neoplatonic Emanationism in Magic"
+          ]
         }
       ]
     },
@@ -3054,6 +3096,18 @@
             "Abiogenesis Pathways",
             "Panspermia Viability",
             "The Great Filter"
+          ]
+        },
+        {
+          "id": "behavioral_data_science",
+          "name": "Behavioral Data Science",
+          "concepts": [
+            "Digital Phenotyping Biomarker Extraction",
+            "A/B Testing Sequential Peeking Adjustments",
+            "Predictive Modeling of User Churn",
+            "Algorithmic Nudge Personalization",
+            "Sentiment Analysis Valence Scoring",
+            "Choice Architecture Clickstream Tracking"
           ]
         },
         {
@@ -4145,6 +4199,18 @@
           ]
         },
         {
+          "id": "hospital_medicine",
+          "name": "Hospital Medicine",
+          "concepts": [
+            "Inpatient Glycemic Control Protocols",
+            "Hospital-Acquired Infection Bundle Compliance",
+            "Venous Thromboembolism Prophylaxis Stratification",
+            "Transitions of Care Medication Reconciliation",
+            "Acute Delirium Multi-Component Interventions",
+            "Early Goal-Directed Therapy in Sepsis"
+          ]
+        },
+        {
           "id": "infectious_disease",
           "name": "Infectious Disease",
           "concepts": [
@@ -4217,6 +4283,18 @@
           ]
         },
         {
+          "id": "nuclear_medicine_and_radiopharmaceutical_therapy",
+          "name": "Nuclear Medicine & Radiopharmaceutical Therapy",
+          "concepts": [
+            "Positron Emission Tomography Tracer Kinetics",
+            "Radiopharmaceutical Target-to-Background Ratios",
+            "Peptide Receptor Radionuclide Therapy Dosimetry",
+            "Technetium-99m Generator Elution",
+            "Gamma Camera Collimator Resolution Trade-offs",
+            "Theranostic Isotope Pair Selection"
+          ]
+        },
+        {
           "id": "nursing_science",
           "name": "Nursing Science",
           "concepts": [
@@ -4265,6 +4343,18 @@
           ]
         },
         {
+          "id": "occupational_therapy",
+          "name": "Occupational Therapy",
+          "concepts": [
+            "Activities of Daily Living Task Analysis",
+            "Sensory Integration Modulation Disorders",
+            "Ergonomic Workspace Repetitive Strain Mitigation",
+            "Cognitive Rehabilitation Spaced Retrieval",
+            "Neurodevelopmental Bobath Concept Handling",
+            "Upper Extremity Splinting Biomechanics"
+          ]
+        },
+        {
           "id": "oncology",
           "name": "Oncology",
           "concepts": [
@@ -4286,6 +4376,18 @@
             "Diabetic Retinopathy Progression",
             "Corneal Refractive Correction",
             "Amblyopia Critical Periods"
+          ]
+        },
+        {
+          "id": "optometry",
+          "name": "Optometry",
+          "concepts": [
+            "Binocular Vision Accommodation Anomalies",
+            "Corneal Topography Astigmatism Mapping",
+            "Glaucomatous Visual Field Loss Progression",
+            "Tear Film Osmolarity and Dry Eye",
+            "Scleral Contact Lens Fluid Dynamics",
+            "Retinal Optical Coherence Tomography Biomarkers"
           ]
         },
         {
@@ -4409,6 +4511,18 @@
           ]
         },
         {
+          "id": "physician_assistant_studies",
+          "name": "Physician Assistant Studies",
+          "concepts": [
+            "Dependent Practitioner Scope of Practice Handoffs",
+            "Undifferentiated Patient Triage Algorithms",
+            "Diagnostic Parsimony in Primary Care",
+            "Interprofessional Collaborative Practice Competencies",
+            "Empiric Antibiotic Stewardship Guidelines",
+            "Clinical Pattern Recognition Heuristics"
+          ]
+        },
+        {
           "id": "plastic_and_reconstructive_surgery",
           "name": "Plastic & Reconstructive Surgery",
           "concepts": [
@@ -4418,6 +4532,18 @@
             "Burn Contracture Reconstruction",
             "Skin Graft Take Phases",
             "Reconstructive Ladder Escalation"
+          ]
+        },
+        {
+          "id": "podiatric_medicine",
+          "name": "Podiatric Medicine",
+          "concepts": [
+            "Diabetic Neuropathy Foot Ulcer Offloading",
+            "Plantar Fasciitis Biomechanical Windlass Mechanism",
+            "Hallux Valgus Osteotomy Correction Angles",
+            "Onychocryptosis Phenol Matrixectomy",
+            "Charcot Neuroarthropathy Tarsal Collapse",
+            "Gait Cycle Kinematics and Orthotic Posting"
           ]
         },
         {
@@ -4601,6 +4727,18 @@
           ]
         },
         {
+          "id": "vaccinology",
+          "name": "Vaccinology",
+          "concepts": [
+            "Adjuvant-Induced Innate Immune Activation",
+            "Live Attenuated Virus Reversion Risk",
+            "mRNA Lipid Nanoparticle Delivery Cell Tropism",
+            "Herd Immunity Threshold Dynamics",
+            "Vaccine Cold Chain Thermostability",
+            "T-Cell Dependent B-Cell Maturation Kinetics"
+          ]
+        },
+        {
           "id": "veterinary_medicine",
           "name": "Veterinary Medicine",
           "concepts": [
@@ -4610,6 +4748,18 @@
             "Ruminant Digestive Pathology",
             "Livestock Vaccine Herd Coverage",
             "Anthelmintic Resistance"
+          ]
+        },
+        {
+          "id": "wilderness_and_expedition_medicine",
+          "name": "Wilderness & Expedition Medicine",
+          "concepts": [
+            "High Altitude Pulmonary Edema Pathophysiology",
+            "Hypothermia Afterdrop and Rewarming Shock",
+            "Improvised Tourniquet Hemorrhage Control",
+            "Snakebite Envenomation Antivenom Indications",
+            "Avalanche Burial Asphyxiation and Trauma",
+            "Waterborne Pathogen Field Purification"
           ]
         }
       ]
@@ -5458,6 +5608,18 @@
             "Backflow and Cross-Connection",
             "Drainage Slope and Venting",
             "Water Hammer"
+          ]
+        },
+        {
+          "id": "equestrian_craft",
+          "name": "Equestrian Craft",
+          "concepts": [
+            "Farriery Hoof Balance Biomechanics",
+            "Equine Dentition Floating Angles",
+            "Dressage Collection Kinematics",
+            "Saddle Fitting Pressure Distribution",
+            "Equine Behavior Conditioning Schedules",
+            "Stable Management Biosecurity Protocols"
           ]
         },
         {
@@ -6412,6 +6574,18 @@
           ]
         },
         {
+          "id": "police_science_and_investigative_practice",
+          "name": "Police Science & Investigative Practice",
+          "concepts": [
+            "Investigative Interviewing Cognitive Load Techniques",
+            "Crime Scene Bloodstain Pattern Analysis",
+            "Use of Force Continuum Decision-Making",
+            "Geographic Profiling of Serial Offenses",
+            "Digital Forensics Chain of Custody",
+            "Undercover Operation Identity Deconfliction"
+          ]
+        },
+        {
           "id": "political_science",
           "name": "Political Science",
           "concepts": [
@@ -6471,6 +6645,18 @@
           ]
         },
         {
+          "id": "special_education_and_inclusive_practice",
+          "name": "Special Education & Inclusive Practice",
+          "concepts": [
+            "Individualized Education Program Goal Setting",
+            "Applied Behavior Analysis Token Economies",
+            "Universal Design for Learning Scaffolding",
+            "Augmentative and Alternative Communication Prompting",
+            "Dyslexia Phonological Processing Interventions",
+            "Neurodivergent Sensory Diet Modulation"
+          ]
+        },
+        {
           "id": "survey_methodology_and_social_statistics",
           "name": "Survey Methodology & Social Statistics",
           "concepts": [
@@ -6480,6 +6666,18 @@
             "Weighting and Post-Stratification",
             "Panel Attrition",
             "Mode Effects in Collection"
+          ]
+        },
+        {
+          "id": "technical_and_professional_communication",
+          "name": "Technical & Professional Communication",
+          "concepts": [
+            "Plain Language Cognitive Load Reduction",
+            "User-Centered Information Architecture",
+            "Crisis Communication Empathy Sequencing",
+            "Instructional Design Task Analysis",
+            "Regulatory Compliance Documentation",
+            "Visual Hierarchy in Data Display"
           ]
         },
         {

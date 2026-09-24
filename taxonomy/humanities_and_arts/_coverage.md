@@ -110,5 +110,5 @@ Reference systems used:
 - Judged covered, not split: philosophy of religion (lives in Religious
   Studies & Theology), memory studies (Social & Cultural History + Museum &
   Heritage), prosody & versification (Rhetoric & Poetics).
-- Still open: creative nonfiction & life writing, Western esotericism studies,
-  numismatics (folds into Archaeology / Museum & Heritage for now).
+- _The final gap-fill round added the remaining 3 open disciplines: Creative Nonfiction & Life Writing, Western Esotericism Studies, and Numismatics._
+- No open discipline gaps currently listed.
